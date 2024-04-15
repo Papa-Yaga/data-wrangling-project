@@ -1,0 +1,1292 @@
+manufacturer,year,model,total_range_in_mls,electric_consumption,electric_storage,analogue_consumption,analogue_storage,emission_value,min_price,max_price,car_type
+Chevrolet,2023,Bolt EV,259,120,7.5,0,0.0,0,26500.0,29700.0,Electricity
+Chevrolet,2022,Bolt EV,259,120,7.5,0,0.0,0,31000.0,34200.0,Electricity
+Chevrolet,2019,Bolt EV,238,119,9.3,0,0.0,0,36620.0,41020.0,Electricity
+Chevrolet,2021,Bolt EV,259,118,10.0,0,0.0,0,36500.0,41700.0,Electricity
+Chevrolet,2020,Bolt EV,259,118,10.0,0,0.0,0,36620.0,41020.0,Electricity
+Chevrolet,2023,Bolt EUV,247,115,7.5,0,0.0,0,27800.0,32300.0,Electricity
+Chevrolet,2022,Bolt EUV,247,115,7.5,0,0.0,0,33000.0,37500.0,Electricity
+Chevrolet,2024,Blazer EV AWD,279,96,9.5,0,0.0,0,50195.0,56200.0,Electricity
+Chevrolet,2019,Volt,393,106,4.5,106,8.9,51,33520.0,38120.0,Electricity
+Chevrolet,2024,Silverado EV,450,67,11.0,0,0.0,0,,,Electricity
+Chevrolet,2024,Silverado EV,598,63,12.7,0,0.0,0,,,Electricity
+Chevrolet,2019,Malibu Hybrid,500,0,0.0,46,13.0,194,28220.0,28220.0,Regular Gasoline
+Chevrolet,2019,Cruze,472,0,0.0,37,13.5,294,17995.0,25620.0,Diesel
+Chevrolet,2019,Cruze Hatchback,452,0,0.0,35,13.5,310,19620.0,26120.0,Diesel
+Chevrolet,2019,Cruze,297,0,0.0,33,13.7,267,17995.0,25620.0,Regular Gasoline
+Chevrolet,2022,Spark,297,0,0.0,33,9.0,266,13600.0,18100.0,Regular Gasoline
+Chevrolet,2021,Spark,297,0,0.0,33,9.0,266,13400.0,17900.0,Regular Gasoline
+Chevrolet,2020,Spark,297,0,0.0,33,9.0,269,13220.0,17720.0,Regular Gasoline
+Chevrolet,2019,Spark,297,0,0.0,33,9.0,271,13220.0,17720.0,Regular Gasoline
+Chevrolet,2022,Spark ACTIV,297,0,0.0,33,9.0,266,16600.0,17700.0,Regular Gasoline
+Chevrolet,2021,Spark ACTIV,297,0,0.0,33,9.0,266,16400.0,17500.0,Regular Gasoline
+Chevrolet,2020,Spark ACTIV,297,0,0.0,33,9.0,269,16220.0,17320.0,Regular Gasoline
+Chevrolet,2019,Spark ACTIV,297,0,0.0,33,9.0,271,16220.0,17320.0,Regular Gasoline
+Chevrolet,2022,Spark,297,0,0.0,33,9.0,273,13600.0,18100.0,Regular Gasoline
+Chevrolet,2021,Spark,297,0,0.0,33,9.0,273,13400.0,17900.0,Regular Gasoline
+Chevrolet,2020,Spark,297,0,0.0,33,9.0,273,13220.0,17720.0,Regular Gasoline
+Chevrolet,2019,Spark,288,0,0.0,33,9.0,273,13220.0,17720.0,Regular Gasoline
+Chevrolet,2022,Spark ACTIV,288,0,0.0,32,9.0,278,16600.0,17700.0,Regular Gasoline
+Chevrolet,2021,Spark ACTIV,288,0,0.0,32,9.0,278,16400.0,17500.0,Regular Gasoline
+Chevrolet,2020,Spark ACTIV,288,0,0.0,32,9.0,278,16220.0,17320.0,Regular Gasoline
+Chevrolet,2019,Spark ACTIV,506,0,0.0,32,9.0,278,16220.0,17320.0,Regular Gasoline
+Chevrolet,2022,Malibu,506,0,0.0,32,15.8,275,23400.0,33500.0,Regular Gasoline
+Chevrolet,2021,Malibu,506,0,0.0,32,15.8,273,22140.0,33370.0,Regular Gasoline
+Chevrolet,2020,Malibu,477,0,0.0,32,15.8,298,22095.0,33320.0,Regular Gasoline
+Chevrolet,2019,Malibu,438,0,0.0,32,0.0,281,22090.0,31820.0,Regular Gasoline
+Chevrolet,2019,Equinox FWD,438,0,0.0,32,14.9,321,23800.0,33900.0,Diesel
+Chevrolet,2019,Cruze,438,0,0.0,32,13.7,277,17995.0,25620.0,Regular Gasoline
+Chevrolet,2019,Cruze Hatchback,499,0,0.0,32,13.7,277,19620.0,26120.0,Regular Gasoline
+Chevrolet,2019,Cruze Premier,409,0,0.0,32,13.7,277,,,Regular Gasoline
+Chevrolet,2019,Equinox AWD,409,0,0.0,32,15.6,319,27600.0,35700.0,Diesel
+Chevrolet,2024,Trailblazer FWD,409,0,0.0,31,13.2,290,23100.0,27100.0,Regular Gasoline
+Chevrolet,2023,Trailblazer FWD,409,0,0.0,31,13.2,290,22100.0,26200.0,Regular Gasoline
+Chevrolet,2022,Trailblazer FWD,425,0,0.0,31,13.2,289,21600.0,25700.0,Regular Gasoline
+Chevrolet,2021,Trailblazer FWD,378,0,0.0,31,13.2,288,19000.0,25400.0,Regular Gasoline
+Chevrolet,2019,Cruze Premier Hatchback,396,0,0.0,31,13.7,286,,,Regular Gasoline
+Chevrolet,2019,Sonic,396,0,0.0,31,12.2,285,15420.0,20720.0,Regular Gasoline
+Chevrolet,2023,Trailblazer FWD,474,0,0.0,30,13.2,296,22100.0,26200.0,Regular Gasoline
+Chevrolet,2022,Trailblazer FWD,383,0,0.0,30,13.2,296,21600.0,25700.0,Regular Gasoline
+Chevrolet,2024,Trax,354,0,0.0,30,0.0,298,20400.0,23900.0,Regular Gasoline
+Chevrolet,2023,Malibu,354,0,0.0,30,15.8,292,25000.0,31500.0,Regular Gasoline
+Chevrolet,2021,Trailblazer FWD,354,0,0.0,29,13.2,302,19000.0,25400.0,Regular Gasoline
+Chevrolet,2019,Sonic 5,354,0,0.0,29,12.2,301,18020.0,21520.0,Regular Gasoline
+Chevrolet,2020,Sonic,354,0,0.0,29,12.2,308,16720.0,20720.0,Regular Gasoline
+Chevrolet,2019,Sonic,417,0,0.0,29,12.2,308,15420.0,20720.0,Regular Gasoline
+Chevrolet,2020,Sonic 5,417,0,0.0,29,12.2,308,19420.0,21520.0,Regular Gasoline
+Chevrolet,2019,Sonic 5,417,0,0.0,29,12.2,308,18020.0,21520.0,Regular Gasoline
+Chevrolet,2019,Equinox FWD,417,0,0.0,28,14.9,315,23800.0,33900.0,Regular Gasoline
+Chevrolet,2024,Equinox FWD,417,0,0.0,28,14.9,310,26600.0,31800.0,Regular Gasoline
+Chevrolet,2023,Equinox FWD,417,0,0.0,28,14.9,317,26600.0,31800.0,Regular Gasoline
+Chevrolet,2022,Equinox FWD,392,0,0.0,28,14.9,318,25800.0,31000.0,Regular Gasoline
+Chevrolet,2021,Equinox FWD,392,0,0.0,28,14.9,318,23800.0,31400.0,Regular Gasoline
+Chevrolet,2020,Equinox FWD,392,0,0.0,28,14.9,315,23800.0,34100.0,Regular Gasoline
+Chevrolet,2019,Trax,370,0,0.0,28,14.0,316,21300.0,27600.0,Regular Gasoline
+Chevrolet,2021,Trax FWD,370,0,0.0,28,14.0,316,21400.0,23200.0,Regular Gasoline
+Chevrolet,2020,Trax FWD,370,0,0.0,28,14.0,316,21300.0,27600.0,Regular Gasoline
+Chevrolet,2023,Trailblazer AWD,356,0,0.0,28,13.2,320,24100.0,27700.0,Regular Gasoline
+Chevrolet,2022,Trailblazer AWD,421,0,0.0,28,13.2,313,23600.0,27200.0,Regular Gasoline
+Chevrolet,2021,Trailblazer AWD,421,0,0.0,28,13.2,314,23500.0,26900.0,Regular Gasoline
+Chevrolet,2024,Trailblazer AWD,421,0,0.0,27,13.2,329,25100.0,28700.0,Regular Gasoline
+Chevrolet,2022,Equinox AWD,421,0,0.0,27,15.6,327,27400.0,32600.0,Regular Gasoline
+Chevrolet,2021,Equinox AWD,378,0,0.0,27,15.6,330,27900.0,33000.0,Regular Gasoline
+Chevrolet,2020,Equinox AWD,378,0,0.0,27,15.6,324,27900.0,35700.0,Regular Gasoline
+Chevrolet,2019,Equinox AWD,648,0,0.0,27,15.6,334,27600.0,35700.0,Regular Gasoline
+Chevrolet,2022,Trax FWD,648,0,0.0,27,14.0,329,21400.0,23200.0,Regular Gasoline
+Chevrolet,2021,Trax FWD,406,0,0.0,27,14.0,325,21400.0,23200.0,Regular Gasoline
+Chevrolet,2021,Silverado 2WD,406,0,0.0,27,24.0,383,29300.0,53900.0,Diesel
+Chevrolet,2020,Silverado 2WD,624,0,0.0,27,24.0,383,28300.0,53300.0,Diesel
+Chevrolet,2024,Equinox AWD,364,0,0.0,26,15.6,339,28200.0,33400.0,Regular Gasoline
+Chevrolet,2023,Equinox AWD,364,0,0.0,26,15.6,340,28200.0,33400.0,Regular Gasoline
+Chevrolet,2023,Silverado 2WD,364,0,0.0,26,24.0,396,36300.0,62100.0,Diesel
+Chevrolet,2021,Trax AWD,624,0,0.0,26,14.0,344,22900.0,24700.0,Regular Gasoline
+Chevrolet,2020,Trax AWD,364,0,0.0,26,14.0,344,22800.0,29100.0,Regular Gasoline
+Chevrolet,2019,Trax AWD,364,0,0.0,26,14.0,344,22800.0,29100.0,Regular Gasoline
+Chevrolet,2022,Silverado 2WD,624,0,0.0,26,24.0,387,34600.0,59800.0,Diesel
+Chevrolet,2022,Trax AWD,411,0,0.0,26,14.0,342,22020.0,23820.0,Regular Gasoline
+Chevrolet,2021,Trax AWD,411,0,0.0,26,14.0,338,22900.0,24700.0,Regular Gasoline
+Chevrolet,2024,Silverado 2WD,411,0,0.0,26,24.0,397,36800.0,62700.0,Diesel
+Chevrolet,2022,Malibu,411,0,0.0,26,15.8,342,23400.0,33500.0,Premium Gasoline
+Chevrolet,2021,Malibu,600,0,0.0,26,15.8,342,22140.0,33370.0,Regular Gasoline
+Chevrolet,2020,Malibu,475,0,0.0,26,15.8,344,22095.0,33320.0,Premium Gasoline
+Chevrolet,2019,Malibu,475,0,0.0,26,15.8,344,22090.0,31820.0,Premium Gasoline
+Chevrolet,2020,Silverado 4WD,475,0,0.0,25,24.0,405,35500.0,56800.0,Diesel
+Chevrolet,2020,Camaro,475,0,0.0,25,19.0,353,,,Premium Gasoline
+Chevrolet,2019,Camaro,475,0,0.0,25,19.0,354,25000.0,68000.0,Premium Gasoline
+Chevrolet,2023,Camaro,485,0,0.0,25,19.0,360,26400.0,73300.0,Premium Gasoline
+Chevrolet,2022,Camaro,485,0,0.0,25,19.0,358,,,Premium Gasoline
+Chevrolet,2021,Camaro,485,0,0.0,25,19.0,358,25000.0,69000.0,Premium Gasoline
+Chevrolet,2024,Blazer FWD,485,0,0.0,25,19.4,358,35400.0,42800.0,Regular Gasoline
+Chevrolet,2023,Blazer FWD,372,0,0.0,25,19.4,365,35100.0,42800.0,Regular Gasoline
+Chevrolet,2022,Blazer FWD,372,0,0.0,25,19.4,358,33400.0,41100.0,Regular Gasoline
+Chevrolet,2021,Blazer FWD,462,0,0.0,25,19.4,349,28800.0,42700.0,Regular Gasoline
+Chevrolet,2020,Equinox FWD,576,0,0.0,25,14.9,350,23800.0,34100.0,Premium Gasoline
+Chevrolet,2019,Equinox FWD,374,0,0.0,25,14.9,350,23800.0,33900.0,Premium Gasoline
+Chevrolet,2019,Impala,374,0,0.0,25,18.5,362,28020.0,36720.0,Regular Gasoline
+Chevrolet,2024,Silverado 4WD,521,0,0.0,24,24.0,416,41400.0,66500.0,Diesel
+Chevrolet,2020,Equinox AWD,521,0,0.0,24,15.6,367,27900.0,35700.0,Premium Gasoline
+Chevrolet,2019,Equinox AWD,521,0,0.0,24,15.6,367,27600.0,35700.0,Premium Gasoline
+Chevrolet,2024,Blazer AWD,521,0,0.0,24,21.7,368,38100.0,45700.0,Regular Gasoline
+Chevrolet,2023,Blazer AWD,466,0,0.0,24,21.7,368,37800.0,45700.0,Regular Gasoline
+Chevrolet,2022,Blazer AWD,576,0,0.0,24,21.7,368,36100.0,44000.0,Regular Gasoline
+Chevrolet,2021,Blazer AWD,576,0,0.0,24,21.7,362,35400.0,44900.0,Regular Gasoline
+Chevrolet,2019,Blazer FWD,576,0,0.0,24,19.4,373,28800.0,42700.0,Regular Gasoline
+Chevrolet,2023,Silverado 4WD,576,0,0.0,24,24.0,425,40900.0,65900.0,Diesel
+Chevrolet,2023,Silverado 4WD,466,0,0.0,24,24.0,423,40900.0,65900.0,Diesel
+Chevrolet,2022,Silverado 4WD,576,0,0.0,24,24.0,427,39200.0,63600.0,Diesel
+Chevrolet,2021,Silverado 4WD,576,0,0.0,24,24.0,430,33900.0,57700.0,Diesel
+Chevrolet,2020,Blazer FWD,576,0,0.0,24,19.4,362,28800.0,42700.0,Regular Gasoline
+Chevrolet,2024,Tahoe 2WD,672,0,0.0,24,24.0,425,56200.0,76900.0,Diesel
+Chevrolet,2023,Tahoe 2WD,552,0,0.0,24,24.0,428,54200.0,74400.0,Diesel
+Chevrolet,2022,Tahoe 2WD,499,0,0.0,24,24.0,425,49700.0,70000.0,Diesel
+Chevrolet,2021,Tahoe 2WD,446,0,0.0,24,28.0,421,49000.0,69600.0,Diesel
+Chevrolet,2022,Silverado 4WD,446,0,0.0,23,24.0,443,39200.0,63600.0,Diesel
+Chevrolet,2020,Blazer AWD,644,0,0.0,23,21.7,374,34800.0,45600.0,Regular Gasoline
+Chevrolet,2021,Blazer FWD,644,0,0.0,23,19.4,382,28800.0,42700.0,Regular Gasoline
+Chevrolet,2020,Blazer FWD,644,0,0.0,23,19.4,382,28800.0,42700.0,Regular Gasoline
+Chevrolet,2024,Suburban 2WD,644,0,0.0,23,28.0,442,59200.0,79900.0,Diesel
+Chevrolet,2023,Suburban 2WD,552,0,0.0,23,28.0,442,56900.0,77100.0,Diesel
+Chevrolet,2022,Suburban 2WD,437,0,0.0,23,28.0,442,52400.0,72700.0,Diesel
+Chevrolet,2021,Suburban 2WD,437,0,0.0,23,28.0,437,51700.0,72300.0,Diesel
+Chevrolet,2024,Silverado 4WD,483,0,0.0,23,24.0,450,41400.0,66500.0,Diesel
+Chevrolet,2020,Camaro,483,0,0.0,23,19.0,378,,,Premium Gasoline
+Chevrolet,2019,Camaro,483,0,0.0,23,19.0,379,25000.0,68000.0,Premium Gasoline
+Chevrolet,2022,Colorado 2WD,483,0,0.0,23,21.0,435,25200.0,34800.0,Diesel
+Chevrolet,2021,Colorado 2WD,528,0,0.0,23,21.0,435,25200.0,33800.0,Diesel
+Chevrolet,2020,Colorado 2WD,528,0,0.0,23,21.0,435,21300.0,33900.0,Diesel
+Chevrolet,2019,Colorado 2WD,528,0,0.0,23,21.0,435,20600.0,34000.0,Diesel
+Chevrolet,2024,Silverado Mud Terrain Tires 4WD,427,0,0.0,22,24.0,463,,,Diesel
+Chevrolet,2024,Silverado Mud Terrain Tires 4WD,427,0,0.0,22,24.0,471,,,Diesel
+Chevrolet,2023,Silverado Mud Terrain Tires 4WD,462,0,0.0,22,24.0,463,,,Diesel
+Chevrolet,2021,Blazer FWD,462,0,0.0,22,19.4,404,28800.0,42700.0,Regular Gasoline
+Chevrolet,2019,Blazer FWD,462,0,0.0,22,19.4,405,28800.0,42700.0,Regular Gasoline
+Chevrolet,2020,Colorado 2WD,616,0,0.0,22,21.0,406,21300.0,33900.0,Regular Gasoline
+Chevrolet,2019,Colorado 2WD,616,0,0.0,22,21.0,406,20600.0,34000.0,Regular Gasoline
+Chevrolet,2019,Colorado 2WD,616,0,0.0,22,21.0,403,20600.0,34000.0,Regular Gasoline
+Chevrolet,2024,Suburban 4WD,616,0,0.0,22,28.0,462,62200.0,82900.0,Diesel
+Chevrolet,2023,Suburban 4WD,528,0,0.0,22,28.0,462,59900.0,80100.0,Diesel
+Chevrolet,2022,Suburban 4WD,528,0,0.0,22,28.0,462,55400.0,75700.0,Diesel
+Chevrolet,2021,Suburban 4WD,528,0,0.0,22,28.0,444,54700.0,75300.0,Diesel
+Chevrolet,2024,Tahoe 4WD,616,0,0.0,22,24.0,462,59200.0,79900.0,Diesel
+Chevrolet,2023,Tahoe 4WD,471,0,0.0,22,24.0,462,57200.0,77400.0,Diesel
+Chevrolet,2022,Tahoe 4WD,471,0,0.0,22,24.0,462,52700.0,73000.0,Diesel
+Chevrolet,2021,Tahoe 4WD,418,0,0.0,22,28.0,444,52000.0,72600.0,Diesel
+Chevrolet,2019,Traverse FWD,418,0,0.0,22,0.0,404,29930.0,45500.0,Premium Gasoline
+Chevrolet,2023,Colorado 2WD,418,0,0.0,22,21.4,406,29200.0,31600.0,Regular Gasoline
+Chevrolet,2024,Colorado 2WD,418,0,0.0,22,21.4,412,29500.0,31900.0,Regular Gasoline
+Chevrolet,2022,Camaro,418,0,0.0,22,19.0,385,,,Premium Gasoline
+Chevrolet,2021,Camaro,462,0,0.0,22,19.0,397,25000.0,69000.0,Premium Gasoline
+Chevrolet,2020,Camaro,462,0,0.0,22,19.0,397,,,Regular Gasoline
+Chevrolet,2019,Camaro,462,0,0.0,22,19.0,396,25000.0,68000.0,Regular Gasoline
+Chevrolet,2023,Camaro,462,0,0.0,22,19.0,401,26400.0,73300.0,Premium Gasoline
+Chevrolet,2022,Colorado 4WD,407,0,0.0,22,21.0,455,29100.0,38600.0,Diesel
+Chevrolet,2021,Colorado 4WD,407,0,0.0,22,21.0,455,29100.0,37600.0,Diesel
+Chevrolet,2020,Colorado 4WD,427,0,0.0,22,21.0,456,28700.0,37700.0,Diesel
+Chevrolet,2019,Colorado 4WD,427,0,0.0,22,21.0,455,28700.0,37300.0,Diesel
+Chevrolet,2020,Impala,427,0,0.0,22,18.5,406,31620.0,36720.0,Regular Gasoline
+Chevrolet,2019,Impala,462,0,0.0,22,18.5,406,28020.0,36720.0,Regular Gasoline
+Chevrolet,2023,Blazer FWD,462,0,0.0,22,19.4,404,35100.0,42800.0,Regular Gasoline
+Chevrolet,2022,Blazer FWD,418,0,0.0,22,19.4,405,33400.0,41100.0,Regular Gasoline
+Chevrolet,2024,Blazer FWD,418,0,0.0,22,19.4,411,35400.0,42800.0,Regular Gasoline
+Chevrolet,2022,Colorado 2WD,418,0,0.0,22,21.0,413,25200.0,34800.0,Regular Gasoline
+Chevrolet,2021,Colorado 2WD,418,0,0.0,22,21.0,413,25200.0,33800.0,Regular Gasoline
+Chevrolet,2024,Camaro,407,0,0.0,22,19.0,407,30900.0,78100.0,Regular Gasoline
+Chevrolet,2023,Camaro,296,0,0.0,22,19.0,407,26400.0,73300.0,Regular Gasoline
+Chevrolet,2022,Camaro,407,0,0.0,22,19.0,404,,,Regular Gasoline
+Chevrolet,2021,Camaro,296,0,0.0,22,19.0,404,25000.0,69000.0,Regular Gasoline
+Chevrolet,2020,Impala,504,0,0.0,22,18.5,411,31620.0,36720.0,Regular Gasoline
+Chevrolet,2019,Impala,504,0,0.0,22,18.5,409,28020.0,36720.0,Regular Gasoline
+Chevrolet,2021,Silverado 2WD,504,0,0.0,21,24.0,423,29300.0,53900.0,Regular Gasoline
+Chevrolet,2021,Silverado 2WD,504,0,0.0,21,24.0,421,29300.0,53900.0,Regular Gasoline
+Chevrolet,2020,Silverado 2WD,504,0,0.0,21,24.0,421,28300.0,53300.0,Regular Gasoline
+Chevrolet,2019,Silverado C10 2WD,504,0,0.0,21,24.0,421,32200.0,53300.0,Regular Gasoline
+Chevrolet,2022,Silverado Mud Terrain Tires 4WD,456,0,0.0,21,24.0,479,,,Diesel
+Chevrolet,2024,Silverado 4WD ZR2,456,0,0.0,21,24.0,484,69900.0,69900.0,Diesel
+Chevrolet,2023,Blazer AWD,407,0,0.0,21,21.7,417,37800.0,45700.0,Regular Gasoline
+Chevrolet,2022,Blazer AWD,407,0,0.0,21,21.7,417,36100.0,44000.0,Regular Gasoline
+Chevrolet,2021,Blazer AWD,449,0,0.0,21,19.4,413,35400.0,44900.0,Regular Gasoline
+Chevrolet,2020,Blazer FWD,441,0,0.0,21,19.4,414,28800.0,42700.0,Regular Gasoline
+Chevrolet,2024,Colorado 2WD,441,0,0.0,21,21.4,420,29500.0,31900.0,Regular Gasoline
+Chevrolet,2022,Colorado 4WD,441,0,0.0,21,21.0,431,29100.0,38600.0,Regular Gasoline
+Chevrolet,2021,Colorado 4WD,441,0,0.0,21,21.0,431,29100.0,37600.0,Regular Gasoline
+Chevrolet,2020,Colorado 4WD,449,0,0.0,21,21.0,428,28700.0,37700.0,Regular Gasoline
+Chevrolet,2019,Colorado 4WD,456,0,0.0,21,21.0,429,28700.0,37300.0,Regular Gasoline
+Chevrolet,2023,Colorado 4WD,407,0,0.0,21,21.4,427,32500.0,39900.0,Regular Gasoline
+Chevrolet,2023,Traverse FWD,456,0,0.0,21,0.0,417,34520.0,52000.0,Regular Gasoline
+Chevrolet,2022,Traverse FWD,456,0,0.0,21,0.0,417,33700.0,51200.0,Regular Gasoline
+Chevrolet,2021,Traverse FWD,441,0,0.0,21,0.0,420,29800.0,50900.0,Regular Gasoline
+Chevrolet,2020,Traverse FWD,441,0,0.0,21,0.0,420,29800.0,50900.0,Regular Gasoline
+Chevrolet,2019,Traverse FWD,480,0,0.0,21,0.0,420,29930.0,45500.0,Regular Gasoline
+Chevrolet,2024,Blazer AWD,480,0,0.0,21,21.7,422,38100.0,45700.0,Regular Gasoline
+Chevrolet,2024,Traverse Limited FWD,480,0,0.0,21,19.4,433,34520.0,52000.0,Regular Gasoline
+Chevrolet,2020,Blazer AWD,480,0,0.0,21,21.7,433,34800.0,45600.0,Regular Gasoline
+Chevrolet,2019,Blazer AWD,480,0,0.0,21,21.7,426,36000.0,45600.0,Regular Gasoline
+Chevrolet,2022,Colorado 2WD,480,0,0.0,21,21.0,424,25200.0,34800.0,Regular Gasoline
+Chevrolet,2021,Colorado 2WD,480,0,0.0,21,21.0,424,25200.0,33800.0,Regular Gasoline
+Chevrolet,2023,Silverado 2WD,480,0,0.0,20,24.0,446,36300.0,62100.0,Regular Gasoline
+Chevrolet,2022,Silverado 2WD,480,0,0.0,20,24.0,441,34600.0,59800.0,Regular Gasoline
+Chevrolet,2022,Silverado 2WD,480,0,0.0,20,24.0,441,34600.0,59800.0,Regular Gasoline
+Chevrolet,2020,Silverado 2WD,480,0,0.0,20,24.0,422,28300.0,53300.0,Regular Gasoline
+Chevrolet,2021,Silverado 4WD,420,0,0.0,20,24.0,442,33900.0,57700.0,Regular Gasoline
+Chevrolet,2021,Silverado 4WD,420,0,0.0,20,24.0,443,33900.0,57700.0,Regular Gasoline
+Chevrolet,2020,Silverado 4WD,428,0,0.0,20,24.0,442,35500.0,56800.0,Regular Gasoline
+Chevrolet,2020,Silverado 4WD,480,0,0.0,20,24.0,442,35500.0,56800.0,Regular Gasoline
+Chevrolet,2019,Silverado C10 2WD,428,0,0.0,20,24.0,442,32200.0,53300.0,Regular Gasoline
+Chevrolet,2019,Silverado K10 4WD,480,0,0.0,20,24.0,442,35500.0,56600.0,Regular Gasoline
+Chevrolet,2023,Silverado 2WD,434,0,0.0,20,24.0,453,36300.0,62100.0,Regular Gasoline
+Chevrolet,2020,Colorado 2WD,480,0,0.0,20,21.0,440,21300.0,33900.0,Regular Gasoline
+Chevrolet,2019,Colorado 2WD,380,0,0.0,20,21.0,440,20600.0,34000.0,Regular Gasoline
+Chevrolet,2023,Colorado 2WD,380,0,0.0,20,21.4,446,29200.0,31600.0,Regular Gasoline
+Chevrolet,2024,Colorado 4WD,380,0,0.0,20,24.0,446,32800.0,40200.0,Regular Gasoline
+Chevrolet,2024,Colorado 4WD,380,0,0.0,20,21.4,447,32800.0,40200.0,Regular Gasoline
+Chevrolet,2024,Silverado 2WD,380,0,0.0,20,24.0,453,36800.0,62700.0,Regular Gasoline
+Chevrolet,2023,Traverse AWD,380,0,0.0,20,0.0,448,36520.0,54200.0,Regular Gasoline
+Chevrolet,2022,Traverse AWD,380,0,0.0,20,0.0,448,35700.0,53400.0,Regular Gasoline
+Chevrolet,2021,Traverse AWD,380,0,0.0,20,0.0,439,34900.0,53100.0,Regular Gasoline
+Chevrolet,2020,Traverse AWD,380,0,0.0,20,0.0,442,34900.0,53200.0,Regular Gasoline
+Chevrolet,2019,Traverse AWD,380,0,0.0,20,0.0,438,34900.0,53200.0,Regular Gasoline
+Chevrolet,2024,Traverse Limited AWD,380,0,0.0,20,21.7,450,36520.0,54200.0,Regular Gasoline
+Chevrolet,2020,Silverado 2WD,380,0,0.0,20,24.0,448,28300.0,53300.0,Regular Gasoline
+Chevrolet,2020,Camaro,399,0,0.0,20,19.0,451,,,Premium Gasoline
+Chevrolet,2019,Camaro,399,0,0.0,20,19.0,445,25000.0,68000.0,Regular Gasoline
+Chevrolet,2019,Camaro,399,0,0.0,20,19.0,450,25000.0,68000.0,Premium Gasoline
+Chevrolet,2024,Camaro,399,0,0.0,20,19.0,451,30900.0,78100.0,Regular Gasoline
+Chevrolet,2024,Camaro,456,0,0.0,20,19.0,452,30900.0,78100.0,Premium Gasoline
+Chevrolet,2023,Camaro,456,0,0.0,20,19.0,453,26400.0,73300.0,Regular Gasoline
+Chevrolet,2023,Camaro,456,0,0.0,20,19.0,453,26400.0,73300.0,Premium Gasoline
+Chevrolet,2022,Camaro,456,0,0.0,20,19.0,452,,,Regular Gasoline
+Chevrolet,2022,Camaro,399,0,0.0,20,19.0,452,25000.0,69000.0,Premium Gasoline
+Chevrolet,2021,Camaro,399,0,0.0,20,19.0,453,25000.0,69000.0,Regular Gasoline
+Chevrolet,2021,Camaro,399,0,0.0,20,19.0,452,25000.0,69000.0,Premium Gasoline
+Chevrolet,2020,Camaro,399,0,0.0,20,19.0,451,,,Regular Gasoline
+Chevrolet,2022,Colorado ZR2 4WD,456,0,0.0,19,21.0,525,42600.0,44200.0,Diesel
+Chevrolet,2021,Colorado ZR2 4WD,456,0,0.0,19,21.0,525,41600.0,43200.0,Diesel
+Chevrolet,2020,Colorado ZR2 4WD,456,0,0.0,19,21.0,525,41400.0,43000.0,Diesel
+Chevrolet,2019,Colorado ZR2 4WD,456,0,0.0,19,21.0,524,41300.0,42900.0,Diesel
+Chevrolet,2024,Silverado 4WD,407,0,0.0,19,24.0,468,41400.0,66500.0,Regular Gasoline
+Chevrolet,2023,Silverado 4WD,456,0,0.0,19,24.0,462,40900.0,65900.0,Regular Gasoline
+Chevrolet,2023,Silverado 4WD,456,0,0.0,19,24.0,459,40900.0,65900.0,Regular Gasoline
+Chevrolet,2019,Silverado K10 4WD,456,0,0.0,19,24.0,464,35500.0,56600.0,Regular Gasoline
+Chevrolet,2022,Colorado 4WD,352,0,0.0,19,21.0,465,29100.0,38600.0,Regular Gasoline
+Chevrolet,2021,Colorado 4WD,352,0,0.0,19,21.0,465,29100.0,37600.0,Regular Gasoline
+Chevrolet,2020,Colorado 4WD,361,0,0.0,19,21.0,461,28700.0,37700.0,Regular Gasoline
+Chevrolet,2019,Colorado 4WD,361,0,0.0,19,21.0,461,28700.0,37300.0,Regular Gasoline
+Chevrolet,2019,Silverado C10 XFE 2WD,361,0,0.0,19,24.0,456,32200.0,53300.0,Regular Gasoline
+Chevrolet,2021,Silverado 2WD,361,0,0.0,19,24.0,460,29300.0,53900.0,Regular Gasoline
+Chevrolet,2020,Silverado 2WD,361,0,0.0,19,24.0,460,28300.0,53300.0,Regular Gasoline
+Chevrolet,2019,Silverado C10 2WD,361,0,0.0,19,24.0,467,32200.0,53300.0,Regular Gasoline
+Chevrolet,2023,Colorado 4WD,352,0,0.0,19,21.4,467,32500.0,39900.0,Regular Gasoline
+Chevrolet,2024,Silverado 2WD,352,0,0.0,19,24.0,470,36800.0,62700.0,Regular Gasoline
+Chevrolet,2023,Silverado 2WD,352,0,0.0,19,24.0,478,36300.0,62100.0,Regular Gasoline
+Chevrolet,2023,Silverado 2WD,456,0,0.0,19,24.0,478,36300.0,62100.0,Regular Gasoline
+Chevrolet,2024,Corvette,456,0,0.0,19,18.5,472,68300.0,87050.0,Premium Gasoline
+Chevrolet,2019,Corvette,352,0,0.0,19,18.5,465,55900.0,135400.0,Premium Gasoline
+Chevrolet,2024,Camaro,352,0,0.0,19,19.0,477,30900.0,78100.0,Premium Gasoline
+Chevrolet,2023,Camaro,385,0,0.0,19,19.0,477,26400.0,73300.0,Premium Gasoline
+Chevrolet,2022,Camaro,432,0,0.0,19,19.0,477,,,Premium Gasoline
+Chevrolet,2021,Camaro,432,0,0.0,19,19.0,477,25000.0,69000.0,Premium Gasoline
+Chevrolet,2020,Camaro,385,0,0.0,19,19.0,477,,,Premium Gasoline
+Chevrolet,2019,Camaro,432,0,0.0,19,19.0,477,25000.0,68000.0,Premium Gasoline
+Chevrolet,2023,Corvette,432,0,0.0,19,18.5,480,71800.0,126150.0,Regular Gasoline
+Chevrolet,2022,Corvette,432,0,0.0,19,18.5,478,60900.0,79850.0,Premium Gasoline
+Chevrolet,2024,Corvette E-RAY,432,0,0.0,19,18.5,480,102900.0,120850.0,Premium Gasoline
+Chevrolet,2021,Silverado 4WD,432,0,0.0,19,24.0,481,33900.0,57700.0,Regular Gasoline
+Chevrolet,2020,Silverado 4WD,432,0,0.0,19,24.0,477,35500.0,56800.0,Regular Gasoline
+Chevrolet,2021,Corvette,432,0,0.0,19,18.5,467,58900.0,77850.0,Premium Gasoline
+Chevrolet,2020,Corvette,432,0,0.0,19,18.5,467,58900.0,77850.0,Premium Gasoline
+Chevrolet,2024,Colorado Mud Terrain Tires 4WD,432,0,0.0,18,21.4,494,,,Regular Gasoline
+Chevrolet,2022,Silverado 4WD,432,0,0.0,18,24.0,486,39200.0,63600.0,Regular Gasoline
+Chevrolet,2022,Silverado 4WD,432,0,0.0,18,24.0,489,39200.0,63600.0,Regular Gasoline
+Chevrolet,2023,Colorado Mud Terrain Tires 4WD,432,0,0.0,18,21.4,494,37000.0,37000.0,Regular Gasoline
+Chevrolet,2024,Silverado 4WD,432,0,0.0,18,24.0,506,41400.0,66500.0,Regular Gasoline
+Chevrolet,2024,Silverado 2WD,432,0,0.0,18,24.0,489,36800.0,62700.0,Regular Gasoline
+Chevrolet,2021,Silverado 4WD,432,0,0.0,18,24.0,482,33900.0,57700.0,Regular Gasoline
+Chevrolet,2020,Silverado 4WD,312,0,0.0,18,24.0,494,35500.0,56800.0,Regular Gasoline
+Chevrolet,2019,Silverado K10 4WD,432,0,0.0,18,24.0,491,35500.0,56600.0,Regular Gasoline
+Chevrolet,2024,Silverado 2WD,312,0,0.0,18,24.0,490,36800.0,62700.0,Regular Gasoline
+Chevrolet,2022,Silverado 2WD,432,0,0.0,18,24.0,505,34600.0,59800.0,Regular Gasoline
+Chevrolet,2022,Silverado 2WD,432,0,0.0,18,24.0,502,34600.0,59800.0,Regular Gasoline
+Chevrolet,2022,Silverado 2WD,504,0,0.0,18,24.0,489,34600.0,59800.0,Regular Gasoline
+Chevrolet,2022,Silverado 2WD,432,0,0.0,18,24.0,484,34600.0,59800.0,Regular Gasoline
+Chevrolet,2021,Silverado 4WD,432,0,0.0,18,24.0,493,33900.0,57700.0,Premium Gasoline
+Chevrolet,2021,Silverado 4WD TrailBoss,333,0,0.0,18,24.0,494,48900.0,51800.0,Regular Gasoline
+Chevrolet,2020,Silverado 4WD TrailBoss,558,0,0.0,18,24.0,486,39500.0,48800.0,Regular Gasoline
+Chevrolet,2020,Silverado 4WD TrailBoss,403,0,0.0,18,24.0,494,39500.0,48800.0,Regular Gasoline
+Chevrolet,2024,Silverado 2WD,558,0,0.0,18,24.0,496,36800.0,62700.0,Regular Gasoline
+Chevrolet,2023,Silverado 2WD,558,0,0.0,18,24.0,496,36300.0,62100.0,Regular Gasoline
+Chevrolet,2023,Silverado 2WD,558,0,0.0,18,24.0,500,36300.0,62100.0,Regular Gasoline
+Chevrolet,2022,Silverado 4WD,403,0,0.0,18,24.0,506,39200.0,63600.0,Regular Gasoline
+Chevrolet,2021,Suburban 2WD,468,0,0.0,18,28.0,492,51700.0,72300.0,Regular Gasoline
+Chevrolet,2021,Tahoe 2WD,338,0,0.0,18,24.0,492,49000.0,69600.0,Regular Gasoline
+Chevrolet,2021,Tahoe 4WD,468,0,0.0,18,24.0,496,52000.0,72600.0,Regular Gasoline
+Chevrolet,2019,Corvette,468,0,0.0,18,18.5,490,55900.0,135400.0,Premium Gasoline
+Chevrolet,2020,Suburban C1500 2WD,468,0,0.0,18,31.0,505,53800.0,65500.0,Regular Gasoline
+Chevrolet,2020,Suburban C1500 2WD,338,0,0.0,18,31.0,505,53800.0,65500.0,Regular Gasoline
+Chevrolet,2019,Suburban C1500 2WD,432,0,0.0,18,31.0,505,50800.0,65500.0,Regular Gasoline
+Chevrolet,2019,Suburban C1500 2WD,408,0,0.0,18,31.0,505,50800.0,65500.0,Regular Gasoline
+Chevrolet,2020,Tahoe C1500 2WD,364,0,0.0,18,26.0,505,48000.0,62700.0,Regular Gasoline
+Chevrolet,2020,Tahoe C1500 2WD,408,0,0.0,18,26.0,505,48000.0,62700.0,Regular Gasoline
+Chevrolet,2019,Tahoe C1500 2WD,408,0,0.0,18,26.0,505,48000.0,62700.0,Regular Gasoline
+Chevrolet,2019,Tahoe C1500 2WD,408,0,0.0,18,26.0,505,48000.0,62700.0,Regular Gasoline
+Chevrolet,2021,Silverado 4WD,408,0,0.0,18,24.0,506,33900.0,57700.0,Regular Gasoline
+Chevrolet,2023,Silverado Mud Terrain Tires 4WD,408,0,0.0,17,24.0,512,,,Regular Gasoline
+Chevrolet,2024,Colorado ZR2 4WD,408,0,0.0,17,21.4,527,46800.0,46800.0,Regular Gasoline
+Chevrolet,2021,Silverado 2WD,408,0,0.0,17,24.0,523,29300.0,53900.0,Regular Gasoline
+Chevrolet,2020,Silverado 2WD,408,0,0.0,17,24.0,523,28300.0,53300.0,Regular Gasoline
+Chevrolet,2019,Silverado C10 2WD,357,0,0.0,17,24.0,509,32200.0,53300.0,Regular Gasoline
+Chevrolet,2023,Silverado 4WD,357,0,0.0,17,24.0,523,40900.0,65900.0,Regular Gasoline
+Chevrolet,2023,Silverado 4WD,357,0,0.0,17,24.0,522,40900.0,65900.0,Regular Gasoline
+Chevrolet,2023,Silverado 4WD,357,0,0.0,17,24.0,513,40900.0,65900.0,Premium Gasoline
+Chevrolet,2020,Silverado 4WD,408,0,0.0,17,24.0,516,35500.0,56800.0,Premium Gasoline
+Chevrolet,2019,Silverado K10 4WD,408,0,0.0,17,24.0,516,35500.0,56600.0,Premium Gasoline
+Chevrolet,2022,Colorado ZR2 4WD,314,0,0.0,17,21.0,529,42600.0,44200.0,Regular Gasoline
+Chevrolet,2021,Colorado ZR2 4WD,408,0,0.0,17,21.0,510,41600.0,43200.0,Regular Gasoline
+Chevrolet,2020,Colorado ZR2 4WD,442,0,0.0,17,21.0,532,41400.0,43000.0,Regular Gasoline
+Chevrolet,2019,Colorado ZR2 4WD,408,0,0.0,17,21.0,532,41300.0,42900.0,Regular Gasoline
+Chevrolet,2022,Silverado Mud Terrain Tires 4WD,408,0,0.0,17,24.0,522,,,Regular Gasoline
+Chevrolet,2024,Silverado Mud Terrain Tires 4WD,408,0,0.0,17,24.0,534,,,Regular Gasoline
+Chevrolet,2019,Corvette Z06,408,0,0.0,17,18.5,512,55495.0,132900.0,Premium Gasoline
+Chevrolet,2021,Silverado 2WD,442,0,0.0,17,24.0,513,29300.0,53900.0,Regular Gasoline
+Chevrolet,2019,Silverado LD C15 2WD,442,0,0.0,17,26.0,510,34500.0,39200.0,Regular Gasoline
+Chevrolet,2021,Silverado 2WD,442,0,0.0,17,24.0,523,29300.0,53900.0,Regular Gasoline
+Chevrolet,2020,Silverado 2WD,338,0,0.0,17,24.0,524,28300.0,53300.0,Regular Gasoline
+Chevrolet,2021,Silverado 4WD TrailBoss,442,0,0.0,17,24.0,523,48900.0,51800.0,Regular Gasoline
+Chevrolet,2019,Silverado C10 2WD,338,0,0.0,17,24.0,524,32200.0,53300.0,Regular Gasoline
+Chevrolet,2019,Silverado LD K15 4WD,442,0,0.0,17,26.0,516,38400.0,44000.0,Regular Gasoline
+Chevrolet,2020,Tahoe K1500 4WD,408,0,0.0,17,26.0,525,51000.0,65700.0,Regular Gasoline
+Chevrolet,2020,Tahoe K1500 4WD,408,0,0.0,17,26.0,513,51000.0,65700.0,Regular Gasoline
+Chevrolet,2019,Tahoe K1500 4WD,408,0,0.0,17,26.0,513,51000.0,65700.0,Regular Gasoline
+Chevrolet,2019,Tahoe K1500 4WD,408,0,0.0,17,26.0,513,51000.0,65700.0,Regular Gasoline
+Chevrolet,2024,Silverado 4WD,408,0,0.0,17,24.0,527,41400.0,66500.0,Premium Gasoline
+Chevrolet,2024,Silverado 4WD,408,0,0.0,17,24.0,517,41400.0,66500.0,Regular Gasoline
+Chevrolet,2022,Silverado 4WD,408,0,0.0,17,24.0,522,39200.0,63600.0,Regular Gasoline
+Chevrolet,2022,Silverado 4WD,408,0,0.0,17,24.0,529,39200.0,63600.0,Premium Gasoline
+Chevrolet,2022,Silverado 4WD,408,0,0.0,17,24.0,521,39200.0,63600.0,Regular Gasoline
+Chevrolet,2021,Silverado 4WD,408,0,0.0,17,24.0,530,33900.0,57700.0,Regular Gasoline
+Chevrolet,2021,Silverado 4WD,408,0,0.0,17,24.0,533,33900.0,57700.0,Regular Gasoline
+Chevrolet,2021,Silverado 4WD,312,0,0.0,17,24.0,522,33900.0,57700.0,Premium Gasoline
+Chevrolet,2020,Silverado 4WD,408,0,0.0,17,24.0,525,35500.0,56800.0,Regular Gasoline
+Chevrolet,2020,Silverado 4WD,408,0,0.0,17,24.0,532,35500.0,56800.0,Regular Gasoline
+Chevrolet,2019,Silverado C10 2WD,408,0,0.0,17,24.0,529,32200.0,53300.0,Regular Gasoline
+Chevrolet,2019,Silverado K10 4WD,476,0,0.0,17,24.0,517,35500.0,56600.0,Regular Gasoline
+Chevrolet,2019,Silverado K10 4WD,476,0,0.0,17,24.0,530,35500.0,56600.0,Regular Gasoline
+Chevrolet,2019,Silverado K10 4WD TrailBoss,476,0,0.0,17,24.0,508,39500.0,48600.0,Regular Gasoline
+Chevrolet,2024,Suburban 2WD,476,0,0.0,17,28.0,527,59200.0,79900.0,Regular Gasoline
+Chevrolet,2023,Suburban 2WD,476,0,0.0,17,28.0,527,56900.0,77100.0,Regular Gasoline
+Chevrolet,2022,Suburban 2WD,476,0,0.0,17,28.0,534,52400.0,72700.0,Regular Gasoline
+Chevrolet,2022,Suburban 2WD,408,0,0.0,17,28.0,527,52400.0,72700.0,Regular Gasoline
+Chevrolet,2021,Suburban 2WD,408,0,0.0,17,28.0,525,51700.0,72300.0,Premium Gasoline
+Chevrolet,2021,Suburban 2WD,408,0,0.0,17,28.0,523,51700.0,72300.0,Regular Gasoline
+Chevrolet,2024,Tahoe 2WD,408,0,0.0,17,24.0,527,56200.0,76900.0,Regular Gasoline
+Chevrolet,2023,Tahoe 2WD,408,0,0.0,17,24.0,527,54200.0,74400.0,Regular Gasoline
+Chevrolet,2022,Tahoe 2WD,476,0,0.0,17,24.0,534,49700.0,70000.0,Regular Gasoline
+Chevrolet,2022,Tahoe 2WD,408,0,0.0,17,24.0,527,49700.0,70000.0,Regular Gasoline
+Chevrolet,2021,Tahoe 2WD,408,0,0.0,17,24.0,525,49000.0,69600.0,Premium Gasoline
+Chevrolet,2021,Tahoe 2WD,408,0,0.0,17,28.0,523,49000.0,69600.0,Regular Gasoline
+Chevrolet,2024,Tahoe 4WD,476,0,0.0,17,24.0,527,59200.0,79900.0,Regular Gasoline
+Chevrolet,2023,Tahoe 4WD,408,0,0.0,17,24.0,527,57200.0,77400.0,Regular Gasoline
+Chevrolet,2022,Tahoe 4WD,288,0,0.0,17,24.0,527,52700.0,73000.0,Regular Gasoline
+Chevrolet,2021,Tahoe 4WD,408,0,0.0,17,28.0,523,52000.0,72600.0,Regular Gasoline
+Chevrolet,2024,Silverado 4WD,408,0,0.0,17,24.0,524,41400.0,66500.0,Regular Gasoline
+Chevrolet,2024,Silverado 4WD,288,0,0.0,17,24.0,535,41400.0,66500.0,Regular Gasoline
+Chevrolet,2023,Silverado 4WD,408,0,0.0,17,24.0,524,40900.0,65900.0,Regular Gasoline
+Chevrolet,2023,Silverado 4WD,408,0,0.0,17,24.0,535,40900.0,65900.0,Regular Gasoline
+Chevrolet,2022,Silverado 4WD,408,0,0.0,17,24.0,526,39200.0,63600.0,Regular Gasoline
+Chevrolet,2021,Silverado 4WD TrailBoss,408,0,0.0,17,24.0,522,48900.0,51800.0,Premium Gasoline
+Chevrolet,2021,Silverado 4WD TrailBoss,408,0,0.0,17,24.0,533,48900.0,51800.0,Premium Gasoline
+Chevrolet,2020,Silverado 4WD TrailBoss,408,0,0.0,17,24.0,515,39500.0,48800.0,Premium Gasoline
+Chevrolet,2019,Silverado C10 Cab Chassis 2WD,288,0,0.0,17,0.0,523,,,Regular Gasoline
+Chevrolet,2021,Silverado Cab Chassis 2WD,408,0,0.0,17,0.0,523,,,Regular Gasoline
+Chevrolet,2020,Silverado Cab Chassis 2WD,288,0,0.0,17,0.0,523,,,Regular Gasoline
+Chevrolet,2024,Silverado Mud Terrain Tires 4WD,476,0,0.0,17,24.0,524,,,Regular Gasoline
+Chevrolet,2023,Silverado Mud Terrain Tires 4WD,314,0,0.0,17,24.0,524,,,Regular Gasoline
+Chevrolet,2021,Suburban 4WD,527,0,0.0,17,28.0,515,54700.0,75300.0,Regular Gasoline
+Chevrolet,2022,Silverado Cab Chassis 2WD,527,0,0.0,17,0.0,536,,,Regular Gasoline
+Chevrolet,2019,Corvette Z06,442,0,0.0,17,18.5,532,55495.0,132900.0,Premium Gasoline
+Chevrolet,2020,Suburban C1500 2WD,442,0,0.0,17,31.0,517,53800.0,65500.0,Premium Gasoline
+Chevrolet,2019,Suburban C1500 2WD,442,0,0.0,17,31.0,517,50800.0,65500.0,Premium Gasoline
+Chevrolet,2020,Tahoe C1500 2WD,442,0,0.0,17,26.0,517,48000.0,62700.0,Premium Gasoline
+Chevrolet,2019,Tahoe C1500 2WD,384,0,0.0,17,26.0,517,48000.0,62700.0,Premium Gasoline
+Chevrolet,2020,Tahoe K1500 4WD,342,0,0.0,17,26.0,527,51000.0,65700.0,Premium Gasoline
+Chevrolet,2019,Tahoe K1500 4WD,342,0,0.0,17,26.0,527,51000.0,65700.0,Premium Gasoline
+Chevrolet,2024,Silverado Mud Terrain Tires 4WD,384,0,0.0,16,24.0,542,,,Regular Gasoline
+Chevrolet,2023,Colorado ZR2 4WD,384,0,0.0,16,21.4,539,,,Regular Gasoline
+Chevrolet,2024,Colorado ZR2 Bison 4WD,288,0,0.0,16,21.4,564,,,Regular Gasoline
+Chevrolet,2024,Silverado 2WD,384,0,0.0,16,24.0,546,36800.0,62700.0,Regular Gasoline
+Chevrolet,2022,Silverado 2WD,288,0,0.0,16,24.0,555,34600.0,59800.0,Regular Gasoline
+Chevrolet,2021,Silverado 2WD,384,0,0.0,16,24.0,547,29300.0,53900.0,Regular Gasoline
+Chevrolet,2020,Silverado 2WD,288,0,0.0,16,24.0,545,28300.0,53300.0,Regular Gasoline
+Chevrolet,2024,Silverado 4WD,384,0,0.0,16,24.0,546,41400.0,66500.0,Regular Gasoline
+Chevrolet,2022,Silverado 4WD,384,0,0.0,16,24.0,545,39200.0,63600.0,Regular Gasoline
+Chevrolet,2019,Silverado K10 4WD,384,0,0.0,16,24.0,547,35500.0,56600.0,Regular Gasoline
+Chevrolet,2024,Silverado Mud Terrain Tires 4WD,288,0,0.0,16,24.0,546,,,Regular Gasoline
+Chevrolet,2023,Silverado Mud Terrain Tires 4WD,384,0,0.0,16,24.0,555,,,Regular Gasoline
+Chevrolet,2023,Suburban 4WD,384,0,0.0,16,28.0,545,59900.0,80100.0,Regular Gasoline
+Chevrolet,2022,Suburban 4WD,448,0,0.0,16,28.0,554,55400.0,75700.0,Regular Gasoline
+Chevrolet,2021,Suburban 4WD,448,0,0.0,16,28.0,555,54700.0,75300.0,Regular Gasoline
+Chevrolet,2024,Silverado Cab Chassis 2WD,448,0,0.0,16,0.0,545,,,Regular Gasoline
+Chevrolet,2023,Silverado Cab Chassis 2WD,384,0,0.0,16,0.0,553,,,Regular Gasoline
+Chevrolet,2024,Silverado Mud Terrain Tires 4WD,384,0,0.0,16,24.0,555,,,Regular Gasoline
+Chevrolet,2024,Silverado Mud Terrain Tires 4WD,384,0,0.0,16,24.0,545,,,Regular Gasoline
+Chevrolet,2023,Silverado Mud Terrain Tires 4WD,448,0,0.0,16,24.0,552,,,Regular Gasoline
+Chevrolet,2024,Suburban 4WD,384,0,0.0,16,28.0,557,62200.0,82900.0,Regular Gasoline
+Chevrolet,2023,Silverado Cab Chassis 4WD,384,0,0.0,16,0.0,564,,,Regular Gasoline
+Chevrolet,2022,Silverado Cab Chassis 4WD,496,0,0.0,16,0.0,555,,,Regular Gasoline
+Chevrolet,2021,Silverado 2WD,372,0,0.0,16,24.0,541,29300.0,53900.0,Regular Gasoline
+Chevrolet,2021,Silverado 4WD,496,0,0.0,16,24.0,545,33900.0,57700.0,Regular Gasoline
+Chevrolet,2020,Suburban K1500 4WD,496,0,0.0,16,31.0,543,50800.0,68500.0,Regular Gasoline
+Chevrolet,2020,Suburban K1500 4WD,372,0,0.0,16,31.0,547,50800.0,68500.0,Regular Gasoline
+Chevrolet,2019,Suburban K1500 4WD,496,0,0.0,16,31.0,541,53800.0,68500.0,Regular Gasoline
+Chevrolet,2019,Suburban K1500 4WD,304,0,0.0,16,31.0,541,53800.0,68500.0,Regular Gasoline
+Chevrolet,2024,Camaro,304,0,0.0,16,19.0,561,30900.0,78100.0,Premium Gasoline
+Chevrolet,2023,Camaro,304,0,0.0,16,19.0,559,26400.0,73300.0,Premium Gasoline
+Chevrolet,2022,Camaro,304,0,0.0,16,19.0,562,25000.0,69000.0,Premium Gasoline
+Chevrolet,2021,Camaro,304,0,0.0,16,19.0,564,25000.0,69000.0,Premium Gasoline
+Chevrolet,2020,Camaro,304,0,0.0,16,19.0,565,,,Premium Gasoline
+Chevrolet,2019,Camaro,384,0,0.0,16,19.0,565,25000.0,68000.0,Premium Gasoline
+Chevrolet,2021,Silverado 4WD,448,0,0.0,16,24.0,560,33900.0,57700.0,Regular Gasoline
+Chevrolet,2024,Suburban 2WD,448,0,0.0,16,28.0,555,59200.0,79900.0,Premium Gasoline
+Chevrolet,2023,Suburban 2WD,448,0,0.0,16,28.0,555,56900.0,77100.0,Premium Gasoline
+Chevrolet,2022,Suburban 2WD,448,0,0.0,16,28.0,542,52400.0,72700.0,Premium Gasoline
+Chevrolet,2022,Suburban 2WD,448,0,0.0,16,28.0,547,52400.0,72700.0,Premium Gasoline
+Chevrolet,2021,Suburban 2WD,496,0,0.0,16,28.0,544,51700.0,72300.0,Premium Gasoline
+Chevrolet,2020,Suburban K1500 4WD,496,0,0.0,16,31.0,557,50800.0,68500.0,Premium Gasoline
+Chevrolet,2019,Suburban K1500 4WD,384,0,0.0,16,31.0,553,53800.0,68500.0,Premium Gasoline
+Chevrolet,2024,Tahoe 2WD,384,0,0.0,16,24.0,555,56200.0,76900.0,Premium Gasoline
+Chevrolet,2023,Tahoe 2WD,384,0,0.0,16,24.0,555,54200.0,74400.0,Premium Gasoline
+Chevrolet,2022,Tahoe 2WD,384,0,0.0,16,24.0,542,49700.0,70000.0,Premium Gasoline
+Chevrolet,2022,Tahoe 2WD,448,0,0.0,16,24.0,547,49700.0,70000.0,Premium Gasoline
+Chevrolet,2021,Tahoe 2WD,384,0,0.0,16,28.0,544,49000.0,69600.0,Premium Gasoline
+Chevrolet,2022,Silverado 4WD,384,0,0.0,16,24.0,555,39200.0,63600.0,Premium Gasoline
+Chevrolet,2022,Silverado 4WD,384,0,0.0,16,24.0,555,39200.0,63600.0,Regular Gasoline
+Chevrolet,2022,Silverado 4WD,384,0,0.0,16,24.0,556,39200.0,63600.0,Regular Gasoline
+Chevrolet,2021,Silverado 4WD TrailBoss,384,0,0.0,16,24.0,555,48900.0,51800.0,Premium Gasoline
+Chevrolet,2019,Silverado C10 Cab Chassis 2WD,448,0,0.0,16,24.0,555,,,Regular Gasoline
+Chevrolet,2022,Suburban 4WD,448,0,0.0,16,28.0,569,55400.0,75700.0,Regular Gasoline
+Chevrolet,2022,Suburban 4WD,448,0,0.0,16,28.0,568,55400.0,75700.0,Premium Gasoline
+Chevrolet,2022,Suburban 4WD,448,0,0.0,16,28.0,555,55400.0,75700.0,Premium Gasoline
+Chevrolet,2021,Suburban 4WD,384,0,0.0,16,28.0,558,54700.0,75300.0,Premium Gasoline
+Chevrolet,2022,Tahoe 4WD,384,0,0.0,16,24.0,568,52700.0,73000.0,Premium Gasoline
+Chevrolet,2022,Tahoe 4WD,384,0,0.0,16,24.0,556,52700.0,73000.0,Regular Gasoline
+Chevrolet,2022,Tahoe 4WD,384,0,0.0,16,24.0,555,52700.0,73000.0,Premium Gasoline
+Chevrolet,2021,Tahoe 4WD,384,0,0.0,16,24.0,558,52000.0,72600.0,Premium Gasoline
+Chevrolet,2022,Silverado 4WD,288,0,0.0,16,24.0,555,39200.0,63600.0,Regular Gasoline
+Chevrolet,2022,Silverado 4WD,384,0,0.0,16,24.0,555,39200.0,63600.0,Premium Gasoline
+Chevrolet,2021,Silverado 4WD,384,0,0.0,16,24.0,563,33900.0,57700.0,Regular Gasoline
+Chevrolet,2020,Silverado 4WD,288,0,0.0,16,24.0,563,35500.0,56800.0,Regular Gasoline
+Chevrolet,2021,Silverado 4WD TrailBoss,384,0,0.0,16,24.0,560,48900.0,51800.0,Regular Gasoline
+Chevrolet,2021,Silverado 4WD TrailBoss,288,0,0.0,16,24.0,560,48900.0,51800.0,Regular Gasoline
+Chevrolet,2020,Silverado 4WD TrailBoss,384,0,0.0,16,24.0,561,39500.0,48800.0,Regular Gasoline
+Chevrolet,2020,Silverado 4WD TrailBoss,384,0,0.0,16,24.0,556,39500.0,48800.0,Regular Gasoline
+Chevrolet,2019,Silverado K10 4WD TrailBoss,384,0,0.0,16,24.0,556,39500.0,48600.0,Regular Gasoline
+Chevrolet,2019,Silverado K10 4WD TrailBoss,384,0,0.0,16,24.0,558,39500.0,48600.0,Regular Gasoline
+Chevrolet,2023,Silverado Mud Terrain Tires 4WD,384,0,0.0,16,24.0,567,,,Premium Gasoline
+Chevrolet,2022,Silverado Mud Terrain Tires 4WD,384,0,0.0,16,24.0,566,,,Premium Gasoline
+Chevrolet,2024,Suburban 4WD,384,0,0.0,16,28.0,564,62200.0,82900.0,Premium Gasoline
+Chevrolet,2023,Suburban 4WD,384,0,0.0,16,28.0,564,59900.0,80100.0,Premium Gasoline
+Chevrolet,2024,Tahoe 4WD,448,0,0.0,16,24.0,566,59200.0,79900.0,Regular Gasoline
+Chevrolet,2024,Tahoe 4WD,448,0,0.0,16,24.0,564,59200.0,79900.0,Premium Gasoline
+Chevrolet,2023,Tahoe 4WD,384,0,0.0,16,24.0,564,57200.0,77400.0,Premium Gasoline
+Chevrolet,2023,Tahoe 4WD,384,0,0.0,16,24.0,566,57200.0,77400.0,Regular Gasoline
+Chevrolet,2024,Camaro,384,0,0.0,16,19.0,571,30900.0,78100.0,Premium Gasoline
+Chevrolet,2023,Camaro,384,0,0.0,16,19.0,571,26400.0,73300.0,Premium Gasoline
+Chevrolet,2022,Camaro,304,0,0.0,16,19.0,571,25000.0,69000.0,Premium Gasoline
+Chevrolet,2021,Camaro,304,0,0.0,16,19.0,571,25000.0,69000.0,Premium Gasoline
+Chevrolet,2020,Camaro,304,0,0.0,16,19.0,571,,,Premium Gasoline
+Chevrolet,2019,Camaro,304,0,0.0,16,19.0,571,25000.0,68000.0,Premium Gasoline
+Chevrolet,2021,Suburban 4WD,304,0,0.0,16,28.0,570,54700.0,75300.0,Premium Gasoline
+Chevrolet,2021,Tahoe 4WD,304,0,0.0,16,28.0,570,52000.0,72600.0,Premium Gasoline
+Chevrolet,2019,Colorado Cab Chassis 2WD,448,0,0.0,15,21.0,572,,,Regular Gasoline
+Chevrolet,2020,Silverado 4WD TrailBoss,448,0,0.0,15,24.0,575,39500.0,48800.0,Premium Gasoline
+Chevrolet,2021,Silverado Cab Chassis 2WD,315,0,0.0,15,0.0,590,,,Regular Gasoline
+Chevrolet,2020,Silverado Cab Chassis 2WD,360,0,0.0,15,0.0,582,,,Regular Gasoline
+Chevrolet,2022,Silverado Mud Terrain Tires 4WD,360,0,0.0,15,24.0,577,,,Regular Gasoline
+Chevrolet,2024,Silverado 4WD ZR2,360,0,0.0,15,24.0,591,69900.0,69900.0,Premium Gasoline
+Chevrolet,2023,Silverado 4WD ZR2,360,0,0.0,15,24.0,585,71500.0,71500.0,Premium Gasoline
+Chevrolet,2022,Silverado 4WD ZR2,360,0,0.0,15,24.0,588,68400.0,68400.0,Premium Gasoline
+Chevrolet,2022,Silverado Cab Chassis 2WD,360,0,0.0,15,0.0,583,,,Regular Gasoline
+Chevrolet,2024,Silverado Cab Chassis 4WD,360,0,0.0,15,0.0,577,,,Regular Gasoline
+Chevrolet,2022,Silverado Cab Chassis 4WD,360,0,0.0,15,0.0,589,,,Regular Gasoline
+Chevrolet,2021,Silverado Cab Chassis 4WD,360,0,0.0,15,0.0,593,,,Regular Gasoline
+Chevrolet,2020,Silverado Cab Chassis 4WD,360,0,0.0,15,0.0,593,,,Regular Gasoline
+Chevrolet,2019,Silverado K10 Cab Chassis 4WD,264,0,0.0,15,24.0,593,,,Regular Gasoline
+Chevrolet,2019,Silverado K10 Cab Chassis 4WD,278,0,0.0,15,0.0,592,,,Regular Gasoline
+Chevrolet,2024,Silverado Mud Terrain Tires 4WD,360,0,0.0,15,24.0,590,,,Premium Gasoline
+Chevrolet,2022,Silverado Mud Terrain Tires 4WD,360,0,0.0,15,24.0,585,,,Regular Gasoline
+Chevrolet,2022,Silverado Mud Terrain Tires 4WD,278,0,0.0,15,24.0,581,,,Regular Gasoline
+Chevrolet,2021,Silverado Cab Chassis 4WD,278,0,0.0,15,0.0,592,,,Regular Gasoline
+Chevrolet,2020,Silverado Cab Chassis 4WD,278,0,0.0,15,0.0,594,,,Regular Gasoline
+Chevrolet,2022,Silverado Mud Terrain Tires 4WD,336,0,0.0,15,24.0,610,,,Regular Gasoline
+Chevrolet,2019,Corvette ZR1,259,0,0.0,15,18.5,592,55495.0,132900.0,Premium Gasoline
+Chevrolet,2021,Silverado 4WD TrailBoss,259,0,0.0,15,24.0,593,48900.0,51800.0,Regular Gasoline
+Chevrolet,2022,Silverado Cab Chassis 4WD,247,0,0.0,15,0.0,611,,,Regular Gasoline
+Chevrolet,2022,Silverado Mud Terrain Tires 4WD,247,0,0.0,15,24.0,593,,,Regular Gasoline
+Chevrolet,2024,Corvette Z06,314,0,0.0,15,18.5,597,110100.0,130650.0,Premium Gasoline
+Chevrolet,2023,Corvette Z06,305,0,0.0,15,18.5,597,,,Premium Gasoline
+Chevrolet,2019,Corvette ZR1,250,0,0.0,15,18.5,613,55495.0,132900.0,Premium Gasoline
+Chevrolet,2021,Silverado Cab Chassis 2WD,230,0,0.0,14,0.0,634,,,Regular Gasoline
+Chevrolet,2021,Silverado Cab Chassis 4WD,310,0,0.0,14,0.0,635,,,Regular Gasoline
+Chevrolet,2022,Silverado Mud Terrain Tires 4WD,312,0,0.0,14,24.0,619,,,Premium Gasoline
+Chevrolet,2024,Corvette Z06 Carbon Aero,312,0,0.0,14,18.5,631,,,Premium Gasoline
+Chevrolet,2023,Corvette Z06 Carbon Aero,303,0,0.0,14,18.5,631,,,Premium Gasoline
+Ford,2023,Mustang Mach-E RWD,300,103,8.1,0,0.0,0,29990.0,36200.0,Electricity
+Ford,2022,Mustang Mach-E RWD,211,103,8.1,0,0.0,0,28140.0,28140.0,Electricity
+Ford,2022,Mustang Mach-E CAL RT 1 ER RWD,224,101,10.1,0,0.0,0,28040.0,28040.0,Electricity
+Ford,2021,Mustang Mach-E RWD California Route 1,224,101,11.4,0,0.0,0,27400.0,28800.0,Electricity
+Ford,2023,Mustang Mach-E RWD LFP,290,101,7.4,0,0.0,0,,,Electricity
+Ford,2021,Mustang Mach-E RWD,277,100,8.8,0,0.0,0,31600.0,31600.0,Electricity
+Ford,2023,Mustang Mach-E RWD Extended,270,99,10.2,0,0.0,0,36190.0,36190.0,Electricity
+Ford,2023,MUSTANG MACH-E CAL RT 1 ER AWD,270,98,10.1,0,0.0,0,36040.0,36040.0,Electricity
+Ford,2022,Mustang Mach-E CAL RT 1 ER AWD,270,98,11.4,0,0.0,0,32400.0,37400.0,Electricity
+Ford,2022,Mustang Mach-E RWD Extended,270,97,10.9,0,0.0,0,38270.0,38270.0,Electricity
+Ford,2021,Mustang Mach-E RWD Extended,260,97,10.9,0,0.0,0,38200.0,38200.0,Electricity
+Ford,2021,Mustang Mach-E AWD,260,93,8.5,0,0.0,0,36550.0,36550.0,Electricity
+Ford,2023,Mustang Mach-E AWD,260,93,8.0,0,0.0,0,28800.0,37400.0,Electricity
+Ford,2022,Mustang Mach-E AWD,320,93,8.0,0,0.0,0,34960.0,43970.0,Electricity
+Ford,2023,Mustang Mach-E AWD Extended,320,92,10.0,0,0.0,0,34190.0,43900.0,Electricity
+Ford,2022,Mustang Mach-E AWD Extended,240,91,10.7,0,0.0,0,38510.0,42550.0,Electricity
+Ford,2021,Mustang Mach-E AWD Extended,230,90,10.7,0,0.0,0,47190.0,47190.0,Electricity
+Ford,2023,Mustang Mach-E GT,300,84,10.3,0,0.0,0,43190.0,43190.0,Electricity
+Ford,2022,Mustang Mach-E GT,300,84,10.3,0,0.0,0,50190.0,60190.0,Electricity
+Ford,2021,Mustang Mach-E GT,588,84,10.3,0,0.0,0,,,Electricity
+Ford,2023,Mustang Mach-E GT Performance,588,82,10.1,0,0.0,0,,,Electricity
+Ford,2022,Mustang Mach-E GT Performance,582,82,10.1,0,0.0,0,,,Electricity
+Ford,2021,Mustang Mach-E GT Performance,574,82,10.1,0,0.0,0,,,Electricity
+Ford,2023,F-150 Lightning 4WD Extended Range,574,70,10.1,0,0.0,254,16390.0,20400.0,Regular Gasoline
+Ford,2022,F-150 Lightning 4WD Extended Range,568,70,10.1,0,0.0,254,15980.0,19970.0,Regular Gasoline
+Ford,2023,F-150 Lightning 4WD,558,68,11.9,0,0.0,254,15580.0,18990.0,Regular Gasoline
+Ford,2022,F-150 Lightning 4WD,558,68,11.9,0,0.0,254,14980.0,18390.0,Regular Gasoline
+Ford,2022,Escape FWD PHEV,558,105,3.3,105,12.0,253,14830.0,18340.0,Regular Gasoline
+Ford,2021,Escape FWD PHEV,558,105,3.3,105,12.0,261,27700.0,31640.0,Regular Gasoline
+Ford,2020,Escape FWD PHEV,511,102,3.3,102,12.0,262,14600.0,16090.0,Regular Gasoline
+Ford,2023,F-150 Lightning Platinum 4WD,511,66,9.3,0,0.0,262,20890.0,21820.0,Regular Gasoline
+Ford,2022,F-150 Lightning Platinum 4WD,511,66,9.3,0,0.0,269,21050.0,23610.0,Regular Gasoline
+Ford,2023,Escape FWD PHEV,384,101,3.4,101,12.0,269,20590.0,23150.0,Regular Gasoline
+Ford,2020,Fusion Energi Plug-in Hybrid,444,103,2.6,103,14.0,269,19990.0,22550.0,Regular Gasoline
+Ford,2019,Fusion Energi Plug-in Hybrid,372,103,2.6,103,14.0,269,19600.0,22140.0,Regular Gasoline
+Ford,2020,Fusion Special Service PHEV,444,102,2.6,102,14.0,268,19070.0,21320.0,Regular Gasoline
+Ford,2019,Fusion Special Service Vehicle PHEV,444,102,2.6,102,14.0,271,18640.0,20970.0,Regular Gasoline
+Ford,2020,Fusion Hybrid FWD,386,0,0.0,42,14.0,276,29050.0,32990.0,Regular Gasoline
+Ford,2019,Fusion Hybrid FWD,386,0,0.0,42,14.0,270,23980.0,23980.0,Regular Gasoline
+Ford,2022,Escape FWD HEV,381,0,0.0,41,14.2,269,28420.0,30110.0,Regular Gasoline
+Ford,2021,Escape FWD HEV,504,0,0.0,41,0.0,271,27360.0,29050.0,Regular Gasoline
+Ford,2020,Escape FWD HEV,440,0,0.0,41,0.0,269,27360.0,29050.0,Regular Gasoline
+Ford,2020,Fusion Hybrid Taxi,440,0,0.0,41,14.0,271,27150.0,28840.0,Regular Gasoline
+Ford,2019,Fusion Hybrid Taxi,440,0,0.0,41,14.0,270,26050.0,26050.0,Regular Gasoline
+Ford,2022,Escape AWD HEV,347,0,0.0,40,14.2,275,27450.0,27450.0,Regular Gasoline
+Ford,2021,Escape AWD HEV,486,0,0.0,40,0.0,268,20200.0,21420.0,Regular Gasoline
+Ford,2020,Escape AWD HEV,486,0,0.0,40,0.0,269,19950.0,21030.0,Regular Gasoline
+Ford,2024,Escape AWD HEV,486,0,0.0,39,14.3,268,19510.0,20570.0,Regular Gasoline
+Ford,2023,Escape AWD HEV,446,0,0.0,39,14.3,268,19310.0,20370.0,Regular Gasoline
+Ford,2024,Escape FWD HEV,446,0,0.0,39,14.3,278,35830.0,35830.0,Regular Gasoline
+Ford,2023,Escape FWD HEV,416,0,0.0,39,14.3,278,12460.0,23220.0,Regular Gasoline
+Ford,2024,Maverick HEV FWD,416,0,0.0,37,13.8,278,35270.0,38700.0,Regular Gasoline
+Ford,2022,Maverick HEV FWD,416,0,0.0,37,13.8,278,33710.0,37590.0,Regular Gasoline
+Ford,2023,Maverick HEV FWD,416,0,0.0,37,13.8,278,33710.0,37590.0,Regular Gasoline
+Ford,2019,Fiesta FWD,468,0,0.0,31,12.4,278,33500.0,36930.0,Regular Gasoline
+Ford,2022,Escape FWD,468,0,0.0,30,14.8,284,,,Regular Gasoline
+Ford,2021,Escape FWD,411,0,0.0,30,0.0,278,24900.0,24900.0,Regular Gasoline
+Ford,2019,Fiesta FWD,300,0,0.0,30,12.4,281,24550.0,24550.0,Regular Gasoline
+Ford,2024,Escape FWD,411,0,0.0,30,14.8,278,24300.0,35180.0,Regular Gasoline
+Ford,2023,Escape FWD,300,0,0.0,30,14.8,278,24000.0,35750.0,Regular Gasoline
+Ford,2020,Escape FWD,411,0,0.0,30,0.0,283,23090.0,23090.0,Regular Gasoline
+Ford,2021,EcoSport FWD,300,0,0.0,28,13.8,283,22700.0,22700.0,Regular Gasoline
+Ford,2020,EcoSport FWD,411,0,0.0,28,13.8,283,21850.0,21850.0,Regular Gasoline
+Ford,2019,EcoSport FWD,411,0,0.0,28,13.6,280,21650.0,21650.0,Regular Gasoline
+Ford,2020,Explorer HEV RWD,411,0,0.0,28,18.0,282,26000.0,32700.0,Regular Gasoline
+Ford,2024,Escape AWD,411,0,0.0,28,15.7,282,25630.0,26430.0,Regular Gasoline
+Ford,2023,Escape AWD,284,0,0.0,28,15.7,287,29920.0,31610.0,Regular Gasoline
+Ford,2022,Escape AWD,411,0,0.0,28,15.7,287,28860.0,30550.0,Regular Gasoline
+Ford,2021,Escape AWD,411,0,0.0,28,0.0,287,28860.0,30550.0,Regular Gasoline
+Ford,2020,Escape AWD,408,0,0.0,28,0.0,287,28650.0,38430.0,Regular Gasoline
+Ford,2019,Fiesta ST FWD,408,0,0.0,28,12.4,287,36770.0,40200.0,Regular Gasoline
+Ford,2023,Explorer HEV RWD,408,0,0.0,27,18.0,288,35210.0,39090.0,Regular Gasoline
+Ford,2022,Explorer HEV RWD,429,0,0.0,27,18.0,287,35210.0,39090.0,Regular Gasoline
+Ford,2021,Explorer HEV RWD,429,0,0.0,27,18.0,288,,,Regular Gasoline
+Ford,2020,Fusion FWD,408,0,0.0,27,16.5,287,,,Regular Gasoline
+Ford,2019,Fusion FWD,765,0,0.0,27,16.5,287,27830.0,32330.0,Regular Gasoline
+Ford,2024,Bronco Sport 4WD,765,0,0.0,26,16.0,290,26900.0,31250.0,Regular Gasoline
+Ford,2023,Bronco Sport 4WD,395,0,0.0,26,16.0,290,26550.0,30900.0,Regular Gasoline
+Ford,2022,Bronco Sport 4WD,395,0,0.0,26,16.0,288,25900.0,29750.0,Regular Gasoline
+Ford,2021,Bronco Sport 4WD,395,0,0.0,26,16.0,288,29400.0,35030.0,Regular Gasoline
+Ford,2023,Explorer Platinum HEV RWD,300,0,0.0,26,18.0,287,25900.0,30340.0,Regular Gasoline
+Ford,2022,Explorer Platinum HEV RWD,395,0,0.0,26,18.0,289,25550.0,31390.0,Regular Gasoline
+Ford,2021,Transit Connect Wagon LWB FFV,300,0,0.0,26,15.8,296,14600.0,16090.0,Regular Gasoline
+Ford,2020,Transit Connect Wagon LWB FFV,395,0,0.0,26,15.8,292,26050.0,26050.0,Regular Gasoline
+Ford,2019,Transit Connect Wagon LWB FFV,300,0,0.0,26,15.8,297,12460.0,23220.0,Regular Gasoline
+Ford,2021,Transit Connect Wagon LWB FWD,395,0,0.0,26,15.8,296,16390.0,20400.0,Regular Gasoline
+Ford,2020,Transit Connect Wagon LWB FWD,300,0,0.0,26,15.8,296,15980.0,19970.0,Regular Gasoline
+Ford,2019,Transit Connect Wagon LWB FWD,395,0,0.0,26,15.8,296,15580.0,18990.0,Regular Gasoline
+Ford,2022,Transit Connect Wagon LWB FFV,395,0,0.0,26,15.8,296,14980.0,18390.0,Regular Gasoline
+Ford,2023,Transit Connect Wagon LWB FWD,395,0,0.0,26,15.8,296,14830.0,18340.0,Regular Gasoline
+Ford,2022,Transit Connect Wagon LWB FWD,345,0,0.0,26,15.8,300,28300.0,34200.0,Regular Gasoline
+Ford,2024,Escape AWD,345,0,0.0,26,15.7,300,27930.0,33830.0,Regular Gasoline
+Ford,2023,Escape AWD,345,0,0.0,26,15.7,300,27300.0,31740.0,Regular Gasoline
+Ford,2021,Escape AWD,340,0,0.0,26,0.0,295,34250.0,34250.0,Regular Gasoline
+Ford,2020,Escape AWD,450,0,0.0,26,0.0,300,25650.0,33750.0,Regular Gasoline
+Ford,2019,Escape FWD,450,0,0.0,26,15.7,300,25350.0,31440.0,Regular Gasoline
+Ford,2024,Maverick FWD,450,0,0.0,26,16.5,307,12460.0,23220.0,Premium Gasoline
+Ford,2022,Maverick FWD,450,0,0.0,26,16.5,304,,,Regular Gasoline
+Ford,2024,Mustang,388,0,0.0,26,0.0,310,27450.0,27450.0,Regular Gasoline
+Ford,2022,Escape AWD,398,0,0.0,26,15.7,312,25490.0,31840.0,Regular Gasoline
+Ford,2021,F150 Pickup 2WD HEV,575,0,0.0,25,30.6,312,25020.0,31490.0,Regular Gasoline
+Ford,2023,F150 Pickup 2WD HEV,462,0,0.0,25,30.6,307,28300.0,34600.0,Regular Gasoline
+Ford,2022,F150 Pickup 2WD HEV,392,0,0.0,25,0.0,309,,,Regular Gasoline
+Ford,2020,Transit Connect Van 2WD,412,0,0.0,25,15.8,307,27250.0,27250.0,Regular Gasoline
+Ford,2019,Transit Connect Van 2WD,412,0,0.0,25,15.8,307,33380.0,33380.0,Regular Gasoline
+Ford,2022,Transit Connect Van FFV,398,0,0.0,25,15.8,311,28200.0,35700.0,Regular Gasoline
+Ford,2021,Transit Connect Van FFV,388,0,0.0,25,15.8,311,35330.0,35330.0,Regular Gasoline
+Ford,2020,Transit Connect Van FFV,388,0,0.0,25,15.8,311,26900.0,31250.0,Regular Gasoline
+Ford,2019,Transit Connect Van FFV,388,0,0.0,25,15.8,311,,,Regular Gasoline
+Ford,2022,Transit Connect Van FWD,388,0,0.0,25,15.8,311,25900.0,29750.0,Regular Gasoline
+Ford,2021,Transit Connect Van FWD,412,0,0.0,25,15.8,311,29400.0,35030.0,Regular Gasoline
+Ford,2023,Transit Connect Van FWD,412,0,0.0,25,15.8,318,,,Regular Gasoline
+Ford,2023,Maverick FWD,412,0,0.0,25,0.0,318,24960.0,29590.0,Regular Gasoline
+Ford,2022,EcoSport AWD,388,0,0.0,25,13.8,318,24160.0,28790.0,Regular Gasoline
+Ford,2021,EcoSport AWD,734,0,0.0,25,13.8,317,23430.0,28600.0,Regular Gasoline
+Ford,2020,EcoSport AWD,377,0,0.0,25,13.8,318,22340.0,28060.0,Regular Gasoline
+Ford,2019,EcoSport AWD,552,0,0.0,25,13.6,324,26840.0,33190.0,Regular Gasoline
+Ford,2023,Explorer HEV AWD,396,0,0.0,25,18.0,324,26370.0,32840.0,Regular Gasoline
+Ford,2022,Explorer HEV AWD,372,0,0.0,25,18.0,330,26040.0,26040.0,Premium Gasoline
+Ford,2021,Explorer HEV AWD,372,0,0.0,25,18.0,330,26040.0,26040.0,Premium Gasoline
+Ford,2020,Explorer HEV AWD,444,0,0.0,25,18.0,330,26460.0,31090.0,Regular Gasoline
+Ford,2023,Mustang,444,0,0.0,25,15.5,330,,,Regular Gasoline
+Ford,2022,Mustang,377,0,0.0,25,15.9,329,24780.0,29950.0,Regular Gasoline
+Ford,2019,F150 Pickup 2WD,377,0,0.0,25,24.5,330,23690.0,29410.0,Regular Gasoline
+Ford,2019,Edge FWD,283,0,0.0,25,18.5,360,23630.0,24680.0,Regular Gasoline
+Ford,2019,Escape FWD,624,0,0.0,25,15.7,356,,,Regular Gasoline
+Ford,2024,Maverick AWD,372,0,0.0,25,16.5,356,,,Regular Gasoline
+Ford,2022,Maverick AWD,382,0,0.0,25,16.5,366,,,Regular Gasoline
+Ford,2022,Mustang,372,0,0.0,25,15.9,371,38340.0,44450.0,Premium Gasoline
+Ford,2021,Mustang,430,0,0.0,25,15.5,370,37840.0,43150.0,Premium Gasoline
+Ford,2021,Mustang,430,0,0.0,25,15.5,370,37090.0,42320.0,Premium Gasoline
+Ford,2020,Mustang,430,0,0.0,25,15.5,378,34450.0,41840.0,Premium Gasoline
+Ford,2019,Mustang,430,0,0.0,25,15.5,378,34050.0,41540.0,Premium Gasoline
+Ford,2020,Fusion FWD,430,0,0.0,25,16.5,379,37980.0,44400.0,Regular Gasoline
+Ford,2019,Fusion FWD,430,0,0.0,25,16.5,379,37220.0,40040.0,Regular Gasoline
+Ford,2019,Fusion FWD,624,0,0.0,25,16.5,384,36540.0,42440.0,Regular Gasoline
+Ford,2019,Mustang,624,0,0.0,25,15.5,386,34640.0,40540.0,Regular Gasoline
+Ford,2021,F150 Pickup 4WD HEV,552,0,0.0,24,30.6,393,39890.0,47900.0,Regular Gasoline
+Ford,2019,Escape AWD,414,0,0.0,24,15.7,391,35860.0,47410.0,Regular Gasoline
+Ford,2019,F150 2WD BASE PAYLOAD LT TIRE,414,0,0.0,24,24.5,392,35010.0,46560.0,Regular Gasoline
+Ford,2023,Maverick AWD,704,0,0.0,24,0.0,390,34360.0,45910.0,Regular Gasoline
+Ford,2020,Fusion FWD,704,0,0.0,24,16.5,388,33330.0,45530.0,Regular Gasoline
+Ford,2023,Mustang,426,0,0.0,24,15.5,388,32970.0,45230.0,Regular Gasoline
+Ford,2020,Mustang,426,0,0.0,24,15.5,388,38190.0,46200.0,Regular Gasoline
+Ford,2021,Edge FWD,426,0,0.0,24,18.5,387,34160.0,45710.0,Regular Gasoline
+Ford,2020,Edge FWD,426,0,0.0,24,18.5,387,33310.0,44860.0,Regular Gasoline
+Ford,2019,Escape FWD,426,0,0.0,24,15.7,387,32810.0,44360.0,Regular Gasoline
+Ford,2019,Escape FWD FFV,426,0,0.0,24,15.7,386,31730.0,43930.0,Regular Gasoline
+Ford,2020,F150 Pickup 2WD,426,0,0.0,24,26.0,385,31370.0,43630.0,Regular Gasoline
+Ford,2023,Mustang,426,0,0.0,24,15.5,388,36080.0,49050.0,Regular Gasoline
+Ford,2022,Mustang,361,0,0.0,24,15.9,390,35320.0,38140.0,Regular Gasoline
+Ford,2021,Mustang,368,0,0.0,24,15.5,392,31980.0,38390.0,Regular Gasoline
+Ford,2024,Mustang Performance Package,368,0,0.0,24,0.0,395,31530.0,38020.0,Regular Gasoline
+Ford,2024,Explorer RWD,368,0,0.0,24,17.9,401,33670.0,40080.0,Regular Gasoline
+Ford,2023,Explorer RWD,368,0,0.0,24,17.9,400,50950.0,50950.0,Regular Gasoline
+Ford,2022,Explorer RWD,414,0,0.0,24,17.9,399,49040.0,49040.0,Regular Gasoline
+Ford,2021,Explorer RWD,414,0,0.0,24,17.9,396,41740.0,50190.0,Regular Gasoline
+Ford,2021,Explorer RWD,414,0,0.0,24,17.9,405,42310.0,52310.0,Premium Gasoline
+Ford,2020,Explorer RWD,414,0,0.0,24,17.9,405,40990.0,53990.0,Premium Gasoline
+Ford,2020,F150 2WD BASE PAYLOAD LT TIRE,414,0,0.0,24,26.0,406,30090.0,47190.0,Premium Gasoline
+Ford,2020,F150 Pickup 4WD XL/XLT,414,0,0.0,24,26.0,409,,,Premium Gasoline
+Ford,2019,F150 Pickup 4WD XL/XLT,414,0,0.0,24,24.5,404,33220.0,39710.0,Regular Gasoline
+Ford,2023,Explorer Platinum HEV AWD,426,0,0.0,23,18.0,418,43900.0,43900.0,Premium Gasoline
+Ford,2022,Explorer Platinum HEV AWD,426,0,0.0,23,18.0,418,43140.0,43140.0,Premium Gasoline
+Ford,2023,F150 Pickup 4WD HEV,426,0,0.0,23,30.6,414,44910.0,44910.0,Regular Gasoline
+Ford,2022,F150 Pickup 4WD HEV,412,0,0.0,23,0.0,424,44560.0,44560.0,Regular Gasoline
+Ford,2024,F150 Pickup 4WD HEV,412,0,0.0,23,30.6,425,19290.0,34310.0,Regular Gasoline
+Ford,2024,Edge AWD,356,0,0.0,23,18.5,429,,,Premium Gasoline
+Ford,2024,Edge AWD,356,0,0.0,23,18.5,429,,,Premium Gasoline
+Ford,2023,Edge AWD,366,0,0.0,23,18.5,437,30030.0,39900.0,Regular Gasoline
+Ford,2022,Edge AWD,366,0,0.0,23,18.5,437,29190.0,36120.0,Regular Gasoline
+Ford,2021,Edge AWD,356,0,0.0,23,18.5,444,29190.0,36120.0,Regular Gasoline
+Ford,2020,Edge AWD,356,0,0.0,23,18.5,444,28690.0,35120.0,Regular Gasoline
+Ford,2020,Edge AWD,356,0,0.0,23,18.5,445,27190.0,31710.0,Regular Gasoline
+Ford,2019,Edge AWD,356,0,0.0,23,18.5,445,26790.0,31410.0,Regular Gasoline
+Ford,2019,Escape AWD,356,0,0.0,23,15.7,435,42310.0,52310.0,Premium Gasoline
+Ford,2024,Bronco Sport 4WD,356,0,0.0,23,16.0,435,40990.0,53990.0,Premium Gasoline
+Ford,2023,Bronco Sport 4WD,356,0,0.0,23,16.0,438,33230.0,42900.0,Regular Gasoline
+Ford,2022,Bronco Sport 4WD,356,0,0.0,23,16.0,438,32390.0,39120.0,Regular Gasoline
+Ford,2021,Bronco Sport 4WD,412,0,0.0,23,16.0,445,,,Premium Gasoline
+Ford,2023,Ranger 2WD,412,0,0.0,23,18.0,445,30090.0,47190.0,Premium Gasoline
+Ford,2022,Ranger 2WD,412,0,0.0,23,18.0,445,,,Premium Gasoline
+Ford,2021,Ranger 2WD,412,0,0.0,23,18.0,469,39560.0,39560.0,Regular Gasoline
+Ford,2020,Ranger 2WD,412,0,0.0,23,18.0,469,38720.0,39100.0,Regular Gasoline
+Ford,2019,Ranger 2WD,412,0,0.0,23,18.0,469,65090.0,65090.0,Premium Gasoline
+Ford,2020,Fusion AWD,529,0,0.0,23,18.0,469,30080.0,37790.0,Regular Gasoline
+Ford,2019,Fusion AWD,356,0,0.0,23,18.0,469,29680.0,37490.0,Regular Gasoline
+Ford,2023,Edge AWD,366,0,0.0,23,18.5,466,19290.0,34310.0,Regular Gasoline
+Ford,2022,Edge AWD,356,0,0.0,23,18.5,468,32390.0,39120.0,Regular Gasoline
+Ford,2021,Edge AWD,356,0,0.0,23,18.5,458,31890.0,38120.0,Regular Gasoline
+Ford,2023,Explorer RWD,356,0,0.0,23,17.9,472,38720.0,39100.0,Regular Gasoline
+Ford,2022,Explorer RWD,366,0,0.0,23,17.9,478,19290.0,34310.0,Regular Gasoline
+Ford,2023,Mustang Convertible,356,0,0.0,23,15.5,479,19290.0,34310.0,Regular Gasoline
+Ford,2023,Mustang Convertible,356,0,0.0,23,15.5,494,19290.0,34310.0,Regular Gasoline
+Ford,2022,Mustang Convertible,356,0,0.0,23,15.9,493,121090.0,221090.0,Premium Gasoline
+Ford,2022,Mustang Convertible,414,0,0.0,23,15.9,493,116040.0,215740.0,Premium Gasoline
+Ford,2021,Mustang Convertible,341,0,0.0,23,15.5,482,113540.0,215690.0,Premium Gasoline
+Ford,2021,Mustang Convertible,350,0,0.0,23,15.5,482,113540.0,210740.0,Premium Gasoline
+Ford,2020,Mustang Convertible,341,0,0.0,23,15.5,493,99990.0,175540.0,Premium Gasoline
+Ford,2020,Mustang Convertible,348,0,0.0,23,15.5,490,36190.0,55490.0,Premium Gasoline
+Ford,2019,Mustang Convertible,348,0,0.0,23,15.5,507,28810.0,37150.0,Regular Gasoline
+Ford,2019,Mustang Convertible,348,0,0.0,23,15.5,503,40350.0,59320.0,Premium Gasoline
+Ford,2020,Mustang HO Coupe,348,0,0.0,23,15.5,503,38810.0,57500.0,Premium Gasoline
+Ford,2019,Mustang Performance Package,348,0,0.0,23,15.5,503,36950.0,56440.0,Premium Gasoline
+Ford,2024,Explorer AWD,348,0,0.0,23,17.9,505,30690.0,54630.0,Regular Gasoline
+Ford,2023,Explorer AWD,394,0,0.0,23,17.9,505,43640.0,62630.0,Premium Gasoline
+Ford,2022,Explorer AWD,394,0,0.0,23,17.9,505,42070.0,63840.0,Premium Gasoline
+Ford,2021,Explorer AWD,506,0,0.0,23,17.9,515,40180.0,59680.0,Premium Gasoline
+Ford,2021,Explorer AWD,506,0,0.0,23,17.9,514,39390.0,61690.0,Premium Gasoline
+Ford,2020,Explorer AWD,506,0,0.0,23,17.9,505,34090.0,57840.0,Regular Gasoline
+Ford,2021,F150 Pickup 4WD,506,0,0.0,23,24.5,519,28810.0,37150.0,Regular Gasoline
+Ford,2023,Mustang Convertible,506,0,0.0,23,15.5,521,28810.0,37150.0,Regular Gasoline
+Ford,2022,Mustang Convertible,396,0,0.0,23,15.9,510,46040.0,59710.0,Premium Gasoline
+Ford,2021,Mustang Convertible,396,0,0.0,23,15.5,519,49230.0,63020.0,Premium Gasoline
+Ford,2020,Mustang HO Convertible,348,0,0.0,23,15.5,524,47590.0,53980.0,Premium Gasoline
+Ford,2023,Mustang HO Coupe,348,0,0.0,23,15.5,518,48470.0,50690.0,Premium Gasoline
+Ford,2022,Mustang HO Coupe,348,0,0.0,23,15.9,517,53460.0,53460.0,Premium Gasoline
+Ford,2021,Mustang HO Coupe,348,0,0.0,23,15.5,517,51700.0,55970.0,Premium Gasoline
+Ford,2020,Mustang HO Coupe,348,0,0.0,23,15.5,529,44880.0,47110.0,Regular Gasoline
+Ford,2019,Mustang Performance Package,506,0,0.0,23,15.5,546,53850.0,53850.0,Premium Gasoline
+Ford,2024,Ranger 2WD,572,0,0.0,22,18.8,558,55720.0,67790.0,Premium Gasoline
+Ford,2023,Mustang HO Coupe,506,0,0.0,22,15.5,558,50700.0,67370.0,Premium Gasoline
+Ford,2022,Mustang HO Coupe,414,0,0.0,22,15.9,558,49900.0,66200.0,Premium Gasoline
+Ford,2021,Mustang HO Coupe,396,0,0.0,22,15.5,558,48900.0,65300.0,Premium Gasoline
+Ford,2022,Transit Connect USPS,396,0,0.0,22,0.0,553,47500.0,60930.0,Regular Gasoline
+Ford,2021,Transit Connect USPS,396,0,0.0,22,15.8,556,47100.0,60330.0,Regular Gasoline
+Ford,2020,Transit Connect USPS,396,0,0.0,22,15.8,594,58720.0,70790.0,Premium Gasoline
+Ford,2019,Transit Connect USPS,398,0,0.0,22,15.8,592,53700.0,70370.0,Premium Gasoline
+Ford,2020,Transit Connect Van 2WD,409,0,0.0,22,15.8,594,53700.0,70370.0,Premium Gasoline
+Ford,2019,Transit Connect Van 2WD,341,0,0.0,22,15.8,593,52900.0,69200.0,Premium Gasoline
+Ford,2021,Transit Connect Van FWD,350,0,0.0,22,15.8,594,52900.0,69200.0,Premium Gasoline
+Ford,2023,Explorer AWD,341,0,0.0,22,17.9,595,51900.0,68300.0,Premium Gasoline
+Ford,2022,Explorer AWD,341,0,0.0,22,17.9,594,51900.0,68300.0,Premium Gasoline
+Ford,2023,F150 Pickup 2WD,506,0,0.0,22,29.5,593,50500.0,63930.0,Regular Gasoline
+Ford,2022,F150 Pickup 2WD,368,0,0.0,22,24.5,585,50100.0,63330.0,Regular Gasoline
+Ford,2021,F150 Pickup 2WD,506,0,0.0,22,24.5,0,42995.0,46995.0,Electricity
+Ford,2020,F150 Pickup 2WD,368,0,0.0,22,29.5,0,43895.0,49100.0,Electricity
+Ford,2019,F150 Pickup 2WD,483,0,0.0,22,29.5,0,52775.0,52775.0,Electricity
+Ford,2023,Ranger 2WD,368,0,0.0,22,18.0,0,,,Electricity
+Ford,2022,Ranger 2WD,346,0,0.0,22,18.0,0,,,Electricity
+Ford,2022,Transit Connect Van FWD,355,0,0.0,22,15.8,0,42895.0,47600.0,Electricity
+Ford,2022,Transit Connect Wagon LWB FWD,355,0,0.0,22,15.8,0,,,Electricity
+Ford,2021,Transit Connect Wagon LWB FWD,388,0,0.0,22,15.8,0,56995.0,56995.0,Electricity
+Ford,2020,Transit Connect Wagon LWB FWD,388,0,0.0,22,15.8,0,55475.0,55475.0,Electricity
+Ford,2019,Transit Connect Wagon LWB FWD,388,0,0.0,22,15.8,0,,,Electricity
+Ford,2019,F150 4WD BASE PAYLOAD LT TIRE,388,0,0.0,22,24.5,0,,,Electricity
+Ford,2020,F150 Pickup 4WD,388,0,0.0,22,26.0,0,45595.0,50300.0,Electricity
+Ford,2019,F150 Pickup 4WD,388,0,0.0,22,24.5,0,45995.0,49995.0,Electricity
+Ford,2024,Ranger 4WD,483,0,0.0,22,18.8,0,46595.0,51800.0,Electricity
+Ford,2023,Ranger 4WD,483,0,0.0,22,18.0,0,,,Electricity
+Ford,2022,Ranger 4WD,483,0,0.0,22,18.0,0,,,Electricity
+Ford,2021,Ranger 4WD,326,0,0.0,22,18.0,0,58900.0,59900.0,Electricity
+Ford,2020,Ranger 4WD,334,0,0.0,22,18.0,0,59995.0,59995.0,Electricity
+Ford,2019,Ranger 4WD,326,0,0.0,22,18.1,0,61995.0,61995.0,Electricity
+Ford,2019,Explorer FWD,483,0,0.0,22,18.6,0,59900.0,59900.0,Electricity
+Ford,2023,Mustang HO Convertible,368,0,0.0,22,15.5,0,,,Electricity
+Ford,2022,Mustang HO Convertible,483,0,0.0,22,15.9,0,,,Electricity
+Ford,2021,Mustang HO Convertible,368,0,0.0,22,15.5,0,59900.0,59900.0,Electricity
+Ford,2020,Mustang HO Convertible,483,0,0.0,22,15.5,0,,,Electricity
+Ford,2020,F150 Pickup 2WD FFV,368,0,0.0,22,29.5,0,39974.0,90874.0,Electricity
+Ford,2019,F150 Pickup 2WD FFV,483,0,0.0,22,29.5,0,,,Electricity
+Ford,2021,F150 Pickup 2WD FFV,483,0,0.0,21,24.5,0,39974.0,90874.0,Electricity
+Ford,2024,Maverick Tremor AWD,483,0,0.0,21,16.5,77,35455.0,40700.0,Electricity
+Ford,2023,Maverick Tremor AWD,378,0,0.0,21,0.0,77,32650.0,38585.0,Electricity
+Ford,2021,Bronco 4WD,378,0,0.0,21,18.0,77,,,Electricity
+Ford,2021,Bronco 4WD,376,0,0.0,21,18.0,0,91995.0,91995.0,Electricity
+Ford,2020,Edge AWD,376,0,0.0,21,18.5,0,39974.0,90874.0,Electricity
+Ford,2019,Edge AWD,376,0,0.0,21,18.5,52,40500.0,40500.0,Electricity
+Ford,2024,Edge AWD,376,0,0.0,21,18.5,99,37000.0,37000.0,Electricity
+Ford,2023,Edge AWD,376,0,0.0,21,18.5,99,36595.0,36595.0,Electricity
+Ford,2022,Edge AWD,424,0,0.0,21,18.5,101,,,Electricity
+Ford,2021,Edge AWD,424,0,0.0,21,18.5,101,,,Electricity
+Ford,2019,F150 2.7L 2WD GVWR>6649 LBS,424,0,0.0,21,29.5,211,28000.0,34595.0,Regular Gasoline
+Ford,2019,F150 2WD BASE PAYLOAD LT TIRE,399,0,0.0,21,29.5,212,27555.0,34485.0,Regular Gasoline
+Ford,2024,F150 Pickup 2WD,399,0,0.0,21,29.5,220,30185.0,35095.0,Regular Gasoline
+Ford,2023,Mustang HO Convertible,285,0,0.0,21,15.5,220,27605.0,33300.0,Regular Gasoline
+Ford,2022,Mustang HO Convertible,391,0,0.0,21,15.9,220,28265.0,33550.0,Regular Gasoline
+Ford,2021,Mustang HO Convertible,483,0,0.0,21,15.5,217,,,Regular Gasoline
+Ford,2019,F150 2WD FFV BASE PAYLOAD LT,483,0,0.0,21,29.5,217,,,Regular Gasoline
+Ford,2023,F150 Pickup 2WD FFV,483,0,0.0,21,29.5,224,31685.0,36595.0,Regular Gasoline
+Ford,2022,F150 Pickup 2WD FFV,338,0,0.0,21,24.5,224,29105.0,34800.0,Regular Gasoline
+Ford,2022,F150 Pickup 4WD,338,0,0.0,21,24.5,224,29765.0,35050.0,Regular Gasoline
+Ford,2021,F150 Pickup 4WD,338,0,0.0,21,24.5,225,35040.0,39460.0,Regular Gasoline
+Ford,2019,F150 Pickup 4WD,338,0,0.0,21,29.5,225,35040.0,39460.0,Regular Gasoline
+Ford,2023,Ranger 4WD,338,0,0.0,21,18.0,225,33340.0,36965.0,Regular Gasoline
+Ford,2022,Ranger 4WD,338,0,0.0,21,18.0,225,33340.0,36965.0,Regular Gasoline
+Ford,2021,Explorer Timberline AWD,460,0,0.0,21,17.9,237,,,Regular Gasoline
+Ford,2024,Explorer Timberline AWD,345,0,0.0,21,17.9,237,20995.0,26860.0,Regular Gasoline
+Ford,2023,Explorer Timberline AWD,460,0,0.0,21,17.9,240,22595.0,28355.0,Regular Gasoline
+Ford,2022,Explorer Timberline AWD,345,0,0.0,21,17.9,286,14260.0,15790.0,Regular Gasoline
+Ford,2024,Explorer RWD,460,0,0.0,21,17.9,293,27025.0,30735.0,Regular Gasoline
+Ford,2023,Explorer RWD,345,0,0.0,21,20.2,293,24885.0,29205.0,Regular Gasoline
+Ford,2022,Explorer RWD,460,0,0.0,21,20.2,294,14260.0,15790.0,Regular Gasoline
+Ford,2021,Explorer RWD,345,0,0.0,21,20.2,299,29345.0,30340.0,Regular Gasoline
+Ford,2019,Taurus FWD,338,0,0.0,21,19.0,299,28000.0,37465.0,Regular Gasoline
+Ford,2019,Taurus FWD FFV,338,0,0.0,21,19.0,297,24885.0,29265.0,Regular Gasoline
+Ford,2019,Explorer AWD,358,0,0.0,21,18.6,318,20395.0,26895.0,Regular Gasoline
+Ford,2023,F150 Pickup 2WD,358,0,0.0,21,29.5,318,19995.0,26265.0,Regular Gasoline
+Ford,2019,F150 Pickup 2WD,358,0,0.0,21,29.5,316,19995.0,26160.0,Regular Gasoline
+Ford,2023,F150 Pickup 2WD,404,0,0.0,21,29.5,322,52530.0,52530.0,Regular Gasoline
+Ford,2024,Bronco 4WD,404,0,0.0,20,18.0,317,31515.0,38460.0,Regular Gasoline
+Ford,2024,Bronco 4WD,358,0,0.0,20,18.0,317,29500.0,38460.0,Regular Gasoline
+Ford,2023,Bronco 4WD,358,0,0.0,20,18.0,318,28525.0,37145.0,Regular Gasoline
+Ford,2023,Bronco 4WD,404,0,0.0,20,18.0,318,26385.0,36155.0,Regular Gasoline
+Ford,2022,Bronco 4WD,404,0,0.0,20,18.0,319,26385.0,36835.0,Regular Gasoline
+Ford,2022,Bronco 4WD,404,0,0.0,20,18.0,317,17625.0,21340.0,Regular Gasoline
+Ford,2023,F150 Pickup 2WD FFV,404,0,0.0,20,29.5,324,53005.0,53005.0,Regular Gasoline
+Ford,2024,Ranger 4WD,404,0,0.0,20,0.0,324,52060.0,52375.0,Regular Gasoline
+Ford,2023,F150 Pickup 4WD FFV,404,0,0.0,20,29.5,324,,,Regular Gasoline
+Ford,2022,F150 Pickup 4WD FFV,460,0,0.0,20,24.5,327,23170.0,34450.0,Regular Gasoline
+Ford,2021,F150 Pickup 4WD FFV,460,0,0.0,20,24.5,327,22840.0,34340.0,Regular Gasoline
+Ford,2024,Bronco 4WD,460,0,0.0,20,18.0,342,31230.0,38390.0,Regular Gasoline
+Ford,2023,Bronco 4WD,460,0,0.0,20,18.0,342,29215.0,44655.0,Regular Gasoline
+Ford,2023,Explorer Timberline AWD,460,0,0.0,20,17.9,342,28815.0,36590.0,Regular Gasoline
+Ford,2022,Explorer Timberline AWD,460,0,0.0,20,17.9,342,27215.0,38160.0,Regular Gasoline
+Ford,2024,Explorer RWD,460,0,0.0,20,17.9,342,53820.0,53820.0,Regular Gasoline
+Ford,2023,Explorer RWD,460,0,0.0,20,20.2,342,,,Regular Gasoline
+Ford,2022,Explorer RWD,460,0,0.0,20,20.2,344,,,Regular Gasoline
+Ford,2024,Explorer AWD,460,0,0.0,20,17.9,344,,,Regular Gasoline
+Ford,2024,Explorer AWD,460,0,0.0,20,17.9,344,,,Regular Gasoline
+Ford,2023,Explorer AWD,460,0,0.0,20,20.2,344,27400.0,31600.0,Regular Gasoline
+Ford,2023,Explorer AWD,345,0,0.0,20,20.2,344,27020.0,32250.0,Regular Gasoline
+Ford,2022,Explorer AWD,460,0,0.0,20,20.2,344,26845.0,31595.0,Regular Gasoline
+Ford,2022,Explorer AWD,345,0,0.0,20,20.2,347,,,Regular Gasoline
+Ford,2021,Explorer AWD,360,0,0.0,20,20.2,348,34360.0,36475.0,Regular Gasoline
+Ford,2020,Explorer AWD,436,0,0.0,20,20.2,347,30365.0,33975.0,Regular Gasoline
+Ford,2022,F150 Pickup 2WD,327,0,0.0,20,24.5,341,31515.0,38460.0,Regular Gasoline
+Ford,2021,F150 Pickup 2WD,460,0,0.0,20,24.5,340,29500.0,38460.0,Regular Gasoline
+Ford,2023,F150 Pickup 4WD,460,0,0.0,20,29.5,342,26385.0,36155.0,Regular Gasoline
+Ford,2021,F150 Pickup 4WD,345,0,0.0,20,24.5,342,26385.0,36835.0,Regular Gasoline
+Ford,2019,F150 2.7L 4WD GVWR>6799 LBS,466,0,0.0,20,29.5,342,24105.0,32620.0,Regular Gasoline
+Ford,2019,F150 4WD BASE PAYLOAD LT TIRE,372,0,0.0,20,29.5,342,23400.0,26315.0,Regular Gasoline
+Ford,2024,F150 Pickup 4WD,279,0,0.0,20,29.5,342,,,Regular Gasoline
+Ford,2023,F150 Pickup 4WD,404,0,0.0,20,29.5,341,30920.0,46015.0,Regular Gasoline
+Ford,2022,F150 Pickup 4WD,404,0,0.0,20,24.5,347,28525.0,37145.0,Regular Gasoline
+Ford,2021,F150 Pickup 4WD,358,0,0.0,20,24.5,349,,,Regular Gasoline
+Ford,2020,F150 Pickup 4WD,268,0,0.0,20,29.5,352,,,Regular Gasoline
+Ford,2020,F150 Pickup 4WD FFV,372,0,0.0,20,29.5,353,,,Regular Gasoline
+Ford,2019,F150 Pickup 4WD FFV,460,0,0.0,20,29.5,353,24275.0,27700.0,Regular Gasoline
+Ford,2019,Fusion AWD,460,0,0.0,20,18.0,353,24100.0,27045.0,Regular Gasoline
+Ford,2023,Explorer FFV AWD,460,0,0.0,20,0.0,355,,,Regular Gasoline
+Ford,2024,F150 Pickup 2WD,322,0,0.0,20,29.5,350,,,Regular Gasoline
+Ford,2023,F150 Pickup 2WD FFV,460,0,0.0,20,29.5,353,,,Regular Gasoline
+Ford,2019,Expedition 2WD,322,0,0.0,20,23.3,353,,,Regular Gasoline
+Ford,2019,Explorer 2WD FFV,460,0,0.0,20,18.6,355,29365.0,31540.0,Regular Gasoline
+Ford,2023,Explorer AWD,460,0,0.0,20,20.2,350,24665.0,27080.0,Regular Gasoline
+Ford,2023,Explorer AWD,321,0,0.0,20,20.2,355,32790.0,35965.0,Regular Gasoline
+Ford,2024,Explorer FFV AWD,342,0,0.0,20,17.9,355,,,Regular Gasoline
+Ford,2019,Explorer FWD,342,0,0.0,20,18.6,351,22040.0,28395.0,Regular Gasoline
+Ford,2022,F150 Pickup 2WD,342,0,0.0,20,24.5,355,21990.0,28345.0,Regular Gasoline
+Ford,2021,F150 Pickup 2WD,321,0,0.0,20,24.5,355,21590.0,27715.0,Regular Gasoline
+Ford,2022,F150 Pickup 2WD FFV,437,0,0.0,20,24.5,355,21590.0,27610.0,Regular Gasoline
+Ford,2021,F150 Pickup 2WD FFV,322,0,0.0,20,24.5,361,55005.0,55005.0,Regular Gasoline
+Ford,2023,F150 Pickup 4WD,437,0,0.0,20,29.5,361,54060.0,54060.0,Regular Gasoline
+Ford,2022,F150 Pickup 4WD,322,0,0.0,20,24.5,361,50105.0,52105.0,Regular Gasoline
+Ford,2022,Bronco 4WD,437,0,0.0,19,18.0,361,54725.0,54725.0,Regular Gasoline
+Ford,2023,Ranger Tremor 4WD,322,0,0.0,19,18.0,350,27770.0,43365.0,Regular Gasoline
+Ford,2022,Ranger Tremor 4WD,361,0,0.0,19,18.0,350,27470.0,43065.0,Regular Gasoline
+Ford,2021,Ranger Tremor 4WD,361,0,0.0,19,18.0,412,28155.0,55220.0,Diesel
+Ford,2021,Bronco 4WD,285,0,0.0,19,18.0,360,29995.0,38760.0,Regular Gasoline
+Ford,2023,F150 Pickup 2WD FFV,441,0,0.0,19,29.5,360,24105.0,32620.0,Regular Gasoline
+Ford,2022,F150 Pickup 2WD FFV,441,0,0.0,19,24.5,356,34855.0,34855.0,Regular Gasoline
+Ford,2021,F150 Pickup 2WD FFV,441,0,0.0,19,24.5,356,,,Regular Gasoline
+Ford,2019,Taurus AWD,475,0,0.0,19,19.0,354,27470.0,43065.0,Regular Gasoline
+Ford,2019,Taurus AWD FFV,475,0,0.0,19,19.0,356,27155.0,40120.0,Regular Gasoline
+Ford,2024,Expedition 2WD,570,0,0.0,19,23.2,354,27155.0,40120.0,Regular Gasoline
+Ford,2023,Expedition 2WD,570,0,0.0,19,23.2,354,26670.0,39630.0,Regular Gasoline
+Ford,2022,Expedition 2WD,538,0,0.0,19,23.2,355,26395.0,39355.0,Regular Gasoline
+Ford,2021,Expedition 2WD,437,0,0.0,19,25.0,355,23170.0,34450.0,Regular Gasoline
+Ford,2020,Expedition 2WD,437,0,0.0,19,25.0,361,22840.0,34340.0,Regular Gasoline
+Ford,2021,Expedition MAX 2WD,322,0,0.0,19,30.0,355,22840.0,34340.0,Regular Gasoline
+Ford,2020,Expedition MAX 2WD,437,0,0.0,19,30.0,359,26395.0,39355.0,Regular Gasoline
+Ford,2019,Expedition MAX 2WD,299,0,0.0,19,28.3,368,,,Regular Gasoline
+Ford,2020,F150 Pickup 2WD,437,0,0.0,19,29.5,370,28000.0,34120.0,Regular Gasoline
+Ford,2020,F150 Pickup 2WD FFV,437,0,0.0,19,29.5,424,,,Diesel
+Ford,2019,F150 Pickup 2WD FFV,437,0,0.0,19,29.5,370,,,Regular Gasoline
+Ford,2023,F150 Pickup 4WD,437,0,0.0,19,29.5,364,23170.0,34450.0,Regular Gasoline
+Ford,2022,F150 Pickup 4WD,475,0,0.0,19,24.5,363,27770.0,43365.0,Regular Gasoline
+Ford,2021,F150 Pickup 4WD,475,0,0.0,19,24.5,364,26670.0,39630.0,Regular Gasoline
+Ford,2019,F150 Pickup 4WD,443,0,0.0,19,29.5,369,32750.0,38940.0,Regular Gasoline
+Ford,2021,Expedition 4WD,437,0,0.0,19,25.0,369,31100.0,38100.0,Regular Gasoline
+Ford,2020,Expedition 4WD,437,0,0.0,19,25.0,369,24105.0,32620.0,Regular Gasoline
+Ford,2019,Expedition 4WD,345,0,0.0,19,23.3,369,,,Regular Gasoline
+Ford,2019,F150 2WD BASE PAYLOAD LT TIRE,437,0,0.0,19,29.5,420,28745.0,55820.0,Diesel
+Ford,2019,F150 4WD FFV BASE PAYLOAD LT,437,0,0.0,19,29.5,371,27770.0,43365.0,Regular Gasoline
+Ford,2020,F150 Pickup 2WD Limited,437,0,0.0,19,29.5,373,27470.0,43065.0,Regular Gasoline
+Ford,2019,F150 Pickup 2WD Limited,322,0,0.0,19,29.5,373,27155.0,40120.0,Regular Gasoline
+Ford,2023,F150 Pickup 4WD FFV,437,0,0.0,19,29.5,368,,,Regular Gasoline
+Ford,2019,F150 3.5L 2WD GVWR>7599 LBS,437,0,0.0,19,29.5,370,36760.0,54670.0,Regular Gasoline
+Ford,2020,F150 Pickup 4WD Limited,437,0,0.0,19,29.5,370,36760.0,54220.0,Regular Gasoline
+Ford,2019,F150 Pickup 4WD Limited,304,0,0.0,19,29.5,370,35510.0,53775.0,Regular Gasoline
+Ford,2020,Mustang,304,0,0.0,19,16.0,373,32925.0,52730.0,Regular Gasoline
+Ford,2019,Mustang,414,0,0.0,19,16.0,373,32925.0,52730.0,Regular Gasoline
+Ford,2022,Explorer FFV AWD,283,0,0.0,19,0.0,370,32765.0,48380.0,Regular Gasoline
+Ford,2024,F150 Pickup 2WD,437,0,0.0,19,29.5,424,,,Diesel
+Ford,2024,F150 Pickup 4WD,437,0,0.0,19,29.5,430,,,Diesel
+Ford,2024,F150 Pickup 4WD,437,0,0.0,19,29.5,424,32800.0,58645.0,Diesel
+Ford,2024,Mustang,361,0,0.0,19,0.0,379,55820.0,55820.0,Regular Gasoline
+Ford,2019,Taurus AWD,441,0,0.0,19,19.0,379,54375.0,54375.0,Regular Gasoline
+Ford,2023,Expedition 2WD,441,0,0.0,19,23.2,381,84910.0,84910.0,Regular Gasoline
+Ford,2022,Expedition 2WD,414,0,0.0,19,23.2,386,,,Regular Gasoline
+Ford,2021,Explorer FFV AWD,283,0,0.0,19,0.0,387,,,Regular Gasoline
+Ford,2020,Explorer FFV AWD,414,0,0.0,19,0.0,380,38365.0,47205.0,Regular Gasoline
+Ford,2019,Flex FWD,283,0,0.0,19,18.6,380,38365.0,47205.0,Regular Gasoline
+Ford,2019,Explorer AWD,353,0,0.0,19,18.6,380,37945.0,46485.0,Regular Gasoline
+Ford,2022,F150 Pickup 4WD FFV,353,0,0.0,19,24.5,380,37945.0,46485.0,Regular Gasoline
+Ford,2021,F150 Pickup 4WD FFV,437,0,0.0,19,24.5,380,34745.0,43600.0,Regular Gasoline
+Ford,2023,Mustang,299,0,0.0,19,16.0,384,33095.0,43265.0,Regular Gasoline
+Ford,2022,Mustang,437,0,0.0,19,15.9,384,33095.0,43265.0,Regular Gasoline
+Ford,2021,Mustang,299,0,0.0,19,15.5,377,31990.0,42355.0,Regular Gasoline
+Ford,2021,Ranger 2WD Incomplete,304,0,0.0,18,18.0,385,28000.0,34120.0,Regular Gasoline
+Ford,2020,Ranger 2WD Incomplete,302,0,0.0,18,18.0,386,31230.0,38390.0,Regular Gasoline
+Ford,2019,Ranger 2WD Incomplete,294,0,0.0,18,18.1,387,29215.0,44655.0,Regular Gasoline
+Ford,2024,Bronco Black Diamond 4WD,324,0,0.0,18,18.0,387,28815.0,36590.0,Regular Gasoline
+Ford,2024,Bronco Black Diamond 4WD,324,0,0.0,18,18.0,387,27215.0,38160.0,Regular Gasoline
+Ford,2023,Bronco Black Diamond 4WD,326,0,0.0,18,18.0,387,27400.0,37460.0,Regular Gasoline
+Ford,2023,Bronco Black Diamond 4WD,304,0,0.0,18,18.0,387,25980.0,36030.0,Regular Gasoline
+Ford,2022,Bronco Black Diamond 4WD,304,0,0.0,18,18.0,387,25070.0,35335.0,Regular Gasoline
+Ford,2021,Bronco Black Diamond 4WD,304,0,0.0,18,18.0,387,24410.0,34675.0,Regular Gasoline
+Ford,2021,Bronco Sasquatch 4WD,304,0,0.0,18,18.0,387,24300.0,34565.0,Regular Gasoline
+Ford,2024,Bronco Sasquatch 4WD,304,0,0.0,18,18.0,384,27885.0,36450.0,Regular Gasoline
+Ford,2023,Bronco Sasquatch 4WD,304,0,0.0,18,18.0,386,27775.0,40015.0,Regular Gasoline
+Ford,2022,Bronco Sasquatch 4WD,304,0,0.0,18,18.0,382,37945.0,46485.0,Regular Gasoline
+Ford,2022,Bronco Black Diamond 4WD,304,0,0.0,18,18.0,388,37945.0,46485.0,Regular Gasoline
+Ford,2021,Bronco Black Diamond 4WD,304,0,0.0,18,18.0,383,34745.0,43600.0,Regular Gasoline
+Ford,2022,Bronco Sasquatch 4WD,304,0,0.0,18,18.0,385,36760.0,54220.0,Regular Gasoline
+Ford,2024,Expedition 4WD,304,0,0.0,18,23.2,386,35510.0,53775.0,Regular Gasoline
+Ford,2023,Expedition 4WD,304,0,0.0,18,23.2,389,33270.0,48865.0,Regular Gasoline
+Ford,2022,Expedition 4WD,304,0,0.0,18,23.2,386,33270.0,48865.0,Regular Gasoline
+Ford,2019,Explorer AWD,418,0,0.0,18,18.6,386,32970.0,48565.0,Regular Gasoline
+Ford,2019,Explorer AWD FFV,418,0,0.0,18,18.6,386,32970.0,48565.0,Regular Gasoline
+Ford,2019,F150 4WD BASE PAYLOAD LT TIRE,418,0,0.0,18,29.5,387,32655.0,45620.0,Regular Gasoline
+Ford,2020,F150 Pickup 4WD,335,0,0.0,18,29.5,387,32655.0,45620.0,Regular Gasoline
+Ford,2023,F150 Pickup 4WD FFV,335,0,0.0,18,29.5,386,32170.0,45130.0,Regular Gasoline
+Ford,2022,F150 Pickup 4WD FFV,260,0,0.0,18,24.5,387,32170.0,45130.0,Regular Gasoline
+Ford,2021,F150 Pickup 4WD FFV,414,0,0.0,18,24.5,385,31895.0,44855.0,Regular Gasoline
+Ford,2019,F150 Pickup 4WD FFV,414,0,0.0,18,29.5,389,31895.0,44855.0,Regular Gasoline
+Ford,2019,Flex AWD,414,0,0.0,18,18.6,386,,,Regular Gasoline
+Ford,2023,Expedition 4WD,322,0,0.0,18,23.2,386,,,Regular Gasoline
+Ford,2022,Expedition 4WD,414,0,0.0,18,23.2,387,38760.0,56670.0,Regular Gasoline
+Ford,2021,Expedition MAX 4WD,322,0,0.0,18,30.0,387,38760.0,56220.0,Regular Gasoline
+Ford,2020,Expedition MAX 4WD,414,0,0.0,18,30.0,387,37510.0,55775.0,Regular Gasoline
+Ford,2019,Expedition MAX 4WD,322,0,0.0,18,28.3,386,34925.0,54730.0,Regular Gasoline
+Ford,2020,F150 2WD FFV BASE PAYLOAD LT,414,0,0.0,18,29.5,386,34925.0,54730.0,Regular Gasoline
+Ford,2019,F150 2WD FFV BASE PAYLOAD LT,299,0,0.0,18,29.5,386,34765.0,58250.0,Regular Gasoline
+Ford,2019,F150 3.5L 4WD GVWR>7599 LBS,335,0,0.0,18,29.5,446,33935.0,74600.0,Diesel
+Ford,2023,F150 Pickup Tremor 4WD,418,0,0.0,18,29.5,387,33270.0,48865.0,Regular Gasoline
+Ford,2023,F150 Pickup Tremor 4WD,418,0,0.0,18,29.5,386,32970.0,48565.0,Regular Gasoline
+Ford,2022,F150 Pickup Tremor 4WD,540,0,0.0,18,24.5,386,32655.0,45620.0,Regular Gasoline
+Ford,2022,F150 Pickup Tremor 4WD,540,0,0.0,18,24.5,386,,,Regular Gasoline
+Ford,2021,F150 Pickup Tremor 4WD,509,0,0.0,18,24.5,387,,,Regular Gasoline
+Ford,2021,F150 Pickup Tremor 4WD,414,0,0.0,18,24.5,386,,,Regular Gasoline
+Ford,2024,Mustang,322,0,0.0,18,0.0,386,,,Regular Gasoline
+Ford,2023,Mustang,414,0,0.0,18,16.0,389,,,Regular Gasoline
+Ford,2022,Mustang,299,0,0.0,18,15.9,385,,,Regular Gasoline
+Ford,2021,Mustang,414,0,0.0,18,15.5,402,32565.0,43525.0,Regular Gasoline
+Ford,2020,Mustang,414,0,0.0,18,16.0,396,,,Regular Gasoline
+Ford,2019,Mustang,414,0,0.0,18,16.0,396,,,Regular Gasoline
+Ford,2019,Mustang Bullitt,414,0,0.0,18,16.0,397,,,Regular Gasoline
+Ford,2020,Mustang Convertible,414,0,0.0,18,16.0,396,,,Regular Gasoline
+Ford,2019,Mustang Convertible,414,0,0.0,18,16.0,397,,,Regular Gasoline
+Ford,2024,Mustang,414,0,0.0,18,0.0,397,,,Regular Gasoline
+Ford,2023,Mustang Convertible,288,0,0.0,18,16.0,397,,,Regular Gasoline
+Ford,2022,Mustang Convertible,286,0,0.0,18,15.9,397,24275.0,27700.0,Regular Gasoline
+Ford,2021,Mustang Convertible,279,0,0.0,18,15.5,396,24100.0,27045.0,Regular Gasoline
+Ford,2023,Mustang Mach 1,288,0,0.0,18,16.0,397,24665.0,27080.0,Regular Gasoline
+Ford,2022,Mustang Mach 1,288,0,0.0,18,16.0,404,38760.0,56220.0,Regular Gasoline
+Ford,2021,Mustang Mach 1,288,0,0.0,18,16.0,404,37510.0,55775.0,Regular Gasoline
+Ford,2020,F150 Pickup 4WD FFV,288,0,0.0,18,29.5,405,34585.0,65000.0,Regular Gasoline
+Ford,2021,Bronco Badlands 4WD,288,0,0.0,17,18.0,404,30870.0,76975.0,Regular Gasoline
+Ford,2021,Bronco Badlands 4WD,288,0,0.0,17,18.0,406,29290.0,71175.0,Regular Gasoline
+Ford,2024,Bronco Badlands 4WD,286,0,0.0,17,18.0,402,28745.0,55820.0,Regular Gasoline
+Ford,2023,Bronco Badlands 4WD,279,0,0.0,17,18.0,403,28155.0,55220.0,Regular Gasoline
+Ford,2023,Bronco Badlands 4WD,288,0,0.0,17,18.0,397,27400.0,37460.0,Regular Gasoline
+Ford,2022,Bronco Badlands 4WD,288,0,0.0,17,18.0,397,25980.0,36030.0,Regular Gasoline
+Ford,2022,Bronco Badlands 4WD,288,0,0.0,17,18.0,401,29365.0,31540.0,Regular Gasoline
+Ford,2024,Bronco Sasquatch 4WD,414,0,0.0,17,18.0,404,30365.0,33975.0,Regular Gasoline
+Ford,2023,Bronco Sasquatch 4WD,299,0,0.0,17,18.0,404,27400.0,31600.0,Regular Gasoline
+Ford,2022,Bronco Sasquatch 4WD,287,0,0.0,17,18.0,404,27020.0,32250.0,Regular Gasoline
+Ford,2021,Bronco Sasquatch 4WD,287,0,0.0,17,18.0,404,26845.0,31595.0,Regular Gasoline
+Ford,2024,Expedition Timberline AWD,287,0,0.0,17,23.2,463,,,Diesel
+Ford,2023,Expedition Timberline AWD,287,0,0.0,17,23.2,466,33390.0,59245.0,Diesel
+Ford,2022,Expedition Timberline AWD,287,0,0.0,17,23.2,463,32800.0,58645.0,Diesel
+Ford,2024,Bronco Badlands 4WD,287,0,0.0,17,18.0,402,36210.0,47010.0,Regular Gasoline
+Ford,2021,Bronco Badlands 4WD,287,0,0.0,17,18.0,410,31045.0,40945.0,Regular Gasoline
+Ford,2024,Bronco Black Diamond 4WD,287,0,0.0,17,18.0,411,29835.0,39730.0,Regular Gasoline
+Ford,2023,Bronco Black Diamond 4WD,287,0,0.0,17,18.0,404,28925.0,39035.0,Regular Gasoline
+Ford,2024,Bronco Sasquatch 4WD,287,0,0.0,17,18.0,404,28570.0,38675.0,Regular Gasoline
+Ford,2023,Bronco Sasquatch 4WD,287,0,0.0,17,18.0,404,28460.0,38565.0,Regular Gasoline
+Ford,2024,Ranger RAPTOR 4WD,394,0,0.0,17,20.3,409,32365.0,42765.0,Regular Gasoline
+Ford,2023,Bronco Badlands 4WD,394,0,0.0,17,18.0,404,,,Regular Gasoline
+Ford,2022,Bronco Badlands 4WD,394,0,0.0,17,18.0,404,,,Regular Gasoline
+Ford,2019,Flex AWD,287,0,0.0,17,18.6,404,,,Regular Gasoline
+Ford,2019,F150 4WD FFV BASE PAYLOAD LT,287,0,0.0,17,29.5,406,,,Regular Gasoline
+Ford,2020,F150 5.0L 2WD FFV GVWR>7599 LBS,287,0,0.0,17,29.5,409,28745.0,55820.0,Regular Gasoline
+Ford,2019,F150 5.0L 2WD FFV GVWR>7599 LBS,287,0,0.0,17,29.5,412,28155.0,55220.0,Regular Gasoline
+Ford,2023,F150 Pickup Tremor 4WD FFV,287,0,0.0,17,36.0,424,,,Regular Gasoline
+Ford,2023,F150 Pickup Tremor 4WD FFV,287,0,0.0,17,36.0,414,,,Regular Gasoline
+Ford,2023,Expedition Timberline AWD,345,0,0.0,17,23.2,414,,,Regular Gasoline
+Ford,2022,Expedition Timberline AWD,287,0,0.0,17,23.2,424,28500.0,33995.0,Regular Gasoline
+Ford,2022,Transit T150 Wagon 2WD FFV,287,0,0.0,17,25.0,426,28500.0,33995.0,Regular Gasoline
+Ford,2020,Transit T150 Wagon 2WD FFV,316,0,0.0,17,25.0,417,33095.0,43265.0,Regular Gasoline
+Ford,2024,Mustang,391,0,0.0,17,0.0,418,31990.0,42355.0,Regular Gasoline
+Ford,2020,Mustang Bullitt,299,0,0.0,17,16.0,418,38365.0,47205.0,Regular Gasoline
+Ford,2024,Mustang Dark Horse,391,0,0.0,17,0.0,421,37945.0,46485.0,Regular Gasoline
+Ford,2024,Mustang Dark Horse,322,0,0.0,17,0.0,423,37945.0,46485.0,Regular Gasoline
+Ford,2023,Mustang Mach 1,391,0,0.0,17,16.0,423,34745.0,43600.0,Regular Gasoline
+Ford,2022,Mustang Mach 1,299,0,0.0,17,16.0,422,,,Regular Gasoline
+Ford,2021,Mustang Mach 1,612,0,0.0,17,16.0,423,,,Regular Gasoline
+Ford,2019,Transit T150 Wagon,468,0,0.0,16,25.0,425,36570.0,49980.0,Regular Gasoline
+Ford,2021,Transit T150 Wagon 2WD FFV,612,0,0.0,16,25.0,423,,,Regular Gasoline
+Ford,2023,F150 RAPTOR 4WD,468,0,0.0,16,36.0,423,,,Regular Gasoline
+Ford,2022,F150 RAPTOR 4WD,394,0,0.0,16,26.0,415,,,Regular Gasoline
+Ford,2021,F150 RAPTOR 4WD,394,0,0.0,16,36.0,423,,,Regular Gasoline
+Ford,2020,F150 RAPTOR 4WD,425,0,0.0,16,29.5,423,,,Regular Gasoline
+Ford,2019,F150 RAPTOR 4WD,300,0,0.0,16,29.5,423,,,Regular Gasoline
+Ford,2020,Shelby GT350 Mustang,425,0,0.0,16,16.0,433,35885.0,80435.0,Regular Gasoline
+Ford,2019,Shelby GT350 Mustang,300,0,0.0,16,16.0,432,33935.0,74600.0,Regular Gasoline
+Ford,2019,F150 5.0L 4WD FFV GVWR>7599 LBS,272,0,0.0,16,29.5,423,32800.0,58645.0,Regular Gasoline
+Ford,2020,Transit T150 Wagon 4WD FFV,272,0,0.0,16,25.0,420,31045.0,40945.0,Regular Gasoline
+Ford,2024,F150 RAPTOR 4WD,272,0,0.0,16,29.5,420,29835.0,39730.0,Regular Gasoline
+Ford,2022,Transit T150 Wagon 4WD FFV,272,0,0.0,16,25.0,431,46015.0,46015.0,Regular Gasoline
+Ford,2021,Transit T150 Wagon 4WD FFV,400,0,0.0,16,25.0,433,49330.0,49330.0,Regular Gasoline
+Ford,2024,Bronco Raptor 4WD,400,0,0.0,15,18.0,433,48980.0,48980.0,Regular Gasoline
+Ford,2023,Bronco Raptor 4WD,300,0,0.0,15,20.8,433,48320.0,48320.0,Regular Gasoline
+Ford,2022,Bronco Raptor 4WD,576,0,0.0,15,20.8,426,36760.0,54670.0,Regular Gasoline
+Ford,2023,F150 RAPTOR 37 4WD,416,0,0.0,15,36.0,428,36760.0,54220.0,Regular Gasoline
+Ford,2022,F150 RAPTOR 37 4WD,576,0,0.0,15,26.0,428,35510.0,53775.0,Regular Gasoline
+Ford,2021,F150 RAPTOR 37 4WD,368,0,0.0,15,36.0,431,32925.0,52730.0,Regular Gasoline
+Ford,2023,F150 RAPTOR 4WD,368,0,0.0,15,36.0,428,27800.0,37310.0,Regular Gasoline
+Ford,2022,F150 RAPTOR 4WD,256,0,0.0,15,26.0,428,27800.0,37310.0,Regular Gasoline
+Ford,2021,F150 RAPTOR 4WD,256,0,0.0,15,36.0,423,34515.0,54165.0,Regular Gasoline
+Ford,2019,Transit T150 Wagon,368,0,0.0,15,25.0,431,34585.0,65000.0,Regular Gasoline
+Ford,2019,Transit T150 Wagon FFV,276,0,0.0,15,25.0,426,28155.0,55220.0,Regular Gasoline
+Ford,2023,F150 RAPTOR 37 4WD,400,0,0.0,15,36.0,432,34585.0,65000.0,Regular Gasoline
+Ford,2022,F150 RAPTOR 37 4WD,300,0,0.0,15,26.0,438,39130.0,71105.0,Regular Gasoline
+Ford,2021,F150 RAPTOR 37 4WD,368,0,0.0,15,36.0,444,39130.0,71105.0,Regular Gasoline
+Ford,2022,GT,400,0,0.0,14,16.0,439,34095.0,38540.0,Regular Gasoline
+Ford,2021,GT,300,0,0.0,14,16.0,440,34095.0,38540.0,Regular Gasoline
+Ford,2020,GT,400,0,0.0,14,0.0,439,31300.0,51225.0,Regular Gasoline
+Ford,2022,Shelby GT500 Mustang,300,0,0.0,14,16.0,437,31300.0,51225.0,Regular Gasoline
+Ford,2021,Shelby GT500 Mustang,253,0,0.0,14,16.0,443,,,Regular Gasoline
+Ford,2020,Shelby GT500 Mustang,312,0,0.0,14,0.0,445,36210.0,47010.0,Regular Gasoline
+Ford,2019,GT,312,0,0.0,14,0.0,444,,,Regular Gasoline
+Ford,2024,F150 RAPTOR R 4WD,540,0,0.0,12,29.5,444,,,Regular Gasoline
+Ford,2023,F150 RAPTOR R 4WD,390,0,0.0,12,36.0,445,,,Regular Gasoline
+Nissan,2019,Leaf (40 kW-hr battery pack),540,112,8.0,0,0.0,452,39130.0,71105.0,Regular Gasoline
+Nissan,2024,LEAF,540,111,8.0,0,0.0,454,34095.0,38540.0,Regular Gasoline
+Nissan,2023,LEAF,390,111,8.0,0,0.0,445,48980.0,48980.0,Regular Gasoline
+Nissan,2022,Leaf (40 kW-hr battery pack),540,111,8.0,0,0.0,445,48320.0,48320.0,Regular Gasoline
+Nissan,2021,Leaf (40 kW-hr battery pack),375,111,8.0,0,0.0,437,36760.0,54670.0,Regular Gasoline
+Nissan,2020,Leaf (40 kW-hr battery pack),375,111,8.0,0,0.0,438,36760.0,54220.0,Regular Gasoline
+Nissan,2024,LEAF SV,275,109,11.0,0,0.0,437,35510.0,53775.0,Regular Gasoline
+Nissan,2023,LEAF SV,540,109,11.0,0,0.0,444,38760.0,56670.0,Regular Gasoline
+Nissan,2022,Leaf (62 kW-hr battery pack),390,108,11.0,0,0.0,445,38760.0,56670.0,Regular Gasoline
+Nissan,2021,Leaf (62 kW-hr battery pack),540,108,11.0,0,0.0,444,38760.0,56220.0,Regular Gasoline
+Nissan,2020,Leaf (62 kW-hr battery pack),224,108,11.0,0,0.0,445,38760.0,56220.0,Regular Gasoline
+Nissan,2019,Leaf (62 kW-hr battery pack),224,108,11.0,0,0.0,444,37510.0,55775.0,Regular Gasoline
+Nissan,2022,Leaf SV/SL (62 kW-hr battery pack),224,104,11.0,0,0.0,445,37510.0,55775.0,Regular Gasoline
+Nissan,2021,Leaf SV/SL (62 kW-hr battery pack),224,104,11.0,0,0.0,445,34925.0,54730.0,Regular Gasoline
+Nissan,2020,Leaf SV/SL (62 kW-hr battery pack),276,104,11.0,0,0.0,446,34765.0,58250.0,Regular Gasoline
+Nissan,2019,Leaf SV/SL (62 kW-hr battery pack),432,104,11.0,0,0.0,436,30870.0,76975.0,Regular Gasoline
+Nissan,2023,ARIYA VENTURE Plus FWD 87kWh,150,103,14.0,0,0.0,437,29290.0,71175.0,Regular Gasoline
+Nissan,2023,ARIYA ENGAGE FWD 63kWh,149,101,10.0,0,0.0,435,39600.0,68795.0,Regular Gasoline
+Nissan,2023,ARIYA EVO Plus/EMP Plus/PRM FWD 87kWh,149,98,14.0,0,0.0,445,33935.0,74600.0,Regular Gasoline
+Nissan,2023,ARIYA ENGAGE e-4ORCE 63kWh,149,95,10.0,0,0.0,444,,,Regular Gasoline
+Nissan,2023,ARIYA ENG Plus/EVO Plus e-4ORCE 87kWh,149,92,13.0,0,0.0,444,,,Regular Gasoline
+Nissan,2023,ARIYA PLAT Plus e-4ORCE 87kWh 19,149,90,14.0,0,0.0,444,41585.0,73730.0,Regular Gasoline
+Nissan,2023,ARIYA PLAT Plus e-4ORCE 87kWh 20,212,87,14.0,0,0.0,451,39600.0,68795.0,Regular Gasoline
+Nissan,2024,Versa,212,0,0.0,35,10.8,444,35885.0,80435.0,Regular Gasoline
+Nissan,2023,Versa,226,0,0.0,35,10.8,445,33935.0,74600.0,Regular Gasoline
+Nissan,2022,Versa,226,0,0.0,35,10.8,444,33390.0,59245.0,Regular Gasoline
+Nissan,2021,Versa,226,0,0.0,35,10.8,439,33390.0,59245.0,Regular Gasoline
+Nissan,2020,Versa,226,0,0.0,35,10.8,439,32800.0,58645.0,Regular Gasoline
+Nissan,2019,Rogue Hybrid FWD,215,0,0.0,34,14.5,444,27775.0,40015.0,Regular Gasoline
+Nissan,2019,Versa,215,0,0.0,34,10.8,444,,,Regular Gasoline
+Nissan,2024,Sentra,215,0,0.0,34,12.4,455,36570.0,49980.0,Regular Gasoline
+Nissan,2024,Kicks,215,0,0.0,33,10.8,453,,,Regular Gasoline
+Nissan,2023,Kicks,304,0,0.0,33,10.8,454,52130.0,73365.0,Regular Gasoline
+Nissan,2022,Kicks,216,0,0.0,33,10.8,454,,,Regular Gasoline
+Nissan,2021,Kicks,289,0,0.0,33,10.8,451,38760.0,56220.0,Regular Gasoline
+Nissan,2020,Kicks,205,0,0.0,33,10.8,454,38760.0,56220.0,Regular Gasoline
+Nissan,2019,Kicks,272,0,0.0,33,10.8,444,,,Regular Gasoline
+Nissan,2019,Rogue Hybrid AWD,267,0,0.0,33,14.5,454,32365.0,42765.0,Regular Gasoline
+Nissan,2024,Sentra SR,257,0,0.0,33,12.4,444,30870.0,76975.0,Regular Gasoline
+Nissan,2024,Rogue FWD,378,0,0.0,33,14.5,444,29290.0,71175.0,Regular Gasoline
+Nissan,2023,Rogue FWD,378,0,0.0,33,14.5,444,,,Regular Gasoline
+Nissan,2023,Rogue FWD,378,0,0.0,33,14.5,446,,,Regular Gasoline
+Nissan,2022,Rogue FWD,378,0,0.0,33,14.5,451,39600.0,68795.0,Regular Gasoline
+Nissan,2021,Rogue FWD,378,0,0.0,33,14.5,453,35885.0,80435.0,Regular Gasoline
+Nissan,2021,Rogue AWD,493,0,0.0,33,14.5,456,31300.0,51225.0,Regular Gasoline
+Nissan,2023,Sentra,367,0,0.0,33,12.4,471,,,Regular Gasoline
+Nissan,2022,Sentra,422,0,0.0,33,12.4,468,,,Regular Gasoline
+Nissan,2021,Sentra,356,0,0.0,33,12.4,462,,,Regular Gasoline
+Nissan,2020,Sentra,356,0,0.0,33,12.4,462,28500.0,33995.0,Regular Gasoline
+Nissan,2021,Rogue FWD SL/Platinum,356,0,0.0,32,14.5,465,,,Regular Gasoline
+Nissan,2019,Sentra,356,0,0.0,32,13.2,461,,,Regular Gasoline
+Nissan,2024,Rogue FWD SL/Platinum,356,0,0.0,32,14.5,463,,,Regular Gasoline
+Nissan,2023,Rogue FWD SL/Platinum,356,0,0.0,32,14.5,468,32080.0,42975.0,Regular Gasoline
+Nissan,2023,Rogue FWD SL/Platinum,478,0,0.0,32,14.5,468,32080.0,42975.0,Regular Gasoline
+Nissan,2022,Rogue FWD SL/Platinum,409,0,0.0,32,14.5,462,56075.0,84245.0,Regular Gasoline
+Nissan,2021,Rogue AWD SL/Platinum,478,0,0.0,32,14.5,462,55125.0,78115.0,Regular Gasoline
+Nissan,2022,Altima,478,0,0.0,32,16.2,462,53375.0,79560.0,Regular Gasoline
+Nissan,2021,Altima,478,0,0.0,32,16.2,456,49625.0,74375.0,Regular Gasoline
+Nissan,2020,Altima,478,0,0.0,32,16.2,467,52810.0,73935.0,Regular Gasoline
+Nissan,2019,Altima,478,0,0.0,32,16.2,456,55410.0,76375.0,Regular Gasoline
+Nissan,2023,Sentra SR,478,0,0.0,32,12.4,467,55835.0,76965.0,Regular Gasoline
+Nissan,2022,Sentra SR,409,0,0.0,32,12.4,467,54815.0,76060.0,Regular Gasoline
+Nissan,2021,Sentra SR,409,0,0.0,32,12.4,468,28745.0,55820.0,Regular Gasoline
+Nissan,2020,Sentra SR,409,0,0.0,32,12.4,467,28745.0,55820.0,Regular Gasoline
+Nissan,2024,Altima,409,0,0.0,32,16.2,463,28155.0,55220.0,Regular Gasoline
+Nissan,2023,Altima,464,0,0.0,32,16.2,470,39600.0,68795.0,Regular Gasoline
+Nissan,2024,Rogue AWD,422,0,0.0,31,14.5,467,35885.0,80435.0,Regular Gasoline
+Nissan,2023,Rogue AWD,464,0,0.0,31,14.5,468,33935.0,74600.0,Regular Gasoline
+Nissan,2023,Rogue AWD,464,0,0.0,31,14.5,472,32800.0,58645.0,Regular Gasoline
+Nissan,2022,Rogue AWD,464,0,0.0,31,14.5,476,52675.0,77425.0,Regular Gasoline
+Nissan,2024,Rogue AWD SL/Platinum,464,0,0.0,31,14.5,473,55820.0,77085.0,Regular Gasoline
+Nissan,2023,Rogue AWD SL/Platinum,464,0,0.0,31,14.5,469,55140.0,76515.0,Regular Gasoline
+Nissan,2023,Rogue AWD SL/Platinum,518,0,0.0,31,14.5,466,,,Regular Gasoline
+Nissan,2022,Rogue AWD SL/Platinum,518,0,0.0,31,14.5,468,,,Regular Gasoline
+Nissan,2024,Altima SL/SR,518,0,0.0,31,16.2,466,67735.0,67735.0,Regular Gasoline
+Nissan,2023,Altima SL/SR,518,0,0.0,31,16.2,462,67135.0,67135.0,Regular Gasoline
+Nissan,2022,Altima SR,397,0,0.0,31,16.2,468,,,Regular Gasoline
+Nissan,2021,Altima SR,397,0,0.0,31,16.2,466,,,Regular Gasoline
+Nissan,2020,Altima SR/Platinum,397,0,0.0,31,16.2,467,71160.0,71160.0,Regular Gasoline
+Nissan,2019,Altima SR/Platinum,397,0,0.0,31,16.2,467,70560.0,70560.0,Regular Gasoline
+Nissan,2022,Altima SV/SL,518,0,0.0,31,16.2,472,26670.0,39630.0,Regular Gasoline
+Nissan,2021,Altima SV/SL,518,0,0.0,31,16.2,471,26395.0,39355.0,Regular Gasoline
+Nissan,2019,Versa,450,0,0.0,30,10.8,470,,,Regular Gasoline
+Nissan,2021,Rogue FWD,450,0,0.0,30,14.5,468,36570.0,49980.0,Regular Gasoline
+Nissan,2019,Sentra,450,0,0.0,30,13.2,472,41585.0,73730.0,Regular Gasoline
+Nissan,2024,Versa,450,0,0.0,30,10.8,467,41585.0,73730.0,Regular Gasoline
+Nissan,2023,Versa,450,0,0.0,30,10.8,467,30920.0,46015.0,Regular Gasoline
+Nissan,2022,Versa,450,0,0.0,30,10.8,471,32080.0,42975.0,Regular Gasoline
+Nissan,2021,Versa,450,0,0.0,30,10.8,468,55125.0,78115.0,Regular Gasoline
+Nissan,2020,Versa,450,0,0.0,30,10.8,468,53375.0,79560.0,Regular Gasoline
+Nissan,2024,Altima AWD,502,0,0.0,30,16.0,471,,,Regular Gasoline
+Nissan,2023,Altima AWD,502,0,0.0,30,16.0,468,34765.0,58250.0,Regular Gasoline
+Nissan,2022,Altima AWD,502,0,0.0,30,16.0,468,30575.0,38790.0,Regular Gasoline
+Nissan,2021,Altima AWD,502,0,0.0,30,16.0,478,34515.0,54165.0,Regular Gasoline
+Nissan,2020,Altima AWD,502,0,0.0,30,16.0,468,,,Regular Gasoline
+Nissan,2019,Altima AWD,502,0,0.0,30,16.0,479,,,Regular Gasoline
+Nissan,2019,Sentra,502,0,0.0,29,13.2,480,27770.0,43365.0,Regular Gasoline
+Nissan,2021,Rogue FWD SV/SL/Platinum,502,0,0.0,29,14.5,479,27470.0,43065.0,Regular Gasoline
+Nissan,2021,Rogue AWD,324,0,0.0,29,14.5,479,27155.0,40120.0,Regular Gasoline
+Nissan,2020,Rogue FWD,435,0,0.0,29,14.5,486,,,Regular Gasoline
+Nissan,2019,Rogue FWD,396,0,0.0,29,14.5,485,,,Regular Gasoline
+Nissan,2022,Altima AWD SR/Platinum,324,0,0.0,29,16.0,484,,,Regular Gasoline
+Nissan,2021,Altima AWD SR/Platinum,324,0,0.0,29,16.0,494,42630.0,43370.0,Regular Gasoline
+Nissan,2020,Altima AWD SR/Platinum,324,0,0.0,29,16.0,495,42630.0,43370.0,Regular Gasoline
+Nissan,2019,Altima AWD SR/Platinum,324,0,0.0,29,16.0,494,40750.0,43035.0,Regular Gasoline
+Nissan,2024,Altima SR,324,0,0.0,29,16.2,494,40750.0,43035.0,Regular Gasoline
+Nissan,2023,Altima SR,480,0,0.0,29,16.2,493,37950.0,40840.0,Regular Gasoline
+Nissan,2022,Altima SR,480,0,0.0,29,16.2,494,36050.0,36050.0,Regular Gasoline
+Nissan,2021,Altima SR/Platinum,480,0,0.0,29,16.2,494,,,Regular Gasoline
+Nissan,2020,Altima SR/Platinum,480,0,0.0,29,16.2,494,,,Regular Gasoline
+Nissan,2019,Altima SR/Platinum,480,0,0.0,29,16.2,494,,,Regular Gasoline
+Nissan,2021,Rogue AWD SV/SL/Platinum,480,0,0.0,28,14.5,494,,,Regular Gasoline
+Nissan,2022,Rogue Sport,383,0,0.0,28,14.5,494,37950.0,40840.0,Regular Gasoline
+Nissan,2021,Rogue Sport,420,0,0.0,28,14.5,496,36050.0,36050.0,Regular Gasoline
+Nissan,2020,Rogue Sport,420,0,0.0,28,14.5,494,,,Regular Gasoline
+Nissan,2019,Rogue Sport,420,0,0.0,28,14.5,485,59375.0,87545.0,Regular Gasoline
+Nissan,2020,Rogue AWD,420,0,0.0,27,14.5,484,58175.0,83615.0,Regular Gasoline
+Nissan,2019,Rogue AWD,464,0,0.0,27,14.5,484,56425.0,82610.0,Regular Gasoline
+Nissan,2019,Sentra Nismo,464,0,0.0,27,13.2,500,34515.0,54165.0,Regular Gasoline
+Nissan,2019,Sentra Nismo,464,0,0.0,27,13.2,481,,,Regular Gasoline
+Nissan,2022,Rogue Sport AWD,464,0,0.0,27,14.5,494,,,Regular Gasoline
+Nissan,2021,Rogue Sport AWD,470,0,0.0,27,14.5,488,33390.0,59245.0,Regular Gasoline
+Nissan,2020,Rogue Sport AWD,470,0,0.0,27,14.5,495,,,Regular Gasoline
+Nissan,2019,Rogue Sport AWD,470,0,0.0,27,14.5,494,,,Regular Gasoline
+Nissan,2021,NV200 Cargo Van,470,0,0.0,25,14.5,495,,,Regular Gasoline
+Nissan,2020,NV200 Cargo Van,470,0,0.0,25,28.0,498,32800.0,58645.0,Regular Gasoline
+Nissan,2019,NV200 Cargo Van,470,0,0.0,25,14.5,494,35240.0,43590.0,Regular Gasoline
+Nissan,2019,NV200 NYC Taxi,406,0,0.0,24,0.0,494,58175.0,83615.0,Regular Gasoline
+Nissan,2023,Maxima,406,0,0.0,24,18.0,494,56425.0,82610.0,Regular Gasoline
+Nissan,2022,Maxima,406,0,0.0,24,18.0,494,58460.0,79425.0,Regular Gasoline
+Nissan,2021,Maxima,406,0,0.0,24,18.0,494,58845.0,80110.0,Regular Gasoline
+Nissan,2020,Maxima,406,0,0.0,24,18.0,493,57825.0,79200.0,Regular Gasoline
+Nissan,2019,Maxima,392,0,0.0,24,18.0,494,,,Regular Gasoline
+Nissan,2024,Pathfinder 4WD,392,0,0.0,23,18.5,493,,,Regular Gasoline
+Nissan,2023,Pathfinder 4WD,356,0,0.0,23,18.5,494,,,Regular Gasoline
+Nissan,2022,Pathfinder 4WD,356,0,0.0,23,18.5,501,61110.0,61110.0,Regular Gasoline
+Nissan,2022,Pathfinder 2WD,392,0,0.0,23,18.5,497,61110.0,61110.0,Regular Gasoline
+Nissan,2024,Murano AWD,392,0,0.0,23,19.0,498,,,Regular Gasoline
+Nissan,2023,Murano AWD,392,0,0.0,23,19.0,503,,,Regular Gasoline
+Nissan,2022,Murano AWD,392,0,0.0,23,19.0,498,49505.0,49505.0,Regular Gasoline
+Nissan,2021,Murano AWD,362,0,0.0,23,19.0,503,49505.0,49505.0,Regular Gasoline
+Nissan,2020,Murano AWD,700,0,0.0,23,19.0,492,30920.0,46015.0,Regular Gasoline
+Nissan,2019,Murano AWD,362,0,0.0,23,19.0,498,27770.0,43365.0,Regular Gasoline
+Nissan,2024,Murano FWD,432,0,0.0,23,19.0,500,27470.0,43065.0,Regular Gasoline
+Nissan,2023,Murano FWD,432,0,0.0,23,19.0,490,27155.0,40120.0,Regular Gasoline
+Nissan,2022,Murano FWD,432,0,0.0,23,19.0,493,26670.0,39630.0,Regular Gasoline
+Nissan,2021,Murano FWD,432,0,0.0,23,19.0,490,26395.0,39355.0,Regular Gasoline
+Nissan,2020,Murano FWD,432,0,0.0,23,19.0,490,46595.0,46595.0,Regular Gasoline
+Nissan,2019,Murano FWD,426,0,0.0,23,19.0,484,32170.0,45130.0,Regular Gasoline
+Nissan,2024,Pathfinder 2WD,426,0,0.0,23,18.5,491,31895.0,44855.0,Regular Gasoline
+Nissan,2023,Pathfinder 2WD,426,0,0.0,23,18.5,494,30920.0,46015.0,Regular Gasoline
+Nissan,2020,Pathfinder 2WD,426,0,0.0,23,19.5,497,33270.0,48865.0,Regular Gasoline
+Nissan,2019,Pathfinder 2WD,437,0,0.0,23,19.5,497,32970.0,48565.0,Regular Gasoline
+Nissan,2020,Pathfinder 4WD,437,0,0.0,22,19.5,493,32655.0,45620.0,Regular Gasoline
+Nissan,2024,Pathfinder 4WD Platinum,437,0,0.0,22,18.5,493,55570.0,55570.0,Regular Gasoline
+Nissan,2022,Pathfinder 4WD Platinum,437,0,0.0,22,18.5,493,55270.0,55270.0,Regular Gasoline
+Nissan,2023,Pathfinder 4WD SL/Platinum,437,0,0.0,22,18.5,494,51720.0,51720.0,Regular Gasoline
+Nissan,2024,Z,437,0,0.0,22,0.0,506,33390.0,59245.0,Regular Gasoline
+Nissan,2023,Z,437,0,0.0,22,0.0,513,42095.0,44590.0,Regular Gasoline
+Nissan,2020,370Z,437,0,0.0,22,19.0,509,42095.0,44590.0,Regular Gasoline
+Nissan,2019,370Z,437,0,0.0,22,19.0,523,49395.0,50685.0,Regular Gasoline
+Nissan,2019,Pathfinder 4WD,437,0,0.0,22,19.5,510,46895.0,48685.0,Regular Gasoline
+Nissan,2024,Pathfinder 4WD Rock Creek,437,0,0.0,21,18.5,530,46895.0,48685.0,Regular Gasoline
+Nissan,2023,Pathfinder 4WD Rock Creek,437,0,0.0,21,18.5,529,44495.0,46590.0,Regular Gasoline
+Nissan,2020,Pathfinder 4WD Platinum,426,0,0.0,21,19.5,519,44495.0,46590.0,Regular Gasoline
+Nissan,2019,Pathfinder 4WD Platinum,426,0,0.0,21,19.5,522,,,Regular Gasoline
+Nissan,2019,Frontier 2WD,448,0,0.0,21,21.1,531,,,Regular Gasoline
+Nissan,2020,370Z Roadster,448,0,0.0,21,0.0,531,,,Regular Gasoline
+Nissan,2019,370Z Roadster,429,0,0.0,21,19.0,527,,,Regular Gasoline
+Nissan,2024,Frontier 2WD,407,0,0.0,21,21.0,523,,,Regular Gasoline
+Nissan,2023,Frontier 2WD,407,0,0.0,21,21.0,523,71400.0,71400.0,Regular Gasoline
+Nissan,2023,Frontier 2WD,407,0,0.0,20,21.0,523,70450.0,70450.0,Regular Gasoline
+Nissan,2022,Frontier 2WD,418,0,0.0,20,21.0,526,49395.0,50685.0,Regular Gasoline
+Nissan,2021,Frontier 2WD,418,0,0.0,20,21.1,533,42095.0,44590.0,Regular Gasoline
+Nissan,2020,Frontier 2WD,429,0,0.0,20,0.0,523,42630.0,43370.0,Regular Gasoline
+Nissan,2024,Z,388,0,0.0,20,0.0,523,40750.0,43035.0,Regular Gasoline
+Nissan,2023,Z,388,0,0.0,20,0.0,523,,,Regular Gasoline
+Nissan,2024,Frontier 4WD,410,0,0.0,20,21.0,523,,,Regular Gasoline
+Nissan,2023,Frontier 4WD,410,0,0.0,20,21.0,525,55365.0,55365.0,Regular Gasoline
+Nissan,2021,370Z,443,0,0.0,20,0.0,530,46895.0,48685.0,Regular Gasoline
+Nissan,2020,370Z,399,0,0.0,20,19.0,538,44495.0,46590.0,Regular Gasoline
+Nissan,2019,370Z,441,0,0.0,20,19.0,523,35240.0,43590.0,Regular Gasoline
+Nissan,2024,Frontier 4WD PRO4X,441,0,0.0,19,21.0,523,,,Regular Gasoline
+Nissan,2023,Frontier 4WD PRO4X,420,0,0.0,19,21.0,523,,,Regular Gasoline
+Nissan,2024,Z NISMO,420,0,0.0,19,0.0,522,,,Regular Gasoline
+Nissan,2021,Frontier 4WD,422,0,0.0,19,21.1,516,,,Regular Gasoline
+Nissan,2020,Frontier 4WD,420,0,0.0,19,0.0,518,,,Regular Gasoline
+Nissan,2019,Frontier 2WD,420,0,0.0,19,21.1,523,71400.0,71400.0,Regular Gasoline
+Nissan,2023,Frontier 4WD,380,0,0.0,19,21.0,523,70450.0,70450.0,Regular Gasoline
+Nissan,2022,Frontier 4WD,380,0,0.0,19,21.0,538,,,Regular Gasoline
+Nissan,2023,Frontier 4WD PRO4X,399,0,0.0,19,21.0,537,,,Regular Gasoline
+Nissan,2019,Frontier 2WD,399,0,0.0,19,21.1,515,30920.0,46015.0,Regular Gasoline
+Nissan,2019,Frontier 2WD,401,0,0.0,19,21.1,514,46705.0,46705.0,Regular Gasoline
+Nissan,2019,Frontier 2WD FFV,401,0,0.0,18,21.1,535,57970.0,57970.0,Regular Gasoline
+Nissan,2024,GT-R,399,0,0.0,18,19.5,524,57970.0,57970.0,Regular Gasoline
+Nissan,2023,GT-R,399,0,0.0,18,19.5,523,55570.0,55570.0,Regular Gasoline
+Nissan,2021,GT-R,399,0,0.0,18,0.0,523,55270.0,55270.0,Regular Gasoline
+Nissan,2020,GT-R,401,0,0.0,18,19.5,523,51720.0,51720.0,Regular Gasoline
+Nissan,2019,GT-R,401,0,0.0,18,19.5,552,35840.0,38735.0,Regular Gasoline
+Nissan,2020,Titan 2WD,380,0,0.0,18,26.0,540,,,Regular Gasoline
+Nissan,2019,Frontier 4WD,274,0,0.0,18,21.1,553,76775.0,76775.0,Regular Gasoline
+Nissan,2023,Titan 2WD,351,0,0.0,18,26.0,553,,,Regular Gasoline
+Nissan,2022,Titan 2WD,351,0,0.0,18,26.0,553,64145.0,64145.0,Regular Gasoline
+Nissan,2021,Titan 2WD,351,0,0.0,18,26.0,540,53455.0,56440.0,Regular Gasoline
+Nissan,2019,Titan 2WD,351,0,0.0,18,26.0,540,,,Regular Gasoline
+Nissan,2023,Titan 4WD,468,0,0.0,18,26.0,550,59140.0,72135.0,Premium Gasoline
+Nissan,2022,Titan 4WD,380,0,0.0,18,26.0,549,59140.0,67135.0,Premium Gasoline
+Nissan,2021,Titan 4WD,468,0,0.0,18,26.0,555,,,Regular Gasoline
+Nissan,2020,Titan 4WD,468,0,0.0,18,26.0,562,,,Regular Gasoline
+Nissan,2019,Titan 4WD,468,0,0.0,18,26.0,555,77980.0,77980.0,Regular Gasoline
+Nissan,2019,Frontier 4WD,468,0,0.0,17,21.1,563,,,Regular Gasoline
+Nissan,2019,Frontier 4WD FFV,468,0,0.0,17,21.1,565,,,Regular Gasoline
+Nissan,2024,Titan 2WD,468,0,0.0,17,26.0,577,89835.0,89835.0,Regular Gasoline
+Nissan,2024,Titan 4WD,468,0,0.0,17,26.0,577,76580.0,76580.0,Regular Gasoline
+Nissan,2020,Titan 4WD PRO4X,468,0,0.0,17,26.0,577,68500.0,68500.0,Regular Gasoline
+Nissan,2021,Titan 4WD PRO-4X,468,0,0.0,17,26.0,578,,,Regular Gasoline
+Nissan,2023,Titan 4WD PRO4X,359,0,0.0,17,26.0,578,,,Regular Gasoline
+Nissan,2022,Titan 4WD PRO4X,359,0,0.0,17,26.0,578,64145.0,64145.0,Regular Gasoline
+Nissan,2019,Titan 4WD PRO4X,253,0,0.0,17,26.0,593,76775.0,76775.0,Regular Gasoline
+Nissan,2024,Titan 4WD PRO4X,442,0,0.0,16,26.0,593,,,Regular Gasoline
+Nissan,2024,Armada 2WD,442,0,0.0,16,26.0,593,64145.0,64145.0,Regular Gasoline
+Nissan,2023,Armada 2WD,442,0,0.0,16,26.0,572,35840.0,38735.0,Regular Gasoline
+Nissan,2022,Armada 2WD,442,0,0.0,16,26.0,572,35840.0,38735.0,Regular Gasoline
+Nissan,2021,Armada 2WD,442,0,0.0,16,26.0,596,,,Regular Gasoline
+Nissan,2020,Armada 2WD,442,0,0.0,16,26.0,596,,,Regular Gasoline
+Nissan,2019,Armada 2WD,442,0,0.0,16,26.0,596,64145.0,64145.0,Regular Gasoline
+Nissan,2024,Armada 4WD,416,0,0.0,15,26.0,632,,,Premium Gasoline
+Nissan,2023,Armada 4WD,416,0,0.0,15,26.0,632,,,Premium Gasoline
+Nissan,2023,Armada 4WD,416,0,0.0,15,26.0,632,,,Premium Gasoline
+Nissan,2022,Armada 4WD,416,0,0.0,15,26.0,631,80915.0,80915.0,Premium Gasoline
+Nissan,2022,Armada 4WD,416,0,0.0,15,26.0,631,,,Premium Gasoline
+Nissan,2021,Armada 4WD,416,0,0.0,15,26.0,631,59140.0,72135.0,Premium Gasoline
+Nissan,2021,Armada 4WD,416,0,0.0,15,26.0,654,,,Premium Gasoline
+Nissan,2020,Armada 4WD,390,0,0.0,15,26.0,741,,,Regular Gasoline
+Nissan,2019,Armada 4WD,390,0,0.0,15,26.0,741,107350.0,107350.0,Regular Gasoline
