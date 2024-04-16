@@ -87,6 +87,7 @@ Our analysis involves comparing different manufacturers and car models to identi
 
 - Gasoline cars, priced between $20,000-$60,000, generally show better total range performance, exceeding 600 miles, compared to electric cars in the same price range, which typically offer a maximum range of around 500 miles.
 - Ford is a car manufacturer which offering the best prices. It has the lowest average emissions, while offering more cars to an average cheaper prices.
+- The result shows the price of gasoline per mile throughout the years, beginning with 2018 (the lightest line) and going to 2024 (the darkest line). Over time the price has almost doubled.
 
 
 
