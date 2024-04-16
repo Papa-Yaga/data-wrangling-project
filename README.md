@@ -32,7 +32,7 @@ Car manufacture, car year, model of the car, car type, car price, storage and co
    - Examining affordability efficiency emission and car offering
  
 ## Hypothesis
-- Eco-conscious choices are not pricier compared to conventional options.
+- The emission produced by cars should decrease each year due to shift in policies, awareness and taxes related to gas emissions
 - At least one manufacturer stands out as a leader in environmental stewardship compared to others.
 
 
