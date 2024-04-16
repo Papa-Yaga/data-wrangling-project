@@ -1,0 +1,1367 @@
+manufacturer,year,model,total_range_in_mls,emission_value,min_price,max_price,car_type,electric_consumption,electric_storage,analogue_consumption,analogue_storage,links
+Chevrolet,2023,Bolt EV,259,0,26500.0,29700.0,Electricity,120,7.5,0,0,Find.do?action=sbs&id=45751
+Chevrolet,2022,Bolt EV,259,0,31000.0,34200.0,Electricity,120,7.5,0,0,Find.do?action=sbs&id=43955
+Chevrolet,2019,Bolt EV,238,0,36620.0,41020.0,Electricity,119,9.3,0,0,Find.do?action=sbs&id=40520
+Chevrolet,2021,Bolt EV,259,0,36500.0,41700.0,Electricity,118,10,0,0,Find.do?action=sbs&id=43663
+Chevrolet,2020,Bolt EV,259,0,36620.0,41020.0,Electricity,118,10,0,0,Find.do?action=sbs&id=42191
+Chevrolet,2023,Bolt EUV,247,0,27800.0,32300.0,Electricity,115,7.5,0,0,Find.do?action=sbs&id=45750
+Chevrolet,2022,Bolt EUV,247,0,33000.0,37500.0,Electricity,115,7.5,0,0,Find.do?action=sbs&id=43954
+Chevrolet,2024,Blazer EV AWD,279,0,50195.0,56200.0,Electricity,96,9.5,0,0,Find.do?action=sbs&id=47445
+Chevrolet,2019,Volt,393,51,33520.0,38120.0,Electricity,106,4.5,106,8.9,Find.do?action=sbs&id=40924
+Chevrolet,2024,Silverado EV,450,0,,,Electricity,67,11,0,0,Find.do?action=sbs&id=47446
+Chevrolet,2024,Silverado EV,598,0,,,Electricity,63,12.7,0,0,Find.do?action=sbs&id=46946
+Chevrolet,2019,Malibu Hybrid,500,194,28220.0,28220.0,Regular Gasoline,0,0,46,13.0,Find.do?action=sbs&id=40842
+Chevrolet,2019,Cruze,472,294,17995.0,25620.0,Diesel,0,0,37,13.5,Find.do?action=sbs&id=40330
+Chevrolet,2019,Cruze Hatchback,452,310,19620.0,26120.0,Diesel,0,0,35,13.5,Find.do?action=sbs&id=40240
+Chevrolet,2019,Cruze,297,267,17995.0,25620.0,Regular Gasoline,0,0,33,13.7,Find.do?action=sbs&id=40470
+Chevrolet,2022,Spark,297,266,13600.0,18100.0,Regular Gasoline,0,0,33,9.0,Find.do?action=sbs&id=43922
+Chevrolet,2021,Spark,297,266,13400.0,17900.0,Regular Gasoline,0,0,33,9.0,Find.do?action=sbs&id=42659
+Chevrolet,2020,Spark,297,269,13220.0,17720.0,Regular Gasoline,0,0,33,9.0,Find.do?action=sbs&id=41449
+Chevrolet,2019,Spark,297,271,13220.0,17720.0,Regular Gasoline,0,0,33,9.0,Find.do?action=sbs&id=40230
+Chevrolet,2022,Spark ACTIV,297,266,16600.0,17700.0,Regular Gasoline,0,0,33,9.0,Find.do?action=sbs&id=43923
+Chevrolet,2021,Spark ACTIV,297,266,16400.0,17500.0,Regular Gasoline,0,0,33,9.0,Find.do?action=sbs&id=42658
+Chevrolet,2020,Spark ACTIV,297,269,16220.0,17320.0,Regular Gasoline,0,0,33,9.0,Find.do?action=sbs&id=41452
+Chevrolet,2019,Spark ACTIV,297,271,16220.0,17320.0,Regular Gasoline,0,0,33,9.0,Find.do?action=sbs&id=40347
+Chevrolet,2022,Spark,297,273,13600.0,18100.0,Regular Gasoline,0,0,33,9.0,Find.do?action=sbs&id=43924
+Chevrolet,2021,Spark,297,273,13400.0,17900.0,Regular Gasoline,0,0,33,9.0,Find.do?action=sbs&id=42656
+Chevrolet,2020,Spark,297,273,13220.0,17720.0,Regular Gasoline,0,0,33,9.0,Find.do?action=sbs&id=41450
+Chevrolet,2019,Spark,288,273,13220.0,17720.0,Regular Gasoline,0,0,33,9.0,Find.do?action=sbs&id=40231
+Chevrolet,2022,Spark ACTIV,288,278,16600.0,17700.0,Regular Gasoline,0,0,32,9.0,Find.do?action=sbs&id=43925
+Chevrolet,2021,Spark ACTIV,288,278,16400.0,17500.0,Regular Gasoline,0,0,32,9.0,Find.do?action=sbs&id=42657
+Chevrolet,2020,Spark ACTIV,288,278,16220.0,17320.0,Regular Gasoline,0,0,32,9.0,Find.do?action=sbs&id=41451
+Chevrolet,2019,Spark ACTIV,506,278,16220.0,17320.0,Regular Gasoline,0,0,32,9.0,Find.do?action=sbs&id=40348
+Chevrolet,2022,Malibu,506,275,23400.0,33500.0,Regular Gasoline,0,0,32,15.8,Find.do?action=sbs&id=43896
+Chevrolet,2021,Malibu,506,273,22140.0,33370.0,Regular Gasoline,0,0,32,15.8,Find.do?action=sbs&id=42822
+Chevrolet,2020,Malibu,477,298,22095.0,33320.0,Regular Gasoline,0,0,32,15.8,Find.do?action=sbs&id=41492
+Chevrolet,2019,Malibu,438,281,22090.0,31820.0,Regular Gasoline,0,0,32,0,Find.do?action=sbs&id=40776
+Chevrolet,2019,Equinox FWD,438,321,23800.0,33900.0,Diesel,0,0,32,14.9,Find.do?action=sbs&id=40353
+Chevrolet,2019,Cruze,438,277,17995.0,25620.0,Regular Gasoline,0,0,32,13.7,Find.do?action=sbs&id=40471
+Chevrolet,2019,Cruze Hatchback,499,277,19620.0,26120.0,Regular Gasoline,0,0,32,13.7,Find.do?action=sbs&id=40482
+Chevrolet,2019,Cruze Premier,409,277,,,Regular Gasoline,0,0,32,13.7,Find.do?action=sbs&id=40632
+Chevrolet,2019,Equinox AWD,409,319,27600.0,35700.0,Diesel,0,0,32,15.6,Find.do?action=sbs&id=40281
+Chevrolet,2024,Trailblazer FWD,409,290,23100.0,27100.0,Regular Gasoline,0,0,31,13.2,Find.do?action=sbs&id=46692
+Chevrolet,2023,Trailblazer FWD,409,290,22100.0,26200.0,Regular Gasoline,0,0,31,13.2,Find.do?action=sbs&id=45308
+Chevrolet,2022,Trailblazer FWD,425,289,21600.0,25700.0,Regular Gasoline,0,0,31,13.2,Find.do?action=sbs&id=43857
+Chevrolet,2021,Trailblazer FWD,378,288,19000.0,25400.0,Regular Gasoline,0,0,31,13.2,Find.do?action=sbs&id=42522
+Chevrolet,2019,Cruze Premier Hatchback,396,286,,,Regular Gasoline,0,0,31,13.7,Find.do?action=sbs&id=40586
+Chevrolet,2019,Sonic,396,285,15420.0,20720.0,Regular Gasoline,0,0,31,12.2,Find.do?action=sbs&id=40692
+Chevrolet,2023,Trailblazer FWD,474,296,22100.0,26200.0,Regular Gasoline,0,0,30,13.2,Find.do?action=sbs&id=45307
+Chevrolet,2022,Trailblazer FWD,383,296,21600.0,25700.0,Regular Gasoline,0,0,30,13.2,Find.do?action=sbs&id=43856
+Chevrolet,2024,Trax,354,298,20400.0,23900.0,Regular Gasoline,0,0,30,0,Find.do?action=sbs&id=46450
+Chevrolet,2023,Malibu,354,292,25000.0,31500.0,Regular Gasoline,0,0,30,15.8,Find.do?action=sbs&id=45903
+Chevrolet,2021,Trailblazer FWD,354,302,19000.0,25400.0,Regular Gasoline,0,0,29,13.2,Find.do?action=sbs&id=42523
+Chevrolet,2019,Sonic 5,354,301,18020.0,21520.0,Regular Gasoline,0,0,29,12.2,Find.do?action=sbs&id=40727
+Chevrolet,2020,Sonic,354,308,16720.0,20720.0,Regular Gasoline,0,0,29,12.2,Find.do?action=sbs&id=41531
+Chevrolet,2019,Sonic,417,308,15420.0,20720.0,Regular Gasoline,0,0,29,12.2,Find.do?action=sbs&id=40691
+Chevrolet,2020,Sonic 5,417,308,19420.0,21520.0,Regular Gasoline,0,0,29,12.2,Find.do?action=sbs&id=41538
+Chevrolet,2019,Sonic 5,417,308,18020.0,21520.0,Regular Gasoline,0,0,29,12.2,Find.do?action=sbs&id=40726
+Chevrolet,2019,Equinox FWD,417,315,23800.0,33900.0,Regular Gasoline,0,0,28,14.9,Find.do?action=sbs&id=40267
+Chevrolet,2024,Equinox FWD,417,310,26600.0,31800.0,Regular Gasoline,0,0,28,14.9,Find.do?action=sbs&id=46591
+Chevrolet,2023,Equinox FWD,417,317,26600.0,31800.0,Regular Gasoline,0,0,28,14.9,Find.do?action=sbs&id=45823
+Chevrolet,2022,Equinox FWD,392,318,25800.0,31000.0,Regular Gasoline,0,0,28,14.9,Find.do?action=sbs&id=43985
+Chevrolet,2021,Equinox FWD,392,318,23800.0,31400.0,Regular Gasoline,0,0,28,14.9,Find.do?action=sbs&id=43200
+Chevrolet,2020,Equinox FWD,392,315,23800.0,34100.0,Regular Gasoline,0,0,28,14.9,Find.do?action=sbs&id=41499
+Chevrolet,2019,Trax,370,316,21300.0,27600.0,Regular Gasoline,0,0,28,14.0,Find.do?action=sbs&id=40739
+Chevrolet,2021,Trax FWD,370,316,21400.0,23200.0,Regular Gasoline,0,0,28,14.0,Find.do?action=sbs&id=42638
+Chevrolet,2020,Trax FWD,370,316,21300.0,27600.0,Regular Gasoline,0,0,28,14.0,Find.do?action=sbs&id=41519
+Chevrolet,2023,Trailblazer AWD,356,320,24100.0,27700.0,Regular Gasoline,0,0,28,13.2,Find.do?action=sbs&id=45311
+Chevrolet,2022,Trailblazer AWD,421,313,23600.0,27200.0,Regular Gasoline,0,0,28,13.2,Find.do?action=sbs&id=43860
+Chevrolet,2021,Trailblazer AWD,421,314,23500.0,26900.0,Regular Gasoline,0,0,28,13.2,Find.do?action=sbs&id=42509
+Chevrolet,2024,Trailblazer AWD,421,329,25100.0,28700.0,Regular Gasoline,0,0,27,13.2,Find.do?action=sbs&id=46710
+Chevrolet,2022,Equinox AWD,421,327,27400.0,32600.0,Regular Gasoline,0,0,27,15.6,Find.do?action=sbs&id=43989
+Chevrolet,2021,Equinox AWD,378,330,27900.0,33000.0,Regular Gasoline,0,0,27,15.6,Find.do?action=sbs&id=43397
+Chevrolet,2020,Equinox AWD,378,324,27900.0,35700.0,Regular Gasoline,0,0,27,15.6,Find.do?action=sbs&id=41504
+Chevrolet,2019,Equinox AWD,648,334,27600.0,35700.0,Regular Gasoline,0,0,27,15.6,Find.do?action=sbs&id=40279
+Chevrolet,2022,Trax FWD,648,329,21400.0,23200.0,Regular Gasoline,0,0,27,14.0,Find.do?action=sbs&id=43811
+Chevrolet,2021,Trax FWD,406,325,21400.0,23200.0,Regular Gasoline,0,0,27,14.0,Find.do?action=sbs&id=43575
+Chevrolet,2021,Silverado 2WD,406,383,29300.0,53900.0,Diesel,0,0,27,24.0,Find.do?action=sbs&id=43091
+Chevrolet,2020,Silverado 2WD,624,383,28300.0,53300.0,Diesel,0,0,27,24.0,Find.do?action=sbs&id=41821
+Chevrolet,2024,Equinox AWD,364,339,28200.0,33400.0,Regular Gasoline,0,0,26,15.6,Find.do?action=sbs&id=46597
+Chevrolet,2023,Equinox AWD,364,340,28200.0,33400.0,Regular Gasoline,0,0,26,15.6,Find.do?action=sbs&id=45827
+Chevrolet,2023,Silverado 2WD,364,396,36300.0,62100.0,Diesel,0,0,26,24.0,Find.do?action=sbs&id=45772
+Chevrolet,2021,Trax AWD,624,344,22900.0,24700.0,Regular Gasoline,0,0,26,14.0,Find.do?action=sbs&id=42640
+Chevrolet,2020,Trax AWD,364,344,22800.0,29100.0,Regular Gasoline,0,0,26,14.0,Find.do?action=sbs&id=41521
+Chevrolet,2019,Trax AWD,364,344,22800.0,29100.0,Regular Gasoline,0,0,26,14.0,Find.do?action=sbs&id=40749
+Chevrolet,2022,Silverado 2WD,624,387,34600.0,59800.0,Diesel,0,0,26,24.0,Find.do?action=sbs&id=44580
+Chevrolet,2022,Trax AWD,411,342,22020.0,23820.0,Regular Gasoline,0,0,26,14.0,Find.do?action=sbs&id=43813
+Chevrolet,2021,Trax AWD,411,338,22900.0,24700.0,Regular Gasoline,0,0,26,14.0,Find.do?action=sbs&id=43577
+Chevrolet,2024,Silverado 2WD,411,397,36800.0,62700.0,Diesel,0,0,26,24.0,Find.do?action=sbs&id=46815
+Chevrolet,2022,Malibu,411,342,23400.0,33500.0,Premium Gasoline,0,0,26,15.8,Find.do?action=sbs&id=43895
+Chevrolet,2021,Malibu,600,342,22140.0,33370.0,Regular Gasoline,0,0,26,15.8,Find.do?action=sbs&id=42941
+Chevrolet,2020,Malibu,475,344,22095.0,33320.0,Premium Gasoline,0,0,26,15.8,Find.do?action=sbs&id=41425
+Chevrolet,2019,Malibu,475,344,22090.0,31820.0,Premium Gasoline,0,0,26,15.8,Find.do?action=sbs&id=40563
+Chevrolet,2020,Silverado 4WD,475,405,35500.0,56800.0,Diesel,0,0,25,24.0,Find.do?action=sbs&id=41842
+Chevrolet,2020,Camaro,475,353,,,Premium Gasoline,0,0,25,19.0,Find.do?action=sbs&id=41549
+Chevrolet,2019,Camaro,475,354,25000.0,68000.0,Premium Gasoline,0,0,25,19.0,Find.do?action=sbs&id=40461
+Chevrolet,2023,Camaro,485,360,26400.0,73300.0,Premium Gasoline,0,0,25,19.0,Find.do?action=sbs&id=45345
+Chevrolet,2022,Camaro,485,358,,,Premium Gasoline,0,0,25,19.0,Find.do?action=sbs&id=44214
+Chevrolet,2021,Camaro,485,358,25000.0,69000.0,Premium Gasoline,0,0,25,19.0,Find.do?action=sbs&id=42889
+Chevrolet,2024,Blazer FWD,485,358,35400.0,42800.0,Regular Gasoline,0,0,25,19.4,Find.do?action=sbs&id=46861
+Chevrolet,2023,Blazer FWD,372,365,35100.0,42800.0,Regular Gasoline,0,0,25,19.4,Find.do?action=sbs&id=45406
+Chevrolet,2022,Blazer FWD,372,358,33400.0,41100.0,Regular Gasoline,0,0,25,19.4,Find.do?action=sbs&id=44012
+Chevrolet,2021,Blazer FWD,462,349,28800.0,42700.0,Regular Gasoline,0,0,25,19.4,Find.do?action=sbs&id=42898
+Chevrolet,2020,Equinox FWD,576,350,23800.0,34100.0,Premium Gasoline,0,0,25,14.9,Find.do?action=sbs&id=41500
+Chevrolet,2019,Equinox FWD,374,350,23800.0,33900.0,Premium Gasoline,0,0,25,14.9,Find.do?action=sbs&id=40266
+Chevrolet,2019,Impala,374,362,28020.0,36720.0,Regular Gasoline,0,0,25,18.5,Find.do?action=sbs&id=40248
+Chevrolet,2024,Silverado 4WD,521,416,41400.0,66500.0,Diesel,0,0,24,24.0,Find.do?action=sbs&id=46835
+Chevrolet,2020,Equinox AWD,521,367,27900.0,35700.0,Premium Gasoline,0,0,24,15.6,Find.do?action=sbs&id=41505
+Chevrolet,2019,Equinox AWD,521,367,27600.0,35700.0,Premium Gasoline,0,0,24,15.6,Find.do?action=sbs&id=40280
+Chevrolet,2024,Blazer AWD,521,368,38100.0,45700.0,Regular Gasoline,0,0,24,21.7,Find.do?action=sbs&id=46878
+Chevrolet,2023,Blazer AWD,466,368,37800.0,45700.0,Regular Gasoline,0,0,24,21.7,Find.do?action=sbs&id=45407
+Chevrolet,2022,Blazer AWD,576,368,36100.0,44000.0,Regular Gasoline,0,0,24,21.7,Find.do?action=sbs&id=44019
+Chevrolet,2021,Blazer AWD,576,362,35400.0,44900.0,Regular Gasoline,0,0,24,21.7,Find.do?action=sbs&id=42905
+Chevrolet,2019,Blazer FWD,576,373,28800.0,42700.0,Regular Gasoline,0,0,24,19.4,Find.do?action=sbs&id=41172
+Chevrolet,2023,Silverado 4WD,576,425,40900.0,65900.0,Diesel,0,0,24,24.0,Find.do?action=sbs&id=45796
+Chevrolet,2023,Silverado 4WD,466,423,40900.0,65900.0,Diesel,0,0,24,24.0,Find.do?action=sbs&id=45798
+Chevrolet,2022,Silverado 4WD,576,427,39200.0,63600.0,Diesel,0,0,24,24.0,Find.do?action=sbs&id=44582
+Chevrolet,2021,Silverado 4WD,576,430,33900.0,57700.0,Diesel,0,0,24,24.0,Find.do?action=sbs&id=43100
+Chevrolet,2020,Blazer FWD,576,362,28800.0,42700.0,Regular Gasoline,0,0,24,19.4,Find.do?action=sbs&id=42343
+Chevrolet,2024,Tahoe 2WD,672,425,56200.0,76900.0,Diesel,0,0,24,24.0,Find.do?action=sbs&id=47400
+Chevrolet,2023,Tahoe 2WD,552,428,54200.0,74400.0,Diesel,0,0,24,24.0,Find.do?action=sbs&id=45564
+Chevrolet,2022,Tahoe 2WD,499,425,49700.0,70000.0,Diesel,0,0,24,24.0,Find.do?action=sbs&id=44595
+Chevrolet,2021,Tahoe 2WD,446,421,49000.0,69600.0,Diesel,0,0,24,28.0,Find.do?action=sbs&id=43493
+Chevrolet,2022,Silverado 4WD,446,443,39200.0,63600.0,Diesel,0,0,23,24.0,Find.do?action=sbs&id=45195
+Chevrolet,2020,Blazer AWD,644,374,34800.0,45600.0,Regular Gasoline,0,0,23,21.7,Find.do?action=sbs&id=42346
+Chevrolet,2021,Blazer FWD,644,382,28800.0,42700.0,Regular Gasoline,0,0,23,19.4,Find.do?action=sbs&id=42897
+Chevrolet,2020,Blazer FWD,644,382,28800.0,42700.0,Regular Gasoline,0,0,23,19.4,Find.do?action=sbs&id=41869
+Chevrolet,2024,Suburban 2WD,644,442,59200.0,79900.0,Diesel,0,0,23,28.0,Find.do?action=sbs&id=47401
+Chevrolet,2023,Suburban 2WD,552,442,56900.0,77100.0,Diesel,0,0,23,28.0,Find.do?action=sbs&id=45565
+Chevrolet,2022,Suburban 2WD,437,442,52400.0,72700.0,Diesel,0,0,23,28.0,Find.do?action=sbs&id=44596
+Chevrolet,2021,Suburban 2WD,437,437,51700.0,72300.0,Diesel,0,0,23,28.0,Find.do?action=sbs&id=43494
+Chevrolet,2024,Silverado 4WD,483,450,41400.0,66500.0,Diesel,0,0,23,24.0,Find.do?action=sbs&id=46836
+Chevrolet,2020,Camaro,483,378,,,Premium Gasoline,0,0,23,19.0,Find.do?action=sbs&id=41548
+Chevrolet,2019,Camaro,483,379,25000.0,68000.0,Premium Gasoline,0,0,23,19.0,Find.do?action=sbs&id=40460
+Chevrolet,2022,Colorado 2WD,483,435,25200.0,34800.0,Diesel,0,0,23,21.0,Find.do?action=sbs&id=44383
+Chevrolet,2021,Colorado 2WD,528,435,25200.0,33800.0,Diesel,0,0,23,21.0,Find.do?action=sbs&id=42811
+Chevrolet,2020,Colorado 2WD,528,435,21300.0,33900.0,Diesel,0,0,23,21.0,Find.do?action=sbs&id=41615
+Chevrolet,2019,Colorado 2WD,528,435,20600.0,34000.0,Diesel,0,0,23,21.0,Find.do?action=sbs&id=40502
+Chevrolet,2024,Silverado Mud Terrain Tires 4WD,427,463,,,Diesel,0,0,22,24.0,Find.do?action=sbs&id=46837
+Chevrolet,2024,Silverado Mud Terrain Tires 4WD,427,471,,,Diesel,0,0,22,24.0,Find.do?action=sbs&id=46838
+Chevrolet,2023,Silverado Mud Terrain Tires 4WD,462,463,,,Diesel,0,0,22,24.0,Find.do?action=sbs&id=45797
+Chevrolet,2021,Blazer FWD,462,404,28800.0,42700.0,Regular Gasoline,0,0,22,19.4,Find.do?action=sbs&id=42957
+Chevrolet,2019,Blazer FWD,462,405,28800.0,42700.0,Regular Gasoline,0,0,22,19.4,Find.do?action=sbs&id=41171
+Chevrolet,2020,Colorado 2WD,616,406,21300.0,33900.0,Regular Gasoline,0,0,22,21.0,Find.do?action=sbs&id=41617
+Chevrolet,2019,Colorado 2WD,616,406,20600.0,34000.0,Regular Gasoline,0,0,22,21.0,Find.do?action=sbs&id=40387
+Chevrolet,2019,Colorado 2WD,616,403,20600.0,34000.0,Regular Gasoline,0,0,22,21.0,Find.do?action=sbs&id=40388
+Chevrolet,2024,Suburban 4WD,616,462,62200.0,82900.0,Diesel,0,0,22,28.0,Find.do?action=sbs&id=47423
+Chevrolet,2023,Suburban 4WD,528,462,59900.0,80100.0,Diesel,0,0,22,28.0,Find.do?action=sbs&id=45583
+Chevrolet,2022,Suburban 4WD,528,462,55400.0,75700.0,Diesel,0,0,22,28.0,Find.do?action=sbs&id=44602
+Chevrolet,2021,Suburban 4WD,528,444,54700.0,75300.0,Diesel,0,0,22,28.0,Find.do?action=sbs&id=43596
+Chevrolet,2024,Tahoe 4WD,616,462,59200.0,79900.0,Diesel,0,0,22,24.0,Find.do?action=sbs&id=47422
+Chevrolet,2023,Tahoe 4WD,471,462,57200.0,77400.0,Diesel,0,0,22,24.0,Find.do?action=sbs&id=45582
+Chevrolet,2022,Tahoe 4WD,471,462,52700.0,73000.0,Diesel,0,0,22,24.0,Find.do?action=sbs&id=44601
+Chevrolet,2021,Tahoe 4WD,418,444,52000.0,72600.0,Diesel,0,0,22,28.0,Find.do?action=sbs&id=43595
+Chevrolet,2019,Traverse FWD,418,404,29930.0,45500.0,Premium Gasoline,0,0,22,0,Find.do?action=sbs&id=40361
+Chevrolet,2023,Colorado 2WD,418,406,29200.0,31600.0,Regular Gasoline,0,0,22,21.4,Find.do?action=sbs&id=46459
+Chevrolet,2024,Colorado 2WD,418,412,29500.0,31900.0,Regular Gasoline,0,0,22,21.4,Find.do?action=sbs&id=47587
+Chevrolet,2022,Camaro,418,385,,,Premium Gasoline,0,0,22,19.0,Find.do?action=sbs&id=44213
+Chevrolet,2021,Camaro,462,397,25000.0,69000.0,Premium Gasoline,0,0,22,19.0,Find.do?action=sbs&id=42888
+Chevrolet,2020,Camaro,462,397,,,Regular Gasoline,0,0,22,19.0,Find.do?action=sbs&id=41645
+Chevrolet,2019,Camaro,462,396,25000.0,68000.0,Regular Gasoline,0,0,22,19.0,Find.do?action=sbs&id=40458
+Chevrolet,2023,Camaro,462,401,26400.0,73300.0,Premium Gasoline,0,0,22,19.0,Find.do?action=sbs&id=45344
+Chevrolet,2022,Colorado 4WD,407,455,29100.0,38600.0,Diesel,0,0,22,21.0,Find.do?action=sbs&id=44390
+Chevrolet,2021,Colorado 4WD,407,455,29100.0,37600.0,Diesel,0,0,22,21.0,Find.do?action=sbs&id=42749
+Chevrolet,2020,Colorado 4WD,427,456,28700.0,37700.0,Diesel,0,0,22,21.0,Find.do?action=sbs&id=41622
+Chevrolet,2019,Colorado 4WD,427,455,28700.0,37300.0,Diesel,0,0,22,21.0,Find.do?action=sbs&id=40649
+Chevrolet,2020,Impala,427,406,31620.0,36720.0,Regular Gasoline,0,0,22,18.5,Find.do?action=sbs&id=41745
+Chevrolet,2019,Impala,462,406,28020.0,36720.0,Regular Gasoline,0,0,22,18.5,Find.do?action=sbs&id=40197
+Chevrolet,2023,Blazer FWD,462,404,35100.0,42800.0,Regular Gasoline,0,0,22,19.4,Find.do?action=sbs&id=45374
+Chevrolet,2022,Blazer FWD,418,405,33400.0,41100.0,Regular Gasoline,0,0,22,19.4,Find.do?action=sbs&id=44013
+Chevrolet,2024,Blazer FWD,418,411,35400.0,42800.0,Regular Gasoline,0,0,22,19.4,Find.do?action=sbs&id=46862
+Chevrolet,2022,Colorado 2WD,418,413,25200.0,34800.0,Regular Gasoline,0,0,22,21.0,Find.do?action=sbs&id=44352
+Chevrolet,2021,Colorado 2WD,418,413,25200.0,33800.0,Regular Gasoline,0,0,22,21.0,Find.do?action=sbs&id=42545
+Chevrolet,2024,Camaro,407,407,30900.0,78100.0,Regular Gasoline,0,0,22,19.0,Find.do?action=sbs&id=47047
+Chevrolet,2023,Camaro,296,407,26400.0,73300.0,Regular Gasoline,0,0,22,19.0,Find.do?action=sbs&id=45403
+Chevrolet,2022,Camaro,407,404,,,Regular Gasoline,0,0,22,19.0,Find.do?action=sbs&id=44230
+Chevrolet,2021,Camaro,296,404,25000.0,69000.0,Regular Gasoline,0,0,22,19.0,Find.do?action=sbs&id=42882
+Chevrolet,2020,Impala,504,411,31620.0,36720.0,Regular Gasoline,0,0,22,18.5,Find.do?action=sbs&id=41746
+Chevrolet,2019,Impala,504,409,28020.0,36720.0,Regular Gasoline,0,0,22,18.5,Find.do?action=sbs&id=40198
+Chevrolet,2021,Silverado 2WD,504,423,29300.0,53900.0,Regular Gasoline,0,0,21,24.0,Find.do?action=sbs&id=43186
+Chevrolet,2021,Silverado 2WD,504,421,29300.0,53900.0,Regular Gasoline,0,0,21,24.0,Find.do?action=sbs&id=43187
+Chevrolet,2020,Silverado 2WD,504,421,28300.0,53300.0,Regular Gasoline,0,0,21,24.0,Find.do?action=sbs&id=41824
+Chevrolet,2019,Silverado C10 2WD,504,421,32200.0,53300.0,Regular Gasoline,0,0,21,24.0,Find.do?action=sbs&id=40944
+Chevrolet,2022,Silverado Mud Terrain Tires 4WD,456,479,,,Diesel,0,0,21,24.0,Find.do?action=sbs&id=44583
+Chevrolet,2024,Silverado 4WD ZR2,456,484,69900.0,69900.0,Diesel,0,0,21,24.0,Find.do?action=sbs&id=46834
+Chevrolet,2023,Blazer AWD,407,417,37800.0,45700.0,Regular Gasoline,0,0,21,21.7,Find.do?action=sbs&id=45382
+Chevrolet,2022,Blazer AWD,407,417,36100.0,44000.0,Regular Gasoline,0,0,21,21.7,Find.do?action=sbs&id=44018
+Chevrolet,2021,Blazer AWD,449,413,35400.0,44900.0,Regular Gasoline,0,0,21,19.4,Find.do?action=sbs&id=42964
+Chevrolet,2020,Blazer FWD,441,414,28800.0,42700.0,Regular Gasoline,0,0,21,19.4,Find.do?action=sbs&id=41964
+Chevrolet,2024,Colorado 2WD,441,420,29500.0,31900.0,Regular Gasoline,0,0,21,21.4,Find.do?action=sbs&id=47362
+Chevrolet,2022,Colorado 4WD,441,431,29100.0,38600.0,Regular Gasoline,0,0,21,21.0,Find.do?action=sbs&id=44354
+Chevrolet,2021,Colorado 4WD,441,431,29100.0,37600.0,Regular Gasoline,0,0,21,21.0,Find.do?action=sbs&id=42549
+Chevrolet,2020,Colorado 4WD,449,428,28700.0,37700.0,Regular Gasoline,0,0,21,21.0,Find.do?action=sbs&id=41625
+Chevrolet,2019,Colorado 4WD,456,429,28700.0,37300.0,Regular Gasoline,0,0,21,21.0,Find.do?action=sbs&id=40391
+Chevrolet,2023,Colorado 4WD,407,427,32500.0,39900.0,Regular Gasoline,0,0,21,21.4,Find.do?action=sbs&id=46460
+Chevrolet,2023,Traverse FWD,259,417,34520.0,52000.0,Regular Gasoline,0,0,21,0,Find.do?action=sbs&id=45384
+Chevrolet,2022,Traverse FWD,259,417,33700.0,51200.0,Regular Gasoline,0,0,21,0,Find.do?action=sbs&id=44086
+Chevrolet,2021,Traverse FWD,238,420,29800.0,50900.0,Regular Gasoline,0,0,21,0,Find.do?action=sbs&id=43203
+Chevrolet,2020,Traverse FWD,259,420,29800.0,50900.0,Regular Gasoline,0,0,21,0,Find.do?action=sbs&id=41524
+Chevrolet,2019,Traverse FWD,259,420,29930.0,45500.0,Regular Gasoline,0,0,21,0,Find.do?action=sbs&id=40296
+Chevrolet,2024,Blazer AWD,247,422,38100.0,45700.0,Regular Gasoline,0,0,21,21.7,Find.do?action=sbs&id=46879
+Chevrolet,2024,Traverse Limited FWD,247,433,34520.0,52000.0,Regular Gasoline,0,0,21,19.4,Find.do?action=sbs&id=47670
+Chevrolet,2020,Blazer AWD,279,433,34800.0,45600.0,Regular Gasoline,0,0,21,21.7,Find.do?action=sbs&id=41967
+Chevrolet,2019,Blazer AWD,393,426,36000.0,45600.0,Regular Gasoline,0,0,21,21.7,Find.do?action=sbs&id=41177
+Chevrolet,2022,Colorado 2WD,450,424,25200.0,34800.0,Regular Gasoline,0,0,21,21.0,Find.do?action=sbs&id=44384
+Chevrolet,2021,Colorado 2WD,598,424,25200.0,33800.0,Regular Gasoline,0,0,21,21.0,Find.do?action=sbs&id=42546
+Chevrolet,2023,Silverado 2WD,500,446,36300.0,62100.0,Regular Gasoline,0,0,20,24.0,Find.do?action=sbs&id=45775
+Chevrolet,2022,Silverado 2WD,472,441,34600.0,59800.0,Regular Gasoline,0,0,20,24.0,Find.do?action=sbs&id=44728
+Chevrolet,2022,Silverado 2WD,452,441,34600.0,59800.0,Regular Gasoline,0,0,20,24.0,Find.do?action=sbs&id=44729
+Chevrolet,2020,Silverado 2WD,297,422,28300.0,53300.0,Regular Gasoline,0,0,20,24.0,Find.do?action=sbs&id=41820
+Chevrolet,2021,Silverado 4WD,297,442,33900.0,57700.0,Regular Gasoline,0,0,20,24.0,Find.do?action=sbs&id=43192
+Chevrolet,2021,Silverado 4WD,297,443,33900.0,57700.0,Regular Gasoline,0,0,20,24.0,Find.do?action=sbs&id=43194
+Chevrolet,2020,Silverado 4WD,297,442,35500.0,56800.0,Regular Gasoline,0,0,20,24.0,Find.do?action=sbs&id=41837
+Chevrolet,2020,Silverado 4WD,297,442,35500.0,56800.0,Regular Gasoline,0,0,20,24.0,Find.do?action=sbs&id=41843
+Chevrolet,2019,Silverado C10 2WD,297,442,32200.0,53300.0,Regular Gasoline,0,0,20,24.0,Find.do?action=sbs&id=40947
+Chevrolet,2019,Silverado K10 4WD,297,442,35500.0,56600.0,Regular Gasoline,0,0,20,24.0,Find.do?action=sbs&id=40952
+Chevrolet,2023,Silverado 2WD,297,453,36300.0,62100.0,Regular Gasoline,0,0,20,24.0,Find.do?action=sbs&id=45776
+Chevrolet,2020,Colorado 2WD,297,440,21300.0,33900.0,Regular Gasoline,0,0,20,21.0,Find.do?action=sbs&id=41616
+Chevrolet,2019,Colorado 2WD,297,440,20600.0,34000.0,Regular Gasoline,0,0,20,21.0,Find.do?action=sbs&id=40642
+Chevrolet,2023,Colorado 2WD,297,446,29200.0,31600.0,Regular Gasoline,0,0,20,21.4,Find.do?action=sbs&id=46559
+Chevrolet,2024,Colorado 4WD,297,446,32800.0,40200.0,Regular Gasoline,0,0,20,24.0,Find.do?action=sbs&id=47110
+Chevrolet,2024,Colorado 4WD,288,447,32800.0,40200.0,Regular Gasoline,0,0,20,21.4,Find.do?action=sbs&id=47594
+Chevrolet,2024,Silverado 2WD,288,453,36800.0,62700.0,Regular Gasoline,0,0,20,24.0,Find.do?action=sbs&id=47112
+Chevrolet,2023,Traverse AWD,288,448,36520.0,54200.0,Regular Gasoline,0,0,20,0,Find.do?action=sbs&id=45388
+Chevrolet,2022,Traverse AWD,288,448,35700.0,53400.0,Regular Gasoline,0,0,20,0,Find.do?action=sbs&id=44088
+Chevrolet,2021,Traverse AWD,506,439,34900.0,53100.0,Regular Gasoline,0,0,20,0,Find.do?action=sbs&id=43206
+Chevrolet,2020,Traverse AWD,506,442,34900.0,53200.0,Regular Gasoline,0,0,20,0,Find.do?action=sbs&id=41526
+Chevrolet,2019,Traverse AWD,506,438,34900.0,53200.0,Regular Gasoline,0,0,20,0,Find.do?action=sbs&id=40311
+Chevrolet,2024,Traverse Limited AWD,477,450,36520.0,54200.0,Regular Gasoline,0,0,20,21.7,Find.do?action=sbs&id=47677
+Chevrolet,2020,Silverado 2WD,438,448,28300.0,53300.0,Regular Gasoline,0,0,20,24.0,Find.do?action=sbs&id=41891
+Chevrolet,2020,Camaro,438,451,,,Premium Gasoline,0,0,20,19.0,Find.do?action=sbs&id=41646
+Chevrolet,2019,Camaro,438,445,25000.0,68000.0,Regular Gasoline,0,0,20,19.0,Find.do?action=sbs&id=40459
+Chevrolet,2019,Camaro,499,450,25000.0,68000.0,Premium Gasoline,0,0,20,19.0,Find.do?action=sbs&id=40463
+Chevrolet,2024,Camaro,409,451,30900.0,78100.0,Regular Gasoline,0,0,20,19.0,Find.do?action=sbs&id=47042
+Chevrolet,2024,Camaro,409,452,30900.0,78100.0,Premium Gasoline,0,0,20,19.0,Find.do?action=sbs&id=47045
+Chevrolet,2023,Camaro,409,453,26400.0,73300.0,Regular Gasoline,0,0,20,19.0,Find.do?action=sbs&id=45343
+Chevrolet,2023,Camaro,409,453,26400.0,73300.0,Premium Gasoline,0,0,20,19.0,Find.do?action=sbs&id=45975
+Chevrolet,2022,Camaro,425,452,,,Regular Gasoline,0,0,20,19.0,Find.do?action=sbs&id=44231
+Chevrolet,2022,Camaro,378,452,25000.0,69000.0,Premium Gasoline,0,0,20,19.0,Find.do?action=sbs&id=44282
+Chevrolet,2021,Camaro,396,453,25000.0,69000.0,Regular Gasoline,0,0,20,19.0,Find.do?action=sbs&id=42883
+Chevrolet,2021,Camaro,396,452,25000.0,69000.0,Premium Gasoline,0,0,20,19.0,Find.do?action=sbs&id=42886
+Chevrolet,2020,Camaro,474,451,,,Regular Gasoline,0,0,20,19.0,Find.do?action=sbs&id=41550
+Chevrolet,2022,Colorado ZR2 4WD,383,525,42600.0,44200.0,Diesel,0,0,19,21.0,Find.do?action=sbs&id=44389
+Chevrolet,2021,Colorado ZR2 4WD,354,525,41600.0,43200.0,Diesel,0,0,19,21.0,Find.do?action=sbs&id=42750
+Chevrolet,2020,Colorado ZR2 4WD,354,525,41400.0,43000.0,Diesel,0,0,19,21.0,Find.do?action=sbs&id=41621
+Chevrolet,2019,Colorado ZR2 4WD,354,524,41300.0,42900.0,Diesel,0,0,19,21.0,Find.do?action=sbs&id=40650
+Chevrolet,2024,Silverado 4WD,354,468,41400.0,66500.0,Regular Gasoline,0,0,19,24.0,Find.do?action=sbs&id=47122
+Chevrolet,2023,Silverado 4WD,354,462,40900.0,65900.0,Regular Gasoline,0,0,19,24.0,Find.do?action=sbs&id=45787
+Chevrolet,2023,Silverado 4WD,417,459,40900.0,65900.0,Regular Gasoline,0,0,19,24.0,Find.do?action=sbs&id=45799
+Chevrolet,2019,Silverado K10 4WD,417,464,35500.0,56600.0,Regular Gasoline,0,0,19,24.0,Find.do?action=sbs&id=40955
+Chevrolet,2022,Colorado 4WD,417,465,29100.0,38600.0,Regular Gasoline,0,0,19,21.0,Find.do?action=sbs&id=44387
+Chevrolet,2021,Colorado 4WD,417,465,29100.0,37600.0,Regular Gasoline,0,0,19,21.0,Find.do?action=sbs&id=42550
+Chevrolet,2020,Colorado 4WD,417,461,28700.0,37700.0,Regular Gasoline,0,0,19,21.0,Find.do?action=sbs&id=41623
+Chevrolet,2019,Colorado 4WD,417,461,28700.0,37300.0,Regular Gasoline,0,0,19,21.0,Find.do?action=sbs&id=40651
+Chevrolet,2019,Silverado C10 XFE 2WD,392,456,32200.0,53300.0,Regular Gasoline,0,0,19,24.0,Find.do?action=sbs&id=40945
+Chevrolet,2021,Silverado 2WD,392,460,29300.0,53900.0,Regular Gasoline,0,0,19,24.0,Find.do?action=sbs&id=43090
+Chevrolet,2020,Silverado 2WD,392,460,28300.0,53300.0,Regular Gasoline,0,0,19,24.0,Find.do?action=sbs&id=41819
+Chevrolet,2019,Silverado C10 2WD,370,467,32200.0,53300.0,Regular Gasoline,0,0,19,24.0,Find.do?action=sbs&id=40504
+Chevrolet,2023,Colorado 4WD,370,467,32500.0,39900.0,Regular Gasoline,0,0,19,21.4,Find.do?action=sbs&id=46562
+Chevrolet,2024,Silverado 2WD,370,470,36800.0,62700.0,Regular Gasoline,0,0,19,24.0,Find.do?action=sbs&id=47113
+Chevrolet,2023,Silverado 2WD,356,478,36300.0,62100.0,Regular Gasoline,0,0,19,24.0,Find.do?action=sbs&id=45771
+Chevrolet,2023,Silverado 2WD,421,478,36300.0,62100.0,Regular Gasoline,0,0,19,24.0,Find.do?action=sbs&id=45774
+Chevrolet,2024,Corvette,421,472,68300.0,87050.0,Premium Gasoline,0,0,19,18.5,Find.do?action=sbs&id=47007
+Chevrolet,2019,Corvette,421,465,55900.0,135400.0,Premium Gasoline,0,0,19,18.5,Find.do?action=sbs&id=39872
+Chevrolet,2024,Camaro,421,477,30900.0,78100.0,Premium Gasoline,0,0,19,19.0,Find.do?action=sbs&id=47046
+Chevrolet,2023,Camaro,378,477,26400.0,73300.0,Premium Gasoline,0,0,19,19.0,Find.do?action=sbs&id=45348
+Chevrolet,2022,Camaro,378,477,,,Premium Gasoline,0,0,19,19.0,Find.do?action=sbs&id=44232
+Chevrolet,2021,Camaro,648,477,25000.0,69000.0,Premium Gasoline,0,0,19,19.0,Find.do?action=sbs&id=42887
+Chevrolet,2020,Camaro,648,477,,,Premium Gasoline,0,0,19,19.0,Find.do?action=sbs&id=41791
+Chevrolet,2019,Camaro,406,477,25000.0,68000.0,Premium Gasoline,0,0,19,19.0,Find.do?action=sbs&id=40456
+Chevrolet,2023,Corvette,406,480,71800.0,126150.0,Regular Gasoline,0,0,19,18.5,Find.do?action=sbs&id=45293
+Chevrolet,2022,Corvette,624,478,60900.0,79850.0,Premium Gasoline,0,0,19,18.5,Find.do?action=sbs&id=44451
+Chevrolet,2024,Corvette E-RAY,364,480,102900.0,120850.0,Premium Gasoline,0,0,19,18.5,Find.do?action=sbs&id=47231
+Chevrolet,2021,Silverado 4WD,364,481,33900.0,57700.0,Regular Gasoline,0,0,19,24.0,Find.do?action=sbs&id=43101
+Chevrolet,2020,Silverado 4WD,364,477,35500.0,56800.0,Regular Gasoline,0,0,19,24.0,Find.do?action=sbs&id=41835
+Chevrolet,2021,Corvette,624,467,58900.0,77850.0,Premium Gasoline,0,0,19,18.5,Find.do?action=sbs&id=43425
+Chevrolet,2020,Corvette,364,467,58900.0,77850.0,Premium Gasoline,0,0,19,18.5,Find.do?action=sbs&id=42459
+Chevrolet,2024,Colorado Mud Terrain Tires 4WD,364,494,,,Regular Gasoline,0,0,18,21.4,Find.do?action=sbs&id=47592
+Chevrolet,2022,Silverado 4WD,624,486,39200.0,63600.0,Regular Gasoline,0,0,18,24.0,Find.do?action=sbs&id=44742
+Chevrolet,2022,Silverado 4WD,411,489,39200.0,63600.0,Regular Gasoline,0,0,18,24.0,Find.do?action=sbs&id=44743
+Chevrolet,2023,Colorado Mud Terrain Tires 4WD,411,494,37000.0,37000.0,Regular Gasoline,0,0,18,21.4,Find.do?action=sbs&id=46561
+Chevrolet,2024,Silverado 4WD,411,506,41400.0,66500.0,Regular Gasoline,0,0,18,24.0,Find.do?action=sbs&id=47121
+Chevrolet,2024,Silverado 2WD,411,489,36800.0,62700.0,Regular Gasoline,0,0,18,24.0,Find.do?action=sbs&id=46814
+Chevrolet,2021,Silverado 4WD,600,482,33900.0,57700.0,Regular Gasoline,0,0,18,24.0,Find.do?action=sbs&id=43099
+Chevrolet,2020,Silverado 4WD,475,494,35500.0,56800.0,Regular Gasoline,0,0,18,24.0,Find.do?action=sbs&id=41833
+Chevrolet,2019,Silverado K10 4WD,475,491,35500.0,56600.0,Regular Gasoline,0,0,18,24.0,Find.do?action=sbs&id=40424
+Chevrolet,2024,Silverado 2WD,475,490,36800.0,62700.0,Regular Gasoline,0,0,18,24.0,Find.do?action=sbs&id=46813
+Chevrolet,2022,Silverado 2WD,475,505,34600.0,59800.0,Regular Gasoline,0,0,18,24.0,Find.do?action=sbs&id=44727
+Chevrolet,2022,Silverado 2WD,475,502,34600.0,59800.0,Regular Gasoline,0,0,18,24.0,Find.do?action=sbs&id=44730
+Chevrolet,2022,Silverado 2WD,485,489,34600.0,59800.0,Regular Gasoline,0,0,18,24.0,Find.do?action=sbs&id=45159
+Chevrolet,2022,Silverado 2WD,485,484,34600.0,59800.0,Regular Gasoline,0,0,18,24.0,Find.do?action=sbs&id=45160
+Chevrolet,2021,Silverado 4WD,485,493,33900.0,57700.0,Premium Gasoline,0,0,18,24.0,Find.do?action=sbs&id=43096
+Chevrolet,2021,Silverado 4WD TrailBoss,485,494,48900.0,51800.0,Regular Gasoline,0,0,18,24.0,Find.do?action=sbs&id=43102
+Chevrolet,2020,Silverado 4WD TrailBoss,372,486,39500.0,48800.0,Regular Gasoline,0,0,18,24.0,Find.do?action=sbs&id=41834
+Chevrolet,2020,Silverado 4WD TrailBoss,372,494,39500.0,48800.0,Regular Gasoline,0,0,18,24.0,Find.do?action=sbs&id=41836
+Chevrolet,2024,Silverado 2WD,462,496,36800.0,62700.0,Regular Gasoline,0,0,18,24.0,Find.do?action=sbs&id=46811
+Chevrolet,2023,Silverado 2WD,576,496,36300.0,62100.0,Regular Gasoline,0,0,18,24.0,Find.do?action=sbs&id=45770
+Chevrolet,2023,Silverado 2WD,374,500,36300.0,62100.0,Regular Gasoline,0,0,18,24.0,Find.do?action=sbs&id=45773
+Chevrolet,2022,Silverado 4WD,374,506,39200.0,63600.0,Regular Gasoline,0,0,18,24.0,Find.do?action=sbs&id=45166
+Chevrolet,2021,Suburban 2WD,521,492,51700.0,72300.0,Regular Gasoline,0,0,18,28.0,Find.do?action=sbs&id=42620
+Chevrolet,2021,Tahoe 2WD,521,492,49000.0,69600.0,Regular Gasoline,0,0,18,24.0,Find.do?action=sbs&id=42619
+Chevrolet,2021,Tahoe 4WD,521,496,52000.0,72600.0,Regular Gasoline,0,0,18,24.0,Find.do?action=sbs&id=42628
+Chevrolet,2019,Corvette,521,490,55900.0,135400.0,Premium Gasoline,0,0,18,18.5,Find.do?action=sbs&id=39873
+Chevrolet,2020,Suburban C1500 2WD,466,505,53800.0,65500.0,Regular Gasoline,0,0,18,31.0,Find.do?action=sbs&id=41573
+Chevrolet,2020,Suburban C1500 2WD,576,505,53800.0,65500.0,Regular Gasoline,0,0,18,31.0,Find.do?action=sbs&id=41575
+Chevrolet,2019,Suburban C1500 2WD,576,505,50800.0,65500.0,Regular Gasoline,0,0,18,31.0,Find.do?action=sbs&id=40293
+Chevrolet,2019,Suburban C1500 2WD,576,505,50800.0,65500.0,Regular Gasoline,0,0,18,31.0,Find.do?action=sbs&id=40295
+Chevrolet,2020,Tahoe C1500 2WD,576,505,48000.0,62700.0,Regular Gasoline,0,0,18,26.0,Find.do?action=sbs&id=41572
+Chevrolet,2020,Tahoe C1500 2WD,466,505,48000.0,62700.0,Regular Gasoline,0,0,18,26.0,Find.do?action=sbs&id=41574
+Chevrolet,2019,Tahoe C1500 2WD,576,505,48000.0,62700.0,Regular Gasoline,0,0,18,26.0,Find.do?action=sbs&id=40292
+Chevrolet,2019,Tahoe C1500 2WD,576,505,48000.0,62700.0,Regular Gasoline,0,0,18,26.0,Find.do?action=sbs&id=40294
+Chevrolet,2021,Silverado 4WD,576,506,33900.0,57700.0,Regular Gasoline,0,0,18,24.0,Find.do?action=sbs&id=44027
+Chevrolet,2023,Silverado Mud Terrain Tires 4WD,672,512,,,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=45795
+Chevrolet,2024,Colorado ZR2 4WD,552,527,46800.0,46800.0,Regular Gasoline,0,0,17,21.4,Find.do?action=sbs&id=47593
+Chevrolet,2021,Silverado 2WD,499,523,29300.0,53900.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=43185
+Chevrolet,2020,Silverado 2WD,446,523,28300.0,53300.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=41818
+Chevrolet,2019,Silverado C10 2WD,446,509,32200.0,53300.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=41103
+Chevrolet,2023,Silverado 4WD,644,523,40900.0,65900.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=45788
+Chevrolet,2023,Silverado 4WD,644,522,40900.0,65900.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=45789
+Chevrolet,2023,Silverado 4WD,644,513,40900.0,65900.0,Premium Gasoline,0,0,17,24.0,Find.do?action=sbs&id=45793
+Chevrolet,2020,Silverado 4WD,644,516,35500.0,56800.0,Premium Gasoline,0,0,17,24.0,Find.do?action=sbs&id=41838
+Chevrolet,2019,Silverado K10 4WD,552,516,35500.0,56600.0,Premium Gasoline,0,0,17,24.0,Find.do?action=sbs&id=40425
+Chevrolet,2022,Colorado ZR2 4WD,437,529,42600.0,44200.0,Regular Gasoline,0,0,17,21.0,Find.do?action=sbs&id=44388
+Chevrolet,2021,Colorado ZR2 4WD,437,510,41600.0,43200.0,Regular Gasoline,0,0,17,21.0,Find.do?action=sbs&id=42551
+Chevrolet,2020,Colorado ZR2 4WD,483,532,41400.0,43000.0,Regular Gasoline,0,0,17,21.0,Find.do?action=sbs&id=41624
+Chevrolet,2019,Colorado ZR2 4WD,483,532,41300.0,42900.0,Regular Gasoline,0,0,17,21.0,Find.do?action=sbs&id=40652
+Chevrolet,2022,Silverado Mud Terrain Tires 4WD,483,522,,,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=44633
+Chevrolet,2024,Silverado Mud Terrain Tires 4WD,483,534,,,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=47120
+Chevrolet,2019,Corvette Z06,528,512,55495.0,132900.0,Premium Gasoline,0,0,17,18.5,Find.do?action=sbs&id=39890
+Chevrolet,2021,Silverado 2WD,528,513,29300.0,53900.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=43868
+Chevrolet,2019,Silverado LD C15 2WD,528,510,34500.0,39200.0,Regular Gasoline,0,0,17,26.0,Find.do?action=sbs&id=40258
+Chevrolet,2021,Silverado 2WD,427,523,29300.0,53900.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=43088
+Chevrolet,2020,Silverado 2WD,427,524,28300.0,53300.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=41822
+Chevrolet,2021,Silverado 4WD TrailBoss,462,523,48900.0,51800.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=44028
+Chevrolet,2019,Silverado C10 2WD,462,524,32200.0,53300.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=40946
+Chevrolet,2019,Silverado LD K15 4WD,462,516,38400.0,44000.0,Regular Gasoline,0,0,17,26.0,Find.do?action=sbs&id=40260
+Chevrolet,2020,Tahoe K1500 4WD,616,525,51000.0,65700.0,Regular Gasoline,0,0,17,26.0,Find.do?action=sbs&id=41584
+Chevrolet,2020,Tahoe K1500 4WD,616,513,51000.0,65700.0,Regular Gasoline,0,0,17,26.0,Find.do?action=sbs&id=41585
+Chevrolet,2019,Tahoe K1500 4WD,616,513,51000.0,65700.0,Regular Gasoline,0,0,17,26.0,Find.do?action=sbs&id=40305
+Chevrolet,2019,Tahoe K1500 4WD,616,513,51000.0,65700.0,Regular Gasoline,0,0,17,26.0,Find.do?action=sbs&id=40307
+Chevrolet,2024,Silverado 4WD,528,527,41400.0,66500.0,Premium Gasoline,0,0,17,24.0,Find.do?action=sbs&id=46825
+Chevrolet,2024,Silverado 4WD,528,517,41400.0,66500.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=46832
+Chevrolet,2022,Silverado 4WD,528,522,39200.0,63600.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=44735
+Chevrolet,2022,Silverado 4WD,616,529,39200.0,63600.0,Premium Gasoline,0,0,17,24.0,Find.do?action=sbs&id=44740
+Chevrolet,2022,Silverado 4WD,471,521,39200.0,63600.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=44741
+Chevrolet,2021,Silverado 4WD,471,530,33900.0,57700.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=43104
+Chevrolet,2021,Silverado 4WD,418,533,33900.0,57700.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=43366
+Chevrolet,2021,Silverado 4WD,418,522,33900.0,57700.0,Premium Gasoline,0,0,17,24.0,Find.do?action=sbs&id=44025
+Chevrolet,2020,Silverado 4WD,418,525,35500.0,56800.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=41839
+Chevrolet,2020,Silverado 4WD,418,532,35500.0,56800.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=41844
+Chevrolet,2019,Silverado C10 2WD,418,529,32200.0,53300.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=41104
+Chevrolet,2019,Silverado K10 4WD,462,517,35500.0,56600.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=40953
+Chevrolet,2019,Silverado K10 4WD,462,530,35500.0,56600.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=41110
+Chevrolet,2019,Silverado K10 4WD TrailBoss,462,508,39500.0,48600.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=40426
+Chevrolet,2024,Suburban 2WD,462,527,59200.0,79900.0,Regular Gasoline,0,0,17,28.0,Find.do?action=sbs&id=47397
+Chevrolet,2023,Suburban 2WD,407,527,56900.0,77100.0,Regular Gasoline,0,0,17,28.0,Find.do?action=sbs&id=45624
+Chevrolet,2022,Suburban 2WD,407,534,52400.0,72700.0,Regular Gasoline,0,0,17,28.0,Find.do?action=sbs&id=44659
+Chevrolet,2022,Suburban 2WD,427,527,52400.0,72700.0,Regular Gasoline,0,0,17,28.0,Find.do?action=sbs&id=44960
+Chevrolet,2021,Suburban 2WD,427,525,51700.0,72300.0,Premium Gasoline,0,0,17,28.0,Find.do?action=sbs&id=42618
+Chevrolet,2021,Suburban 2WD,427,523,51700.0,72300.0,Regular Gasoline,0,0,17,28.0,Find.do?action=sbs&id=44037
+Chevrolet,2024,Tahoe 2WD,462,527,56200.0,76900.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=47396
+Chevrolet,2023,Tahoe 2WD,462,527,54200.0,74400.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=45623
+Chevrolet,2022,Tahoe 2WD,418,534,49700.0,70000.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=44658
+Chevrolet,2022,Tahoe 2WD,418,527,49700.0,70000.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=44959
+Chevrolet,2021,Tahoe 2WD,418,525,49000.0,69600.0,Premium Gasoline,0,0,17,24.0,Find.do?action=sbs&id=42617
+Chevrolet,2021,Tahoe 2WD,418,523,49000.0,69600.0,Regular Gasoline,0,0,17,28.0,Find.do?action=sbs&id=44036
+Chevrolet,2024,Tahoe 4WD,407,527,59200.0,79900.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=47417
+Chevrolet,2023,Tahoe 4WD,296,527,57200.0,77400.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=45746
+Chevrolet,2022,Tahoe 4WD,407,527,52700.0,73000.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=44970
+Chevrolet,2021,Tahoe 4WD,296,523,52000.0,72600.0,Regular Gasoline,0,0,17,28.0,Find.do?action=sbs&id=44045
+Chevrolet,2024,Silverado 4WD,504,524,41400.0,66500.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=46823
+Chevrolet,2024,Silverado 4WD,504,535,41400.0,66500.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=46830
+Chevrolet,2023,Silverado 4WD,504,524,40900.0,65900.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=45785
+Chevrolet,2023,Silverado 4WD,504,535,40900.0,65900.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=45791
+Chevrolet,2022,Silverado 4WD,504,526,39200.0,63600.0,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=44827
+Chevrolet,2021,Silverado 4WD TrailBoss,504,522,48900.0,51800.0,Premium Gasoline,0,0,17,24.0,Find.do?action=sbs&id=43191
+Chevrolet,2021,Silverado 4WD TrailBoss,456,533,48900.0,51800.0,Premium Gasoline,0,0,17,24.0,Find.do?action=sbs&id=43193
+Chevrolet,2020,Silverado 4WD TrailBoss,456,515,39500.0,48800.0,Premium Gasoline,0,0,17,24.0,Find.do?action=sbs&id=42436
+Chevrolet,2019,Silverado C10 Cab Chassis 2WD,407,523,,,Regular Gasoline,0,0,17,0,Find.do?action=sbs&id=41118
+Chevrolet,2021,Silverado Cab Chassis 2WD,407,523,,,Regular Gasoline,0,0,17,0,Find.do?action=sbs&id=43117
+Chevrolet,2020,Silverado Cab Chassis 2WD,449,523,,,Regular Gasoline,0,0,17,0,Find.do?action=sbs&id=41860
+Chevrolet,2024,Silverado Mud Terrain Tires 4WD,441,524,,,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=46824
+Chevrolet,2023,Silverado Mud Terrain Tires 4WD,441,524,,,Regular Gasoline,0,0,17,24.0,Find.do?action=sbs&id=45784
+Chevrolet,2021,Suburban 4WD,441,515,54700.0,75300.0,Regular Gasoline,0,0,17,28.0,Find.do?action=sbs&id=42629
+Chevrolet,2022,Silverado Cab Chassis 2WD,441,536,,,Regular Gasoline,0,0,17,0,Find.do?action=sbs&id=45174
+Chevrolet,2019,Corvette Z06,449,532,55495.0,132900.0,Premium Gasoline,0,0,17,18.5,Find.do?action=sbs&id=39874
+Chevrolet,2020,Suburban C1500 2WD,456,517,53800.0,65500.0,Premium Gasoline,0,0,17,31.0,Find.do?action=sbs&id=41605
+Chevrolet,2019,Suburban C1500 2WD,407,517,50800.0,65500.0,Premium Gasoline,0,0,17,31.0,Find.do?action=sbs&id=40588
+Chevrolet,2020,Tahoe C1500 2WD,259,517,48000.0,62700.0,Premium Gasoline,0,0,17,26.0,Find.do?action=sbs&id=41576
+Chevrolet,2019,Tahoe C1500 2WD,259,517,48000.0,62700.0,Premium Gasoline,0,0,17,26.0,Find.do?action=sbs&id=40589
+Chevrolet,2020,Tahoe K1500 4WD,238,527,51000.0,65700.0,Premium Gasoline,0,0,17,26.0,Find.do?action=sbs&id=41587
+Chevrolet,2019,Tahoe K1500 4WD,259,527,51000.0,65700.0,Premium Gasoline,0,0,17,26.0,Find.do?action=sbs&id=40309
+Chevrolet,2024,Silverado Mud Terrain Tires 4WD,259,542,,,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=47123
+Chevrolet,2023,Colorado ZR2 4WD,247,539,,,Regular Gasoline,0,0,16,21.4,Find.do?action=sbs&id=47514
+Chevrolet,2024,Colorado ZR2 Bison 4WD,247,564,,,Regular Gasoline,0,0,16,21.4,Find.do?action=sbs&id=47591
+Chevrolet,2024,Silverado 2WD,279,546,36800.0,62700.0,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=46812
+Chevrolet,2022,Silverado 2WD,393,555,34600.0,59800.0,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=44628
+Chevrolet,2021,Silverado 2WD,450,547,29300.0,53900.0,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=43089
+Chevrolet,2020,Silverado 2WD,598,545,28300.0,53300.0,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=41823
+Chevrolet,2024,Silverado 4WD,500,546,41400.0,66500.0,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=46828
+Chevrolet,2022,Silverado 4WD,472,545,39200.0,63600.0,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=44634
+Chevrolet,2019,Silverado K10 4WD,452,547,35500.0,56600.0,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=41027
+Chevrolet,2024,Silverado Mud Terrain Tires 4WD,297,546,,,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=46829
+Chevrolet,2023,Silverado Mud Terrain Tires 4WD,297,555,,,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=45792
+Chevrolet,2023,Suburban 4WD,297,545,59900.0,80100.0,Regular Gasoline,0,0,16,28.0,Find.do?action=sbs&id=45636
+Chevrolet,2022,Suburban 4WD,297,554,55400.0,75700.0,Regular Gasoline,0,0,16,28.0,Find.do?action=sbs&id=44971
+Chevrolet,2021,Suburban 4WD,297,555,54700.0,75300.0,Regular Gasoline,0,0,16,28.0,Find.do?action=sbs&id=44046
+Chevrolet,2024,Silverado Cab Chassis 2WD,297,545,,,Regular Gasoline,0,0,16,0,Find.do?action=sbs&id=46856
+Chevrolet,2023,Silverado Cab Chassis 2WD,297,553,,,Regular Gasoline,0,0,16,0,Find.do?action=sbs&id=45820
+Chevrolet,2024,Silverado Mud Terrain Tires 4WD,297,555,,,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=46831
+Chevrolet,2024,Silverado Mud Terrain Tires 4WD,297,545,,,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=46833
+Chevrolet,2023,Silverado Mud Terrain Tires 4WD,297,552,,,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=45790
+Chevrolet,2024,Suburban 4WD,297,557,62200.0,82900.0,Regular Gasoline,0,0,16,28.0,Find.do?action=sbs&id=47418
+Chevrolet,2023,Silverado Cab Chassis 4WD,297,564,,,Regular Gasoline,0,0,16,0,Find.do?action=sbs&id=45819
+Chevrolet,2022,Silverado Cab Chassis 4WD,288,555,,,Regular Gasoline,0,0,16,0,Find.do?action=sbs&id=45175
+Chevrolet,2021,Silverado 2WD,288,541,29300.0,53900.0,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=43816
+Chevrolet,2021,Silverado 4WD,288,545,33900.0,57700.0,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=43870
+Chevrolet,2020,Suburban K1500 4WD,288,543,50800.0,68500.0,Regular Gasoline,0,0,16,31.0,Find.do?action=sbs&id=41586
+Chevrolet,2020,Suburban K1500 4WD,506,547,50800.0,68500.0,Regular Gasoline,0,0,16,31.0,Find.do?action=sbs&id=41631
+Chevrolet,2019,Suburban K1500 4WD,506,541,53800.0,68500.0,Regular Gasoline,0,0,16,31.0,Find.do?action=sbs&id=40306
+Chevrolet,2019,Suburban K1500 4WD,506,541,53800.0,68500.0,Regular Gasoline,0,0,16,31.0,Find.do?action=sbs&id=40308
+Chevrolet,2024,Camaro,477,561,30900.0,78100.0,Premium Gasoline,0,0,16,19.0,Find.do?action=sbs&id=47044
+Chevrolet,2023,Camaro,438,559,26400.0,73300.0,Premium Gasoline,0,0,16,19.0,Find.do?action=sbs&id=45346
+Chevrolet,2022,Camaro,438,562,25000.0,69000.0,Premium Gasoline,0,0,16,19.0,Find.do?action=sbs&id=44111
+Chevrolet,2021,Camaro,438,564,25000.0,69000.0,Premium Gasoline,0,0,16,19.0,Find.do?action=sbs&id=42884
+Chevrolet,2020,Camaro,499,565,,,Premium Gasoline,0,0,16,19.0,Find.do?action=sbs&id=41547
+Chevrolet,2019,Camaro,409,565,25000.0,68000.0,Premium Gasoline,0,0,16,19.0,Find.do?action=sbs&id=40457
+Chevrolet,2021,Silverado 4WD,409,560,33900.0,57700.0,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=43872
+Chevrolet,2024,Suburban 2WD,409,555,59200.0,79900.0,Premium Gasoline,0,0,16,28.0,Find.do?action=sbs&id=47399
+Chevrolet,2023,Suburban 2WD,409,555,56900.0,77100.0,Premium Gasoline,0,0,16,28.0,Find.do?action=sbs&id=45622
+Chevrolet,2022,Suburban 2WD,425,542,52400.0,72700.0,Premium Gasoline,0,0,16,28.0,Find.do?action=sbs&id=44661
+Chevrolet,2022,Suburban 2WD,378,547,52400.0,72700.0,Premium Gasoline,0,0,16,28.0,Find.do?action=sbs&id=44962
+Chevrolet,2021,Suburban 2WD,396,544,51700.0,72300.0,Premium Gasoline,0,0,16,28.0,Find.do?action=sbs&id=44035
+Chevrolet,2020,Suburban K1500 4WD,396,557,50800.0,68500.0,Premium Gasoline,0,0,16,31.0,Find.do?action=sbs&id=41606
+Chevrolet,2019,Suburban K1500 4WD,474,553,53800.0,68500.0,Premium Gasoline,0,0,16,31.0,Find.do?action=sbs&id=40310
+Chevrolet,2024,Tahoe 2WD,383,555,56200.0,76900.0,Premium Gasoline,0,0,16,24.0,Find.do?action=sbs&id=47398
+Chevrolet,2023,Tahoe 2WD,354,555,54200.0,74400.0,Premium Gasoline,0,0,16,24.0,Find.do?action=sbs&id=45621
+Chevrolet,2022,Tahoe 2WD,354,542,49700.0,70000.0,Premium Gasoline,0,0,16,24.0,Find.do?action=sbs&id=44660
+Chevrolet,2022,Tahoe 2WD,354,547,49700.0,70000.0,Premium Gasoline,0,0,16,24.0,Find.do?action=sbs&id=44961
+Chevrolet,2021,Tahoe 2WD,354,544,49000.0,69600.0,Premium Gasoline,0,0,16,28.0,Find.do?action=sbs&id=44034
+Chevrolet,2022,Silverado 4WD,354,555,39200.0,63600.0,Premium Gasoline,0,0,16,24.0,Find.do?action=sbs&id=44737
+Chevrolet,2022,Silverado 4WD,417,555,39200.0,63600.0,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=45164
+Chevrolet,2022,Silverado 4WD,417,556,39200.0,63600.0,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=45165
+Chevrolet,2021,Silverado 4WD TrailBoss,417,555,48900.0,51800.0,Premium Gasoline,0,0,16,24.0,Find.do?action=sbs&id=44026
+Chevrolet,2019,Silverado C10 Cab Chassis 2WD,417,555,,,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=40962
+Chevrolet,2022,Suburban 4WD,417,569,55400.0,75700.0,Regular Gasoline,0,0,16,28.0,Find.do?action=sbs&id=44667
+Chevrolet,2022,Suburban 4WD,417,568,55400.0,75700.0,Premium Gasoline,0,0,16,28.0,Find.do?action=sbs&id=44669
+Chevrolet,2022,Suburban 4WD,392,555,55400.0,75700.0,Premium Gasoline,0,0,16,28.0,Find.do?action=sbs&id=44973
+Chevrolet,2021,Suburban 4WD,392,558,54700.0,75300.0,Premium Gasoline,0,0,16,28.0,Find.do?action=sbs&id=42627
+Chevrolet,2022,Tahoe 4WD,392,568,52700.0,73000.0,Premium Gasoline,0,0,16,24.0,Find.do?action=sbs&id=44668
+Chevrolet,2022,Tahoe 4WD,370,556,52700.0,73000.0,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=44754
+Chevrolet,2022,Tahoe 4WD,370,555,52700.0,73000.0,Premium Gasoline,0,0,16,24.0,Find.do?action=sbs&id=44972
+Chevrolet,2021,Tahoe 4WD,370,558,52000.0,72600.0,Premium Gasoline,0,0,16,24.0,Find.do?action=sbs&id=42626
+Chevrolet,2022,Silverado 4WD,356,555,39200.0,63600.0,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=44635
+Chevrolet,2022,Silverado 4WD,421,555,39200.0,63600.0,Premium Gasoline,0,0,16,24.0,Find.do?action=sbs&id=44739
+Chevrolet,2021,Silverado 4WD,421,563,33900.0,57700.0,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=43098
+Chevrolet,2020,Silverado 4WD,421,563,35500.0,56800.0,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=41841
+Chevrolet,2021,Silverado 4WD TrailBoss,421,560,48900.0,51800.0,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=43097
+Chevrolet,2021,Silverado 4WD TrailBoss,378,560,48900.0,51800.0,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=43103
+Chevrolet,2020,Silverado 4WD TrailBoss,378,561,39500.0,48800.0,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=41840
+Chevrolet,2020,Silverado 4WD TrailBoss,648,556,39500.0,48800.0,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=41845
+Chevrolet,2019,Silverado K10 4WD TrailBoss,648,556,39500.0,48600.0,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=40954
+Chevrolet,2019,Silverado K10 4WD TrailBoss,406,558,39500.0,48600.0,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=41111
+Chevrolet,2023,Silverado Mud Terrain Tires 4WD,406,567,,,Premium Gasoline,0,0,16,24.0,Find.do?action=sbs&id=45786
+Chevrolet,2022,Silverado Mud Terrain Tires 4WD,624,566,,,Premium Gasoline,0,0,16,24.0,Find.do?action=sbs&id=44738
+Chevrolet,2024,Suburban 4WD,364,564,62200.0,82900.0,Premium Gasoline,0,0,16,28.0,Find.do?action=sbs&id=47421
+Chevrolet,2023,Suburban 4WD,364,564,59900.0,80100.0,Premium Gasoline,0,0,16,28.0,Find.do?action=sbs&id=45635
+Chevrolet,2024,Tahoe 4WD,364,566,59200.0,79900.0,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=47419
+Chevrolet,2024,Tahoe 4WD,624,564,59200.0,79900.0,Premium Gasoline,0,0,16,24.0,Find.do?action=sbs&id=47420
+Chevrolet,2023,Tahoe 4WD,364,564,57200.0,77400.0,Premium Gasoline,0,0,16,24.0,Find.do?action=sbs&id=45634
+Chevrolet,2023,Tahoe 4WD,364,566,57200.0,77400.0,Regular Gasoline,0,0,16,24.0,Find.do?action=sbs&id=45747
+Chevrolet,2024,Camaro,624,571,30900.0,78100.0,Premium Gasoline,0,0,16,19.0,Find.do?action=sbs&id=47043
+Chevrolet,2023,Camaro,411,571,26400.0,73300.0,Premium Gasoline,0,0,16,19.0,Find.do?action=sbs&id=45347
+Chevrolet,2022,Camaro,411,571,25000.0,69000.0,Premium Gasoline,0,0,16,19.0,Find.do?action=sbs&id=44110
+Chevrolet,2021,Camaro,411,571,25000.0,69000.0,Premium Gasoline,0,0,16,19.0,Find.do?action=sbs&id=42885
+Chevrolet,2020,Camaro,411,571,,,Premium Gasoline,0,0,16,19.0,Find.do?action=sbs&id=41546
+Chevrolet,2019,Camaro,600,571,25000.0,68000.0,Premium Gasoline,0,0,16,19.0,Find.do?action=sbs&id=40462
+Chevrolet,2021,Suburban 4WD,475,570,54700.0,75300.0,Premium Gasoline,0,0,16,28.0,Find.do?action=sbs&id=44044
+Chevrolet,2021,Tahoe 4WD,475,570,52000.0,72600.0,Premium Gasoline,0,0,16,28.0,Find.do?action=sbs&id=44043
+Chevrolet,2019,Colorado Cab Chassis 2WD,475,572,,,Regular Gasoline,0,0,15,21.0,Find.do?action=sbs&id=40658
+Chevrolet,2020,Silverado 4WD TrailBoss,475,575,39500.0,48800.0,Premium Gasoline,0,0,15,24.0,Find.do?action=sbs&id=42437
+Chevrolet,2021,Silverado Cab Chassis 2WD,475,590,,,Regular Gasoline,0,0,15,0,Find.do?action=sbs&id=43197
+Chevrolet,2020,Silverado Cab Chassis 2WD,485,582,,,Regular Gasoline,0,0,15,0,Find.do?action=sbs&id=41862
+Chevrolet,2022,Silverado Mud Terrain Tires 4WD,485,577,,,Regular Gasoline,0,0,15,24.0,Find.do?action=sbs&id=45167
+Chevrolet,2024,Silverado 4WD ZR2,485,591,69900.0,69900.0,Premium Gasoline,0,0,15,24.0,Find.do?action=sbs&id=46827
+Chevrolet,2023,Silverado 4WD ZR2,485,585,71500.0,71500.0,Premium Gasoline,0,0,15,24.0,Find.do?action=sbs&id=45794
+Chevrolet,2022,Silverado 4WD ZR2,372,588,68400.0,68400.0,Premium Gasoline,0,0,15,24.0,Find.do?action=sbs&id=45129
+Chevrolet,2022,Silverado Cab Chassis 2WD,372,583,,,Regular Gasoline,0,0,15,0,Find.do?action=sbs&id=44642
+Chevrolet,2024,Silverado Cab Chassis 4WD,462,577,,,Regular Gasoline,0,0,15,0,Find.do?action=sbs&id=46857
+Chevrolet,2022,Silverado Cab Chassis 4WD,576,589,,,Regular Gasoline,0,0,15,0,Find.do?action=sbs&id=44643
+Chevrolet,2021,Silverado Cab Chassis 4WD,374,593,,,Regular Gasoline,0,0,15,0,Find.do?action=sbs&id=43116
+Chevrolet,2020,Silverado Cab Chassis 4WD,374,593,,,Regular Gasoline,0,0,15,0,Find.do?action=sbs&id=41861
+Chevrolet,2019,Silverado K10 Cab Chassis 4WD,521,593,,,Regular Gasoline,0,0,15,24.0,Find.do?action=sbs&id=40961
+Chevrolet,2019,Silverado K10 Cab Chassis 4WD,521,592,,,Regular Gasoline,0,0,15,0,Find.do?action=sbs&id=41119
+Chevrolet,2024,Silverado Mud Terrain Tires 4WD,521,590,,,Premium Gasoline,0,0,15,24.0,Find.do?action=sbs&id=46826
+Chevrolet,2022,Silverado Mud Terrain Tires 4WD,521,585,,,Regular Gasoline,0,0,15,24.0,Find.do?action=sbs&id=44631
+Chevrolet,2022,Silverado Mud Terrain Tires 4WD,466,581,,,Regular Gasoline,0,0,15,24.0,Find.do?action=sbs&id=44828
+Chevrolet,2021,Silverado Cab Chassis 4WD,576,592,,,Regular Gasoline,0,0,15,0,Find.do?action=sbs&id=43118
+Chevrolet,2020,Silverado Cab Chassis 4WD,576,594,,,Regular Gasoline,0,0,15,0,Find.do?action=sbs&id=41863
+Chevrolet,2022,Silverado Mud Terrain Tires 4WD,576,610,,,Regular Gasoline,0,0,15,24.0,Find.do?action=sbs&id=44630
+Chevrolet,2019,Corvette ZR1,576,592,55495.0,132900.0,Premium Gasoline,0,0,15,18.5,Find.do?action=sbs&id=39961
+Chevrolet,2021,Silverado 4WD TrailBoss,466,593,48900.0,51800.0,Regular Gasoline,0,0,15,24.0,Find.do?action=sbs&id=43871
+Chevrolet,2022,Silverado Cab Chassis 4WD,576,611,,,Regular Gasoline,0,0,15,0,Find.do?action=sbs&id=45173
+Chevrolet,2022,Silverado Mud Terrain Tires 4WD,576,593,,,Regular Gasoline,0,0,15,24.0,Find.do?action=sbs&id=45163
+Chevrolet,2024,Corvette Z06,576,597,110100.0,130650.0,Premium Gasoline,0,0,15,18.5,Find.do?action=sbs&id=46759
+Chevrolet,2023,Corvette Z06,672,597,,,Premium Gasoline,0,0,15,18.5,Find.do?action=sbs&id=45908
+Chevrolet,2019,Corvette ZR1,552,613,55495.0,132900.0,Premium Gasoline,0,0,15,18.5,Find.do?action=sbs&id=39962
+Chevrolet,2021,Silverado Cab Chassis 2WD,499,634,,,Regular Gasoline,0,0,14,0,Find.do?action=sbs&id=43876
+Chevrolet,2021,Silverado Cab Chassis 4WD,446,635,,,Regular Gasoline,0,0,14,0,Find.do?action=sbs&id=43875
+Chevrolet,2022,Silverado Mud Terrain Tires 4WD,446,619,,,Premium Gasoline,0,0,14,24.0,Find.do?action=sbs&id=44736
+Chevrolet,2024,Corvette Z06 Carbon Aero,644,631,,,Premium Gasoline,0,0,14,18.5,Find.do?action=sbs&id=46760
+Chevrolet,2023,Corvette Z06 Carbon Aero,644,631,,,Premium Gasoline,0,0,14,18.5,Find.do?action=sbs&id=45909
+Ford,2023,Mustang Mach-E RWD,644,0,42995.0,46995.0,Electricity,103,8.1,0,0,Find.do?action=sbs&id=46517
+Ford,2022,Mustang Mach-E RWD,644,0,43895.0,49100.0,Electricity,103,8.1,0,0,Find.do?action=sbs&id=45144
+Ford,2022,Mustang Mach-E CAL RT 1 ER RWD,552,0,52775.0,52775.0,Electricity,101,10.1,0,0,Find.do?action=sbs&id=45141
+Ford,2021,Mustang Mach-E RWD California Route 1,437,0,,,Electricity,101,11.4,0,0,Find.do?action=sbs&id=43683
+Ford,2023,Mustang Mach-E RWD LFP,437,0,,,Electricity,101,7.4,0,0,Find.do?action=sbs&id=46985
+Ford,2021,Mustang Mach-E RWD,483,0,42895.0,47600.0,Electricity,100,8.8,0,0,Find.do?action=sbs&id=43604
+Ford,2023,Mustang Mach-E RWD Extended,483,0,,,Electricity,99,10.2,0,0,Find.do?action=sbs&id=46518
+Ford,2023,MUSTANG MACH-E CAL RT 1 ER AWD,483,0,56995.0,56995.0,Electricity,98,10.1,0,0,Find.do?action=sbs&id=46514
+Ford,2022,Mustang Mach-E CAL RT 1 ER AWD,483,0,55475.0,55475.0,Electricity,98,11.4,0,0,Find.do?action=sbs&id=45140
+Ford,2022,Mustang Mach-E RWD Extended,528,0,,,Electricity,97,10.9,0,0,Find.do?action=sbs&id=45145
+Ford,2021,Mustang Mach-E RWD Extended,528,0,,,Electricity,97,10.9,0,0,Find.do?action=sbs&id=43605
+Ford,2021,Mustang Mach-E AWD,528,0,45595.0,50300.0,Electricity,93,8.5,0,0,Find.do?action=sbs&id=43602
+Ford,2023,Mustang Mach-E AWD,427,0,45995.0,49995.0,Electricity,93,8,0,0,Find.do?action=sbs&id=46512
+Ford,2022,Mustang Mach-E AWD,427,0,46595.0,51800.0,Electricity,93,8,0,0,Find.do?action=sbs&id=45138
+Ford,2023,Mustang Mach-E AWD Extended,462,0,,,Electricity,92,10,0,0,Find.do?action=sbs&id=46513
+Ford,2022,Mustang Mach-E AWD Extended,462,0,,,Electricity,91,10.7,0,0,Find.do?action=sbs&id=45139
+Ford,2021,Mustang Mach-E AWD Extended,462,0,58900.0,59900.0,Electricity,90,10.7,0,0,Find.do?action=sbs&id=43603
+Ford,2023,Mustang Mach-E GT,616,0,59995.0,59995.0,Electricity,84,10.3,0,0,Find.do?action=sbs&id=46515
+Ford,2022,Mustang Mach-E GT,616,0,61995.0,61995.0,Electricity,84,10.3,0,0,Find.do?action=sbs&id=45142
+Ford,2021,Mustang Mach-E GT,616,0,59900.0,59900.0,Electricity,84,10.3,0,0,Find.do?action=sbs&id=44797
+Ford,2023,Mustang Mach-E GT Performance,616,0,,,Electricity,82,10.1,0,0,Find.do?action=sbs&id=46516
+Ford,2022,Mustang Mach-E GT Performance,528,0,,,Electricity,82,10.1,0,0,Find.do?action=sbs&id=45143
+Ford,2021,Mustang Mach-E GT Performance,528,0,59900.0,59900.0,Electricity,82,10.1,0,0,Find.do?action=sbs&id=44798
+Ford,2023,F-150 Lightning 4WD Extended Range,528,0,,,Electricity,70,10.1,0,0,Find.do?action=sbs&id=46327
+Ford,2022,F-150 Lightning 4WD Extended Range,616,0,39974.0,90874.0,Electricity,70,10.1,0,0,Find.do?action=sbs&id=45317
+Ford,2023,F-150 Lightning 4WD,471,0,,,Electricity,68,11.9,0,0,Find.do?action=sbs&id=46329
+Ford,2022,F-150 Lightning 4WD,471,0,39974.0,90874.0,Electricity,68,11.9,0,0,Find.do?action=sbs&id=45318
+Ford,2022,Escape FWD PHEV,418,77,35455.0,40700.0,Electricity,105,3.3,105,12.0,Find.do?action=sbs&id=44931
+Ford,2021,Escape FWD PHEV,418,77,32650.0,38585.0,Electricity,105,3.3,105,12.0,Find.do?action=sbs&id=43912
+Ford,2020,Escape FWD PHEV,418,77,,,Electricity,102,3.3,102,12.0,Find.do?action=sbs&id=42743
+Ford,2023,F-150 Lightning Platinum 4WD,418,0,91995.0,91995.0,Electricity,66,9.3,0,0,Find.do?action=sbs&id=46328
+Ford,2022,F-150 Lightning Platinum 4WD,418,0,39974.0,90874.0,Electricity,66,9.3,0,0,Find.do?action=sbs&id=45316
+Ford,2023,Escape FWD PHEV,462,52,40500.0,40500.0,Electricity,101,3.4,101,12.0,Find.do?action=sbs&id=47220
+Ford,2020,Fusion Energi Plug-in Hybrid,462,99,37000.0,37000.0,Electricity,103,2.6,103,14.0,Find.do?action=sbs&id=41899
+Ford,2019,Fusion Energi Plug-in Hybrid,462,99,36595.0,36595.0,Electricity,103,2.6,103,14.0,Find.do?action=sbs&id=40809
+Ford,2020,Fusion Special Service PHEV,462,101,,,Electricity,102,2.6,102,14.0,Find.do?action=sbs&id=41900
+Ford,2019,Fusion Special Service Vehicle PHEV,407,101,,,Electricity,102,2.6,102,14.0,Find.do?action=sbs&id=41226
+Ford,2020,Fusion Hybrid FWD,407,211,28000.0,34595.0,Regular Gasoline,0,0,42,14.0,Find.do?action=sbs&id=41802
+Ford,2019,Fusion Hybrid FWD,427,212,27555.0,34485.0,Regular Gasoline,0,0,42,14.0,Find.do?action=sbs&id=40703
+Ford,2022,Escape FWD HEV,427,220,30185.0,35095.0,Regular Gasoline,0,0,41,14.2,Find.do?action=sbs&id=44811
+Ford,2021,Escape FWD HEV,427,220,27605.0,33300.0,Regular Gasoline,0,0,41,0,Find.do?action=sbs&id=43644
+Ford,2020,Escape FWD HEV,462,220,28265.0,33550.0,Regular Gasoline,0,0,41,0,Find.do?action=sbs&id=42253
+Ford,2020,Fusion Hybrid Taxi,462,217,,,Regular Gasoline,0,0,41,14.0,Find.do?action=sbs&id=41803
+Ford,2019,Fusion Hybrid Taxi,418,217,,,Regular Gasoline,0,0,41,14.0,Find.do?action=sbs&id=40704
+Ford,2022,Escape AWD HEV,418,224,31685.0,36595.0,Regular Gasoline,0,0,40,14.2,Find.do?action=sbs&id=44813
+Ford,2021,Escape AWD HEV,418,224,29105.0,34800.0,Regular Gasoline,0,0,40,0,Find.do?action=sbs&id=43649
+Ford,2020,Escape AWD HEV,418,224,29765.0,35050.0,Regular Gasoline,0,0,40,0,Find.do?action=sbs&id=42258
+Ford,2024,Escape AWD HEV,407,225,35040.0,39460.0,Regular Gasoline,0,0,39,14.3,Find.do?action=sbs&id=47643
+Ford,2023,Escape AWD HEV,296,225,35040.0,39460.0,Regular Gasoline,0,0,39,14.3,Find.do?action=sbs&id=46389
+Ford,2024,Escape FWD HEV,407,225,33340.0,36965.0,Regular Gasoline,0,0,39,14.3,Find.do?action=sbs&id=47628
+Ford,2023,Escape FWD HEV,296,225,33340.0,36965.0,Regular Gasoline,0,0,39,14.3,Find.do?action=sbs&id=46325
+Ford,2024,Maverick HEV FWD,504,237,,,Regular Gasoline,0,0,37,13.8,Find.do?action=sbs&id=47364
+Ford,2022,Maverick HEV FWD,504,237,20995.0,26860.0,Regular Gasoline,0,0,37,13.8,Find.do?action=sbs&id=45110
+Ford,2023,Maverick HEV FWD,504,240,22595.0,28355.0,Regular Gasoline,0,0,37,13.8,Find.do?action=sbs&id=46366
+Ford,2019,Fiesta FWD,504,286,14260.0,15790.0,Regular Gasoline,0,0,31,12.4,Find.do?action=sbs&id=40813
+Ford,2022,Escape FWD,504,293,27025.0,30735.0,Regular Gasoline,0,0,30,14.8,Find.do?action=sbs&id=44810
+Ford,2021,Escape FWD,504,293,24885.0,29205.0,Regular Gasoline,0,0,30,0,Find.do?action=sbs&id=43645
+Ford,2019,Fiesta FWD,456,294,14260.0,15790.0,Regular Gasoline,0,0,30,12.4,Find.do?action=sbs&id=40814
+Ford,2024,Escape FWD,456,299,29345.0,30340.0,Regular Gasoline,0,0,30,14.8,Find.do?action=sbs&id=47627
+Ford,2023,Escape FWD,407,299,28000.0,37465.0,Regular Gasoline,0,0,30,14.8,Find.do?action=sbs&id=46324
+Ford,2020,Escape FWD,407,297,24885.0,29265.0,Regular Gasoline,0,0,30,0,Find.do?action=sbs&id=42074
+Ford,2021,EcoSport FWD,449,318,20395.0,26895.0,Regular Gasoline,0,0,28,13.8,Find.do?action=sbs&id=43157
+Ford,2020,EcoSport FWD,441,318,19995.0,26265.0,Regular Gasoline,0,0,28,13.8,Find.do?action=sbs&id=41629
+Ford,2019,EcoSport FWD,441,316,19995.0,26160.0,Regular Gasoline,0,0,28,13.6,Find.do?action=sbs&id=40908
+Ford,2020,Explorer HEV RWD,441,322,52530.0,52530.0,Regular Gasoline,0,0,28,18.0,Find.do?action=sbs&id=41937
+Ford,2024,Escape AWD,441,317,31515.0,38460.0,Regular Gasoline,0,0,28,15.7,Find.do?action=sbs&id=47642
+Ford,2023,Escape AWD,449,317,29500.0,38460.0,Regular Gasoline,0,0,28,15.7,Find.do?action=sbs&id=46388
+Ford,2022,Escape AWD,456,318,28525.0,37145.0,Regular Gasoline,0,0,28,15.7,Find.do?action=sbs&id=44814
+Ford,2021,Escape AWD,407,318,26385.0,36155.0,Regular Gasoline,0,0,28,0,Find.do?action=sbs&id=43650
+Ford,2020,Escape AWD,259,319,26385.0,36835.0,Regular Gasoline,0,0,28,0,Find.do?action=sbs&id=42257
+Ford,2019,Fiesta ST FWD,259,317,17625.0,21340.0,Regular Gasoline,0,0,28,12.4,Find.do?action=sbs&id=40817
+Ford,2023,Explorer HEV RWD,238,324,53005.0,53005.0,Regular Gasoline,0,0,27,18.0,Find.do?action=sbs&id=46404
+Ford,2022,Explorer HEV RWD,259,324,52060.0,52375.0,Regular Gasoline,0,0,27,18.0,Find.do?action=sbs&id=44833
+Ford,2021,Explorer HEV RWD,259,324,,,Regular Gasoline,0,0,27,18.0,Find.do?action=sbs&id=43480
+Ford,2020,Fusion FWD,247,327,23170.0,34450.0,Regular Gasoline,0,0,27,16.5,Find.do?action=sbs&id=41798
+Ford,2019,Fusion FWD,247,327,22840.0,34340.0,Regular Gasoline,0,0,27,16.5,Find.do?action=sbs&id=40700
+Ford,2024,Bronco Sport 4WD,279,342,31230.0,38390.0,Regular Gasoline,0,0,26,16.0,Find.do?action=sbs&id=47375
+Ford,2023,Bronco Sport 4WD,393,342,29215.0,44655.0,Regular Gasoline,0,0,26,16.0,Find.do?action=sbs&id=46385
+Ford,2022,Bronco Sport 4WD,450,342,28815.0,36590.0,Regular Gasoline,0,0,26,16.0,Find.do?action=sbs&id=44816
+Ford,2021,Bronco Sport 4WD,598,342,27215.0,38160.0,Regular Gasoline,0,0,26,16.0,Find.do?action=sbs&id=43543
+Ford,2023,Explorer Platinum HEV RWD,500,342,53820.0,53820.0,Regular Gasoline,0,0,26,18.0,Find.do?action=sbs&id=46403
+Ford,2022,Explorer Platinum HEV RWD,472,342,,,Regular Gasoline,0,0,26,18.0,Find.do?action=sbs&id=44832
+Ford,2021,Transit Connect Wagon LWB FFV,452,344,,,Regular Gasoline,0,0,26,15.8,Find.do?action=sbs&id=43270
+Ford,2020,Transit Connect Wagon LWB FFV,297,344,,,Regular Gasoline,0,0,26,15.8,Find.do?action=sbs&id=41471
+Ford,2019,Transit Connect Wagon LWB FFV,297,344,,,Regular Gasoline,0,0,26,15.8,Find.do?action=sbs&id=40380
+Ford,2021,Transit Connect Wagon LWB FWD,297,344,27400.0,31600.0,Regular Gasoline,0,0,26,15.8,Find.do?action=sbs&id=43269
+Ford,2020,Transit Connect Wagon LWB FWD,297,344,27020.0,32250.0,Regular Gasoline,0,0,26,15.8,Find.do?action=sbs&id=41470
+Ford,2019,Transit Connect Wagon LWB FWD,297,344,26845.0,31595.0,Regular Gasoline,0,0,26,15.8,Find.do?action=sbs&id=40379
+Ford,2022,Transit Connect Wagon LWB FFV,297,347,,,Regular Gasoline,0,0,26,15.8,Find.do?action=sbs&id=43942
+Ford,2023,Transit Connect Wagon LWB FWD,297,348,34360.0,36475.0,Regular Gasoline,0,0,26,15.8,Find.do?action=sbs&id=46371
+Ford,2022,Transit Connect Wagon LWB FWD,297,347,30365.0,33975.0,Regular Gasoline,0,0,26,15.8,Find.do?action=sbs&id=43941
+Ford,2024,Escape AWD,297,341,31515.0,38460.0,Regular Gasoline,0,0,26,15.7,Find.do?action=sbs&id=47655
+Ford,2023,Escape AWD,297,340,29500.0,38460.0,Regular Gasoline,0,0,26,15.7,Find.do?action=sbs&id=46387
+Ford,2021,Escape AWD,297,342,26385.0,36155.0,Regular Gasoline,0,0,26,0,Find.do?action=sbs&id=43651
+Ford,2020,Escape AWD,297,342,26385.0,36835.0,Regular Gasoline,0,0,26,0,Find.do?action=sbs&id=42256
+Ford,2019,Escape FWD,288,342,24105.0,32620.0,Regular Gasoline,0,0,26,15.7,Find.do?action=sbs&id=40911
+Ford,2024,Maverick FWD,288,342,23400.0,26315.0,Regular Gasoline,0,0,26,16.5,Find.do?action=sbs&id=47363
+Ford,2022,Maverick FWD,288,342,,,Regular Gasoline,0,0,26,16.5,Find.do?action=sbs&id=44473
+Ford,2024,Mustang,288,341,30920.0,46015.0,Regular Gasoline,0,0,26,0,Find.do?action=sbs&id=46646
+Ford,2022,Escape AWD,506,347,28525.0,37145.0,Regular Gasoline,0,0,26,15.7,Find.do?action=sbs&id=44815
+Ford,2021,F150 Pickup 2WD HEV,506,349,,,Regular Gasoline,0,0,25,30.6,Find.do?action=sbs&id=43614
+Ford,2023,F150 Pickup 2WD HEV,506,352,,,Regular Gasoline,0,0,25,30.6,Find.do?action=sbs&id=46166
+Ford,2022,F150 Pickup 2WD HEV,477,353,,,Regular Gasoline,0,0,25,0,Find.do?action=sbs&id=44987
+Ford,2020,Transit Connect Van 2WD,438,353,24275.0,27700.0,Regular Gasoline,0,0,25,15.8,Find.do?action=sbs&id=41468
+Ford,2019,Transit Connect Van 2WD,438,353,24100.0,27045.0,Regular Gasoline,0,0,25,15.8,Find.do?action=sbs&id=40378
+Ford,2022,Transit Connect Van FFV,438,355,,,Regular Gasoline,0,0,25,15.8,Find.do?action=sbs&id=43940
+Ford,2021,Transit Connect Van FFV,499,350,,,Regular Gasoline,0,0,25,15.8,Find.do?action=sbs&id=43268
+Ford,2020,Transit Connect Van FFV,409,353,,,Regular Gasoline,0,0,25,15.8,Find.do?action=sbs&id=41469
+Ford,2019,Transit Connect Van FFV,409,353,,,Regular Gasoline,0,0,25,15.8,Find.do?action=sbs&id=40377
+Ford,2022,Transit Connect Van FWD,409,355,29365.0,31540.0,Regular Gasoline,0,0,25,15.8,Find.do?action=sbs&id=43939
+Ford,2021,Transit Connect Van FWD,409,350,24665.0,27080.0,Regular Gasoline,0,0,25,15.8,Find.do?action=sbs&id=43267
+Ford,2023,Transit Connect Van FWD,425,355,32790.0,35965.0,Regular Gasoline,0,0,25,15.8,Find.do?action=sbs&id=46370
+Ford,2023,Maverick FWD,378,355,,,Regular Gasoline,0,0,25,0,Find.do?action=sbs&id=46365
+Ford,2022,EcoSport AWD,396,351,22040.0,28395.0,Regular Gasoline,0,0,25,13.8,Find.do?action=sbs&id=45100
+Ford,2021,EcoSport AWD,396,355,21990.0,28345.0,Regular Gasoline,0,0,25,13.8,Find.do?action=sbs&id=43160
+Ford,2020,EcoSport AWD,474,355,21590.0,27715.0,Regular Gasoline,0,0,25,13.8,Find.do?action=sbs&id=41630
+Ford,2019,EcoSport AWD,383,355,21590.0,27610.0,Regular Gasoline,0,0,25,13.6,Find.do?action=sbs&id=40917
+Ford,2023,Explorer HEV AWD,354,361,55005.0,55005.0,Regular Gasoline,0,0,25,18.0,Find.do?action=sbs&id=46419
+Ford,2022,Explorer HEV AWD,354,361,54060.0,54060.0,Regular Gasoline,0,0,25,18.0,Find.do?action=sbs&id=44824
+Ford,2021,Explorer HEV AWD,354,361,50105.0,52105.0,Regular Gasoline,0,0,25,18.0,Find.do?action=sbs&id=43291
+Ford,2020,Explorer HEV AWD,354,361,54725.0,54725.0,Regular Gasoline,0,0,25,18.0,Find.do?action=sbs&id=41939
+Ford,2023,Mustang,354,350,27770.0,43365.0,Regular Gasoline,0,0,25,15.5,Find.do?action=sbs&id=46337
+Ford,2022,Mustang,417,350,27470.0,43065.0,Regular Gasoline,0,0,25,15.9,Find.do?action=sbs&id=45044
+Ford,2019,F150 Pickup 2WD,417,412,28155.0,55220.0,Diesel,0,0,25,24.5,Find.do?action=sbs&id=41106
+Ford,2019,Edge FWD,417,360,29995.0,38760.0,Regular Gasoline,0,0,25,18.5,Find.do?action=sbs&id=40822
+Ford,2019,Escape FWD,417,360,24105.0,32620.0,Regular Gasoline,0,0,25,15.7,Find.do?action=sbs&id=40910
+Ford,2024,Maverick AWD,417,356,34855.0,34855.0,Regular Gasoline,0,0,25,16.5,Find.do?action=sbs&id=47366
+Ford,2022,Maverick AWD,417,356,,,Regular Gasoline,0,0,25,16.5,Find.do?action=sbs&id=44476
+Ford,2022,Mustang,392,354,27470.0,43065.0,Regular Gasoline,0,0,25,15.9,Find.do?action=sbs&id=45047
+Ford,2021,Mustang,392,356,27155.0,40120.0,Regular Gasoline,0,0,25,15.5,Find.do?action=sbs&id=43669
+Ford,2021,Mustang,392,354,27155.0,40120.0,Regular Gasoline,0,0,25,15.5,Find.do?action=sbs&id=43680
+Ford,2020,Mustang,370,354,26670.0,39630.0,Regular Gasoline,0,0,25,15.5,Find.do?action=sbs&id=41952
+Ford,2019,Mustang,370,355,26395.0,39355.0,Regular Gasoline,0,0,25,15.5,Find.do?action=sbs&id=40324
+Ford,2020,Fusion FWD,370,355,23170.0,34450.0,Regular Gasoline,0,0,25,16.5,Find.do?action=sbs&id=41800
+Ford,2019,Fusion FWD,356,361,22840.0,34340.0,Regular Gasoline,0,0,25,16.5,Find.do?action=sbs&id=40699
+Ford,2019,Fusion FWD,421,355,22840.0,34340.0,Regular Gasoline,0,0,25,16.5,Find.do?action=sbs&id=40705
+Ford,2019,Mustang,421,359,26395.0,39355.0,Regular Gasoline,0,0,25,15.5,Find.do?action=sbs&id=40320
+Ford,2021,F150 Pickup 4WD HEV,421,368,,,Regular Gasoline,0,0,24,30.6,Find.do?action=sbs&id=43465
+Ford,2019,Escape AWD,421,370,28000.0,34120.0,Regular Gasoline,0,0,24,15.7,Find.do?action=sbs&id=40915
+Ford,2019,F150 2WD BASE PAYLOAD LT TIRE,378,424,,,Diesel,0,0,24,24.5,Find.do?action=sbs&id=41105
+Ford,2023,Maverick AWD,378,370,,,Regular Gasoline,0,0,24,0,Find.do?action=sbs&id=46367
+Ford,2020,Fusion FWD,648,364,23170.0,34450.0,Regular Gasoline,0,0,24,16.5,Find.do?action=sbs&id=41801
+Ford,2023,Mustang,648,363,27770.0,43365.0,Regular Gasoline,0,0,24,15.5,Find.do?action=sbs&id=46343
+Ford,2020,Mustang,406,364,26670.0,39630.0,Regular Gasoline,0,0,24,15.5,Find.do?action=sbs&id=41951
+Ford,2021,Edge FWD,406,369,32750.0,38940.0,Regular Gasoline,0,0,24,18.5,Find.do?action=sbs&id=43711
+Ford,2020,Edge FWD,624,369,31100.0,38100.0,Regular Gasoline,0,0,24,18.5,Find.do?action=sbs&id=42075
+Ford,2019,Escape FWD,364,369,24105.0,32620.0,Regular Gasoline,0,0,24,15.7,Find.do?action=sbs&id=40909
+Ford,2019,Escape FWD FFV,364,369,,,Regular Gasoline,0,0,24,15.7,Find.do?action=sbs&id=40907
+Ford,2020,F150 Pickup 2WD,364,420,28745.0,55820.0,Diesel,0,0,24,26.0,Find.do?action=sbs&id=42517
+Ford,2023,Mustang,624,371,27770.0,43365.0,Regular Gasoline,0,0,24,15.5,Find.do?action=sbs&id=46335
+Ford,2022,Mustang,364,373,27470.0,43065.0,Regular Gasoline,0,0,24,15.9,Find.do?action=sbs&id=45045
+Ford,2021,Mustang,364,373,27155.0,40120.0,Regular Gasoline,0,0,24,15.5,Find.do?action=sbs&id=43667
+Ford,2024,Mustang Performance Package,624,368,,,Regular Gasoline,0,0,24,0,Find.do?action=sbs&id=46645
+Ford,2024,Explorer RWD,411,370,36760.0,54670.0,Regular Gasoline,0,0,24,17.9,Find.do?action=sbs&id=47671
+Ford,2023,Explorer RWD,411,370,36760.0,54220.0,Regular Gasoline,0,0,24,17.9,Find.do?action=sbs&id=46399
+Ford,2022,Explorer RWD,411,370,35510.0,53775.0,Regular Gasoline,0,0,24,17.9,Find.do?action=sbs&id=44963
+Ford,2021,Explorer RWD,411,373,32925.0,52730.0,Regular Gasoline,0,0,24,17.9,Find.do?action=sbs&id=43283
+Ford,2021,Explorer RWD,600,373,32925.0,52730.0,Regular Gasoline,0,0,24,17.9,Find.do?action=sbs&id=43284
+Ford,2020,Explorer RWD,475,370,32765.0,48380.0,Regular Gasoline,0,0,24,17.9,Find.do?action=sbs&id=41485
+Ford,2020,F150 2WD BASE PAYLOAD LT TIRE,475,424,,,Diesel,0,0,24,26.0,Find.do?action=sbs&id=42518
+Ford,2020,F150 Pickup 4WD XL/XLT,475,430,,,Diesel,0,0,24,26.0,Find.do?action=sbs&id=42519
+Ford,2019,F150 Pickup 4WD XL/XLT,475,424,32800.0,58645.0,Diesel,0,0,24,24.5,Find.do?action=sbs&id=41112
+Ford,2023,Explorer Platinum HEV AWD,475,379,55820.0,55820.0,Regular Gasoline,0,0,23,18.0,Find.do?action=sbs&id=46418
+Ford,2022,Explorer Platinum HEV AWD,485,379,54375.0,54375.0,Regular Gasoline,0,0,23,18.0,Find.do?action=sbs&id=44976
+Ford,2023,F150 Pickup 4WD HEV,485,381,84910.0,84910.0,Regular Gasoline,0,0,23,30.6,Find.do?action=sbs&id=46176
+Ford,2022,F150 Pickup 4WD HEV,485,386,,,Regular Gasoline,0,0,23,0,Find.do?action=sbs&id=44940
+Ford,2024,F150 Pickup 4WD HEV,485,387,,,Regular Gasoline,0,0,23,30.6,Find.do?action=sbs&id=47612
+Ford,2024,Edge AWD,372,380,38365.0,47205.0,Regular Gasoline,0,0,23,18.5,Find.do?action=sbs&id=46881
+Ford,2024,Edge AWD,372,380,38365.0,47205.0,Regular Gasoline,0,0,23,18.5,Find.do?action=sbs&id=46882
+Ford,2023,Edge AWD,462,380,37945.0,46485.0,Regular Gasoline,0,0,23,18.5,Find.do?action=sbs&id=46382
+Ford,2022,Edge AWD,576,380,37945.0,46485.0,Regular Gasoline,0,0,23,18.5,Find.do?action=sbs&id=44709
+Ford,2021,Edge AWD,374,380,34745.0,43600.0,Regular Gasoline,0,0,23,18.5,Find.do?action=sbs&id=43714
+Ford,2020,Edge AWD,374,384,33095.0,43265.0,Regular Gasoline,0,0,23,18.5,Find.do?action=sbs&id=42078
+Ford,2020,Edge AWD,521,384,33095.0,43265.0,Regular Gasoline,0,0,23,18.5,Find.do?action=sbs&id=42080
+Ford,2019,Edge AWD,521,377,31990.0,42355.0,Regular Gasoline,0,0,23,18.5,Find.do?action=sbs&id=40824
+Ford,2019,Escape AWD,521,385,28000.0,34120.0,Regular Gasoline,0,0,23,15.7,Find.do?action=sbs&id=40916
+Ford,2024,Bronco Sport 4WD,521,386,31230.0,38390.0,Regular Gasoline,0,0,23,16.0,Find.do?action=sbs&id=47376
+Ford,2023,Bronco Sport 4WD,466,387,29215.0,44655.0,Regular Gasoline,0,0,23,16.0,Find.do?action=sbs&id=46386
+Ford,2022,Bronco Sport 4WD,576,387,28815.0,36590.0,Regular Gasoline,0,0,23,16.0,Find.do?action=sbs&id=44817
+Ford,2021,Bronco Sport 4WD,576,387,27215.0,38160.0,Regular Gasoline,0,0,23,16.0,Find.do?action=sbs&id=43544
+Ford,2023,Ranger 2WD,576,387,27400.0,37460.0,Regular Gasoline,0,0,23,18.0,Find.do?action=sbs&id=46168
+Ford,2022,Ranger 2WD,576,387,25980.0,36030.0,Regular Gasoline,0,0,23,18.0,Find.do?action=sbs&id=44986
+Ford,2021,Ranger 2WD,466,387,25070.0,35335.0,Regular Gasoline,0,0,23,18.0,Find.do?action=sbs&id=43615
+Ford,2020,Ranger 2WD,576,387,24410.0,34675.0,Regular Gasoline,0,0,23,18.0,Find.do?action=sbs&id=42338
+Ford,2019,Ranger 2WD,576,387,24300.0,34565.0,Regular Gasoline,0,0,23,18.0,Find.do?action=sbs&id=41168
+Ford,2020,Fusion AWD,576,384,27885.0,36450.0,Regular Gasoline,0,0,23,18.0,Find.do?action=sbs&id=41799
+Ford,2019,Fusion AWD,672,386,27775.0,40015.0,Regular Gasoline,0,0,23,18.0,Find.do?action=sbs&id=40701
+Ford,2023,Edge AWD,552,382,37945.0,46485.0,Regular Gasoline,0,0,23,18.5,Find.do?action=sbs&id=46383
+Ford,2022,Edge AWD,499,388,37945.0,46485.0,Regular Gasoline,0,0,23,18.5,Find.do?action=sbs&id=44710
+Ford,2021,Edge AWD,446,383,34745.0,43600.0,Regular Gasoline,0,0,23,18.5,Find.do?action=sbs&id=43715
+Ford,2023,Explorer RWD,446,385,36760.0,54220.0,Regular Gasoline,0,0,23,17.9,Find.do?action=sbs&id=46405
+Ford,2022,Explorer RWD,644,386,35510.0,53775.0,Regular Gasoline,0,0,23,17.9,Find.do?action=sbs&id=44964
+Ford,2023,Mustang Convertible,644,389,33270.0,48865.0,Regular Gasoline,0,0,23,15.5,Find.do?action=sbs&id=46344
+Ford,2023,Mustang Convertible,644,386,33270.0,48865.0,Regular Gasoline,0,0,23,15.5,Find.do?action=sbs&id=46345
+Ford,2022,Mustang Convertible,644,386,32970.0,48565.0,Regular Gasoline,0,0,23,15.9,Find.do?action=sbs&id=45054
+Ford,2022,Mustang Convertible,552,386,32970.0,48565.0,Regular Gasoline,0,0,23,15.9,Find.do?action=sbs&id=45056
+Ford,2021,Mustang Convertible,437,387,32655.0,45620.0,Regular Gasoline,0,0,23,15.5,Find.do?action=sbs&id=43673
+Ford,2021,Mustang Convertible,437,387,32655.0,45620.0,Regular Gasoline,0,0,23,15.5,Find.do?action=sbs&id=43681
+Ford,2020,Mustang Convertible,483,386,32170.0,45130.0,Regular Gasoline,0,0,23,15.5,Find.do?action=sbs&id=41954
+Ford,2020,Mustang Convertible,483,387,32170.0,45130.0,Regular Gasoline,0,0,23,15.5,Find.do?action=sbs&id=41955
+Ford,2019,Mustang Convertible,483,385,31895.0,44855.0,Regular Gasoline,0,0,23,15.5,Find.do?action=sbs&id=40322
+Ford,2019,Mustang Convertible,483,389,31895.0,44855.0,Regular Gasoline,0,0,23,15.5,Find.do?action=sbs&id=40326
+Ford,2020,Mustang HO Coupe,528,386,,,Regular Gasoline,0,0,23,15.5,Find.do?action=sbs&id=41958
+Ford,2019,Mustang Performance Package,528,386,,,Regular Gasoline,0,0,23,15.5,Find.do?action=sbs&id=40329
+Ford,2024,Explorer AWD,528,387,38760.0,56670.0,Regular Gasoline,0,0,23,17.9,Find.do?action=sbs&id=47678
+Ford,2023,Explorer AWD,427,387,38760.0,56220.0,Regular Gasoline,0,0,23,17.9,Find.do?action=sbs&id=46409
+Ford,2022,Explorer AWD,427,387,37510.0,55775.0,Regular Gasoline,0,0,23,17.9,Find.do?action=sbs&id=44974
+Ford,2021,Explorer AWD,462,386,34925.0,54730.0,Regular Gasoline,0,0,23,17.9,Find.do?action=sbs&id=43288
+Ford,2021,Explorer AWD,462,386,34925.0,54730.0,Regular Gasoline,0,0,23,17.9,Find.do?action=sbs&id=43292
+Ford,2020,Explorer AWD,462,386,34765.0,58250.0,Regular Gasoline,0,0,23,17.9,Find.do?action=sbs&id=41487
+Ford,2021,F150 Pickup 4WD,616,446,33935.0,74600.0,Diesel,0,0,23,24.5,Find.do?action=sbs&id=43616
+Ford,2023,Mustang Convertible,616,387,33270.0,48865.0,Regular Gasoline,0,0,23,15.5,Find.do?action=sbs&id=46346
+Ford,2022,Mustang Convertible,616,386,32970.0,48565.0,Regular Gasoline,0,0,23,15.9,Find.do?action=sbs&id=45055
+Ford,2021,Mustang Convertible,616,386,32655.0,45620.0,Regular Gasoline,0,0,23,15.5,Find.do?action=sbs&id=43672
+Ford,2020,Mustang HO Convertible,528,386,,,Regular Gasoline,0,0,23,15.5,Find.do?action=sbs&id=41959
+Ford,2023,Mustang HO Coupe,528,387,,,Regular Gasoline,0,0,23,15.5,Find.do?action=sbs&id=46342
+Ford,2022,Mustang HO Coupe,528,386,,,Regular Gasoline,0,0,23,15.9,Find.do?action=sbs&id=45048
+Ford,2021,Mustang HO Coupe,616,386,,,Regular Gasoline,0,0,23,15.5,Find.do?action=sbs&id=43670
+Ford,2020,Mustang HO Coupe,471,389,,,Regular Gasoline,0,0,23,15.5,Find.do?action=sbs&id=41960
+Ford,2019,Mustang Performance Package,471,385,,,Regular Gasoline,0,0,23,15.5,Find.do?action=sbs&id=40328
+Ford,2024,Ranger 2WD,418,402,32565.0,43525.0,Regular Gasoline,0,0,22,18.8,Find.do?action=sbs&id=47368
+Ford,2023,Mustang HO Coupe,418,396,,,Regular Gasoline,0,0,22,15.5,Find.do?action=sbs&id=46347
+Ford,2022,Mustang HO Coupe,418,396,,,Regular Gasoline,0,0,22,15.9,Find.do?action=sbs&id=45046
+Ford,2021,Mustang HO Coupe,418,397,,,Regular Gasoline,0,0,22,15.5,Find.do?action=sbs&id=43668
+Ford,2022,Transit Connect USPS,418,396,,,Regular Gasoline,0,0,22,0,Find.do?action=sbs&id=43938
+Ford,2021,Transit Connect USPS,462,397,,,Regular Gasoline,0,0,22,15.8,Find.do?action=sbs&id=43266
+Ford,2020,Transit Connect USPS,462,397,,,Regular Gasoline,0,0,22,15.8,Find.do?action=sbs&id=41474
+Ford,2019,Transit Connect USPS,462,397,,,Regular Gasoline,0,0,22,15.8,Find.do?action=sbs&id=41117
+Ford,2020,Transit Connect Van 2WD,462,397,24275.0,27700.0,Regular Gasoline,0,0,22,15.8,Find.do?action=sbs&id=41472
+Ford,2019,Transit Connect Van 2WD,407,396,24100.0,27045.0,Regular Gasoline,0,0,22,15.8,Find.do?action=sbs&id=40376
+Ford,2021,Transit Connect Van FWD,407,397,24665.0,27080.0,Regular Gasoline,0,0,22,15.8,Find.do?action=sbs&id=43264
+Ford,2023,Explorer AWD,427,404,38760.0,56220.0,Regular Gasoline,0,0,22,17.9,Find.do?action=sbs&id=46416
+Ford,2022,Explorer AWD,427,404,37510.0,55775.0,Regular Gasoline,0,0,22,17.9,Find.do?action=sbs&id=44977
+Ford,2023,F150 Pickup 2WD,427,405,34585.0,65000.0,Regular Gasoline,0,0,22,29.5,Find.do?action=sbs&id=46160
+Ford,2022,F150 Pickup 2WD,462,404,30870.0,76975.0,Regular Gasoline,0,0,22,24.5,Find.do?action=sbs&id=44865
+Ford,2021,F150 Pickup 2WD,462,406,29290.0,71175.0,Regular Gasoline,0,0,22,24.5,Find.do?action=sbs&id=43458
+Ford,2020,F150 Pickup 2WD,418,402,28745.0,55820.0,Regular Gasoline,0,0,22,29.5,Find.do?action=sbs&id=42173
+Ford,2019,F150 Pickup 2WD,418,403,28155.0,55220.0,Regular Gasoline,0,0,22,29.5,Find.do?action=sbs&id=41015
+Ford,2023,Ranger 2WD,418,397,27400.0,37460.0,Regular Gasoline,0,0,22,18.0,Find.do?action=sbs&id=46167
+Ford,2022,Ranger 2WD,418,397,25980.0,36030.0,Regular Gasoline,0,0,22,18.0,Find.do?action=sbs&id=45211
+Ford,2022,Transit Connect Van FWD,407,401,29365.0,31540.0,Regular Gasoline,0,0,22,15.8,Find.do?action=sbs&id=43936
+Ford,2022,Transit Connect Wagon LWB FWD,296,404,30365.0,33975.0,Regular Gasoline,0,0,22,15.8,Find.do?action=sbs&id=43937
+Ford,2021,Transit Connect Wagon LWB FWD,407,404,27400.0,31600.0,Regular Gasoline,0,0,22,15.8,Find.do?action=sbs&id=43265
+Ford,2020,Transit Connect Wagon LWB FWD,296,404,27020.0,32250.0,Regular Gasoline,0,0,22,15.8,Find.do?action=sbs&id=41473
+Ford,2019,Transit Connect Wagon LWB FWD,504,404,26845.0,31595.0,Regular Gasoline,0,0,22,15.8,Find.do?action=sbs&id=40375
+Ford,2019,F150 4WD BASE PAYLOAD LT TIRE,504,463,,,Diesel,0,0,22,24.5,Find.do?action=sbs&id=41114
+Ford,2020,F150 Pickup 4WD,504,466,33390.0,59245.0,Diesel,0,0,22,26.0,Find.do?action=sbs&id=42520
+Ford,2019,F150 Pickup 4WD,504,463,32800.0,58645.0,Diesel,0,0,22,24.5,Find.do?action=sbs&id=41113
+Ford,2024,Ranger 4WD,504,402,36210.0,47010.0,Regular Gasoline,0,0,22,18.8,Find.do?action=sbs&id=47370
+Ford,2023,Ranger 4WD,504,410,31045.0,40945.0,Regular Gasoline,0,0,22,18.0,Find.do?action=sbs&id=46187
+Ford,2022,Ranger 4WD,456,411,29835.0,39730.0,Regular Gasoline,0,0,22,18.0,Find.do?action=sbs&id=44988
+Ford,2021,Ranger 4WD,456,404,28925.0,39035.0,Regular Gasoline,0,0,22,18.0,Find.do?action=sbs&id=43542
+Ford,2020,Ranger 4WD,407,404,28570.0,38675.0,Regular Gasoline,0,0,22,18.0,Find.do?action=sbs&id=42339
+Ford,2019,Ranger 4WD,407,404,28460.0,38565.0,Regular Gasoline,0,0,22,18.1,Find.do?action=sbs&id=41169
+Ford,2019,Explorer FWD,449,409,32365.0,42765.0,Regular Gasoline,0,0,22,18.6,Find.do?action=sbs&id=40802
+Ford,2023,Mustang HO Convertible,441,404,,,Regular Gasoline,0,0,22,15.5,Find.do?action=sbs&id=46349
+Ford,2022,Mustang HO Convertible,441,404,,,Regular Gasoline,0,0,22,15.9,Find.do?action=sbs&id=45057
+Ford,2021,Mustang HO Convertible,441,404,,,Regular Gasoline,0,0,22,15.5,Find.do?action=sbs&id=43674
+Ford,2020,Mustang HO Convertible,441,406,,,Regular Gasoline,0,0,22,15.5,Find.do?action=sbs&id=41961
+Ford,2020,F150 Pickup 2WD FFV,449,409,28745.0,55820.0,Regular Gasoline,0,0,22,29.5,Find.do?action=sbs&id=42167
+Ford,2019,F150 Pickup 2WD FFV,456,412,28155.0,55220.0,Regular Gasoline,0,0,22,29.5,Find.do?action=sbs&id=41017
+Ford,2021,F150 Pickup 2WD FFV,407,424,,,Regular Gasoline,0,0,21,24.5,Find.do?action=sbs&id=43459
+Ford,2024,Maverick Tremor AWD,259,414,,,Regular Gasoline,0,0,21,16.5,Find.do?action=sbs&id=47367
+Ford,2023,Maverick Tremor AWD,259,414,,,Regular Gasoline,0,0,21,0,Find.do?action=sbs&id=46368
+Ford,2021,Bronco 4WD,238,424,28500.0,33995.0,Regular Gasoline,0,0,21,18.0,Find.do?action=sbs&id=43995
+Ford,2021,Bronco 4WD,259,426,28500.0,33995.0,Regular Gasoline,0,0,21,18.0,Find.do?action=sbs&id=43996
+Ford,2020,Edge AWD,259,417,33095.0,43265.0,Regular Gasoline,0,0,21,18.5,Find.do?action=sbs&id=42079
+Ford,2019,Edge AWD,247,418,31990.0,42355.0,Regular Gasoline,0,0,21,18.5,Find.do?action=sbs&id=40823
+Ford,2024,Edge AWD,247,418,38365.0,47205.0,Regular Gasoline,0,0,21,18.5,Find.do?action=sbs&id=46880
+Ford,2023,Edge AWD,279,421,37945.0,46485.0,Regular Gasoline,0,0,21,18.5,Find.do?action=sbs&id=46384
+Ford,2022,Edge AWD,393,423,37945.0,46485.0,Regular Gasoline,0,0,21,18.5,Find.do?action=sbs&id=44711
+Ford,2021,Edge AWD,450,423,34745.0,43600.0,Regular Gasoline,0,0,21,18.5,Find.do?action=sbs&id=43716
+Ford,2019,F150 2.7L 2WD GVWR>6649 LBS,598,422,,,Regular Gasoline,0,0,21,29.5,Find.do?action=sbs&id=41022
+Ford,2019,F150 2WD BASE PAYLOAD LT TIRE,500,423,,,Regular Gasoline,0,0,21,29.5,Find.do?action=sbs&id=41016
+Ford,2024,F150 Pickup 2WD,472,425,36570.0,49980.0,Regular Gasoline,0,0,21,29.5,Find.do?action=sbs&id=47605
+Ford,2023,Mustang HO Convertible,452,423,,,Regular Gasoline,0,0,21,15.5,Find.do?action=sbs&id=46348
+Ford,2022,Mustang HO Convertible,297,423,,,Regular Gasoline,0,0,21,15.9,Find.do?action=sbs&id=45053
+Ford,2021,Mustang HO Convertible,297,415,,,Regular Gasoline,0,0,21,15.5,Find.do?action=sbs&id=43671
+Ford,2019,F150 2WD FFV BASE PAYLOAD LT,297,423,,,Regular Gasoline,0,0,21,29.5,Find.do?action=sbs&id=41018
+Ford,2023,F150 Pickup 2WD FFV,297,423,,,Regular Gasoline,0,0,21,29.5,Find.do?action=sbs&id=46163
+Ford,2022,F150 Pickup 2WD FFV,297,423,,,Regular Gasoline,0,0,21,24.5,Find.do?action=sbs&id=44866
+Ford,2022,F150 Pickup 4WD,297,433,35885.0,80435.0,Regular Gasoline,0,0,21,24.5,Find.do?action=sbs&id=44871
+Ford,2021,F150 Pickup 4WD,297,432,33935.0,74600.0,Regular Gasoline,0,0,21,24.5,Find.do?action=sbs&id=43464
+Ford,2019,F150 Pickup 4WD,297,423,32800.0,58645.0,Regular Gasoline,0,0,21,29.5,Find.do?action=sbs&id=41028
+Ford,2023,Ranger 4WD,297,420,31045.0,40945.0,Regular Gasoline,0,0,21,18.0,Find.do?action=sbs&id=46186
+Ford,2022,Ranger 4WD,297,420,29835.0,39730.0,Regular Gasoline,0,0,21,18.0,Find.do?action=sbs&id=45213
+Ford,2021,Explorer Timberline AWD,297,431,46015.0,46015.0,Regular Gasoline,0,0,21,17.9,Find.do?action=sbs&id=44164
+Ford,2024,Explorer Timberline AWD,297,433,49330.0,49330.0,Regular Gasoline,0,0,21,17.9,Find.do?action=sbs&id=47681
+Ford,2023,Explorer Timberline AWD,288,433,48980.0,48980.0,Regular Gasoline,0,0,21,17.9,Find.do?action=sbs&id=46420
+Ford,2022,Explorer Timberline AWD,288,433,48320.0,48320.0,Regular Gasoline,0,0,21,17.9,Find.do?action=sbs&id=44975
+Ford,2024,Explorer RWD,288,426,36760.0,54670.0,Regular Gasoline,0,0,21,17.9,Find.do?action=sbs&id=47672
+Ford,2023,Explorer RWD,288,428,36760.0,54220.0,Regular Gasoline,0,0,21,20.2,Find.do?action=sbs&id=46400
+Ford,2022,Explorer RWD,506,428,35510.0,53775.0,Regular Gasoline,0,0,21,20.2,Find.do?action=sbs&id=44821
+Ford,2021,Explorer RWD,506,431,32925.0,52730.0,Regular Gasoline,0,0,21,20.2,Find.do?action=sbs&id=43285
+Ford,2019,Taurus FWD,506,428,27800.0,37310.0,Regular Gasoline,0,0,21,19.0,Find.do?action=sbs&id=40783
+Ford,2019,Taurus FWD FFV,477,428,27800.0,37310.0,Regular Gasoline,0,0,21,19.0,Find.do?action=sbs&id=40785
+Ford,2019,Explorer AWD,438,423,34515.0,54165.0,Regular Gasoline,0,0,21,18.6,Find.do?action=sbs&id=40805
+Ford,2023,F150 Pickup 2WD,438,431,34585.0,65000.0,Regular Gasoline,0,0,21,29.5,Find.do?action=sbs&id=46159
+Ford,2019,F150 Pickup 2WD,438,426,28155.0,55220.0,Regular Gasoline,0,0,21,29.5,Find.do?action=sbs&id=41020
+Ford,2023,F150 Pickup 2WD,499,432,34585.0,65000.0,Regular Gasoline,0,0,21,29.5,Find.do?action=sbs&id=46161
+Ford,2024,Bronco 4WD,409,438,39130.0,71105.0,Regular Gasoline,0,0,20,18.0,Find.do?action=sbs&id=47644
+Ford,2024,Bronco 4WD,409,444,39130.0,71105.0,Regular Gasoline,0,0,20,18.0,Find.do?action=sbs&id=47645
+Ford,2023,Bronco 4WD,409,439,34095.0,38540.0,Regular Gasoline,0,0,20,18.0,Find.do?action=sbs&id=46189
+Ford,2023,Bronco 4WD,409,440,34095.0,38540.0,Regular Gasoline,0,0,20,18.0,Find.do?action=sbs&id=46190
+Ford,2022,Bronco 4WD,425,439,31300.0,51225.0,Regular Gasoline,0,0,20,18.0,Find.do?action=sbs&id=44995
+Ford,2022,Bronco 4WD,378,437,31300.0,51225.0,Regular Gasoline,0,0,20,18.0,Find.do?action=sbs&id=44998
+Ford,2023,F150 Pickup 2WD FFV,396,443,,,Regular Gasoline,0,0,20,29.5,Find.do?action=sbs&id=46162
+Ford,2024,Ranger 4WD,396,445,36210.0,47010.0,Regular Gasoline,0,0,20,0,Find.do?action=sbs&id=47613
+Ford,2023,F150 Pickup 4WD FFV,474,444,,,Regular Gasoline,0,0,20,29.5,Find.do?action=sbs&id=46173
+Ford,2022,F150 Pickup 4WD FFV,383,444,,,Regular Gasoline,0,0,20,24.5,Find.do?action=sbs&id=44872
+Ford,2021,F150 Pickup 4WD FFV,354,445,,,Regular Gasoline,0,0,20,24.5,Find.do?action=sbs&id=43466
+Ford,2024,Bronco 4WD,354,452,39130.0,71105.0,Regular Gasoline,0,0,20,18.0,Find.do?action=sbs&id=47651
+Ford,2023,Bronco 4WD,354,454,34095.0,38540.0,Regular Gasoline,0,0,20,18.0,Find.do?action=sbs&id=46191
+Ford,2023,Explorer Timberline AWD,354,445,48980.0,48980.0,Regular Gasoline,0,0,20,17.9,Find.do?action=sbs&id=46417
+Ford,2022,Explorer Timberline AWD,354,445,48320.0,48320.0,Regular Gasoline,0,0,20,17.9,Find.do?action=sbs&id=44978
+Ford,2024,Explorer RWD,417,437,36760.0,54670.0,Regular Gasoline,0,0,20,17.9,Find.do?action=sbs&id=47673
+Ford,2023,Explorer RWD,417,438,36760.0,54220.0,Regular Gasoline,0,0,20,20.2,Find.do?action=sbs&id=46401
+Ford,2022,Explorer RWD,417,437,35510.0,53775.0,Regular Gasoline,0,0,20,20.2,Find.do?action=sbs&id=44822
+Ford,2024,Explorer AWD,417,444,38760.0,56670.0,Regular Gasoline,0,0,20,17.9,Find.do?action=sbs&id=47679
+Ford,2024,Explorer AWD,417,445,38760.0,56670.0,Regular Gasoline,0,0,20,17.9,Find.do?action=sbs&id=47680
+Ford,2023,Explorer AWD,417,444,38760.0,56220.0,Regular Gasoline,0,0,20,20.2,Find.do?action=sbs&id=46410
+Ford,2023,Explorer AWD,392,445,38760.0,56220.0,Regular Gasoline,0,0,20,20.2,Find.do?action=sbs&id=46411
+Ford,2022,Explorer AWD,392,444,37510.0,55775.0,Regular Gasoline,0,0,20,20.2,Find.do?action=sbs&id=44823
+Ford,2022,Explorer AWD,392,445,37510.0,55775.0,Regular Gasoline,0,0,20,20.2,Find.do?action=sbs&id=44826
+Ford,2021,Explorer AWD,370,445,34925.0,54730.0,Regular Gasoline,0,0,20,20.2,Find.do?action=sbs&id=43289
+Ford,2020,Explorer AWD,370,446,34765.0,58250.0,Regular Gasoline,0,0,20,20.2,Find.do?action=sbs&id=41511
+Ford,2022,F150 Pickup 2WD,370,436,30870.0,76975.0,Regular Gasoline,0,0,20,24.5,Find.do?action=sbs&id=44867
+Ford,2021,F150 Pickup 2WD,356,437,29290.0,71175.0,Regular Gasoline,0,0,20,24.5,Find.do?action=sbs&id=43457
+Ford,2023,F150 Pickup 4WD,421,435,39600.0,68795.0,Regular Gasoline,0,0,20,29.5,Find.do?action=sbs&id=46170
+Ford,2021,F150 Pickup 4WD,421,445,33935.0,74600.0,Regular Gasoline,0,0,20,24.5,Find.do?action=sbs&id=44374
+Ford,2019,F150 2.7L 4WD GVWR>6799 LBS,421,444,,,Regular Gasoline,0,0,20,29.5,Find.do?action=sbs&id=41032
+Ford,2019,F150 4WD BASE PAYLOAD LT TIRE,421,444,,,Regular Gasoline,0,0,20,29.5,Find.do?action=sbs&id=41029
+Ford,2024,F150 Pickup 4WD,378,444,41585.0,73730.0,Regular Gasoline,0,0,20,29.5,Find.do?action=sbs&id=47611
+Ford,2023,F150 Pickup 4WD,378,451,39600.0,68795.0,Regular Gasoline,0,0,20,29.5,Find.do?action=sbs&id=46172
+Ford,2022,F150 Pickup 4WD,648,444,35885.0,80435.0,Regular Gasoline,0,0,20,24.5,Find.do?action=sbs&id=44873
+Ford,2021,F150 Pickup 4WD,648,445,33935.0,74600.0,Regular Gasoline,0,0,20,24.5,Find.do?action=sbs&id=43463
+Ford,2020,F150 Pickup 4WD,406,444,33390.0,59245.0,Regular Gasoline,0,0,20,29.5,Find.do?action=sbs&id=42179
+Ford,2020,F150 Pickup 4WD FFV,406,439,33390.0,59245.0,Regular Gasoline,0,0,20,29.5,Find.do?action=sbs&id=42174
+Ford,2019,F150 Pickup 4WD FFV,624,439,32800.0,58645.0,Regular Gasoline,0,0,20,29.5,Find.do?action=sbs&id=41030
+Ford,2019,Fusion AWD,364,444,27775.0,40015.0,Regular Gasoline,0,0,20,18.0,Find.do?action=sbs&id=40702
+Ford,2023,Explorer FFV AWD,364,444,,,Regular Gasoline,0,0,20,0,Find.do?action=sbs&id=46421
+Ford,2024,F150 Pickup 2WD,364,455,36570.0,49980.0,Regular Gasoline,0,0,20,29.5,Find.do?action=sbs&id=47604
+Ford,2023,F150 Pickup 2WD FFV,624,453,,,Regular Gasoline,0,0,20,29.5,Find.do?action=sbs&id=46164
+Ford,2019,Expedition 2WD,364,454,52130.0,73365.0,Regular Gasoline,0,0,20,23.3,Find.do?action=sbs&id=40971
+Ford,2019,Explorer 2WD FFV,364,454,,,Regular Gasoline,0,0,20,18.6,Find.do?action=sbs&id=40804
+Ford,2023,Explorer AWD,624,451,38760.0,56220.0,Regular Gasoline,0,0,20,20.2,Find.do?action=sbs&id=46439
+Ford,2023,Explorer AWD,411,454,38760.0,56220.0,Regular Gasoline,0,0,20,20.2,Find.do?action=sbs&id=46440
+Ford,2024,Explorer FFV AWD,411,444,,,Regular Gasoline,0,0,20,17.9,Find.do?action=sbs&id=47683
+Ford,2019,Explorer FWD,411,454,32365.0,42765.0,Regular Gasoline,0,0,20,18.6,Find.do?action=sbs&id=40803
+Ford,2022,F150 Pickup 2WD,411,444,30870.0,76975.0,Regular Gasoline,0,0,20,24.5,Find.do?action=sbs&id=44869
+Ford,2021,F150 Pickup 2WD,600,444,29290.0,71175.0,Regular Gasoline,0,0,20,24.5,Find.do?action=sbs&id=44364
+Ford,2022,F150 Pickup 2WD FFV,475,444,,,Regular Gasoline,0,0,20,24.5,Find.do?action=sbs&id=44868
+Ford,2021,F150 Pickup 2WD FFV,475,446,,,Regular Gasoline,0,0,20,24.5,Find.do?action=sbs&id=43460
+Ford,2023,F150 Pickup 4WD,475,451,39600.0,68795.0,Regular Gasoline,0,0,20,29.5,Find.do?action=sbs&id=46169
+Ford,2022,F150 Pickup 4WD,475,453,35885.0,80435.0,Regular Gasoline,0,0,20,24.5,Find.do?action=sbs&id=44877
+Ford,2022,Bronco 4WD,475,456,31300.0,51225.0,Regular Gasoline,0,0,19,18.0,Find.do?action=sbs&id=44993
+Ford,2023,Ranger Tremor 4WD,485,471,,,Regular Gasoline,0,0,19,18.0,Find.do?action=sbs&id=46188
+Ford,2022,Ranger Tremor 4WD,485,468,,,Regular Gasoline,0,0,19,18.0,Find.do?action=sbs&id=44989
+Ford,2021,Ranger Tremor 4WD,485,462,,,Regular Gasoline,0,0,19,18.0,Find.do?action=sbs&id=43617
+Ford,2021,Bronco 4WD,485,462,28500.0,33995.0,Regular Gasoline,0,0,19,18.0,Find.do?action=sbs&id=43997
+Ford,2023,F150 Pickup 2WD FFV,372,465,,,Regular Gasoline,0,0,19,29.5,Find.do?action=sbs&id=46165
+Ford,2022,F150 Pickup 2WD FFV,372,461,,,Regular Gasoline,0,0,19,24.5,Find.do?action=sbs&id=44870
+Ford,2021,F150 Pickup 2WD FFV,462,463,,,Regular Gasoline,0,0,19,24.5,Find.do?action=sbs&id=44365
+Ford,2019,Taurus AWD,576,468,32080.0,42975.0,Regular Gasoline,0,0,19,19.0,Find.do?action=sbs&id=40782
+Ford,2019,Taurus AWD FFV,374,468,32080.0,42975.0,Regular Gasoline,0,0,19,19.0,Find.do?action=sbs&id=40784
+Ford,2024,Expedition 2WD,374,462,56075.0,84245.0,Regular Gasoline,0,0,19,23.2,Find.do?action=sbs&id=47167
+Ford,2023,Expedition 2WD,521,462,55125.0,78115.0,Regular Gasoline,0,0,19,23.2,Find.do?action=sbs&id=46402
+Ford,2022,Expedition 2WD,521,462,53375.0,79560.0,Regular Gasoline,0,0,19,23.2,Find.do?action=sbs&id=45149
+Ford,2021,Expedition 2WD,521,456,49625.0,74375.0,Regular Gasoline,0,0,19,25.0,Find.do?action=sbs&id=43589
+Ford,2020,Expedition 2WD,521,467,52810.0,73935.0,Regular Gasoline,0,0,19,25.0,Find.do?action=sbs&id=42265
+Ford,2021,Expedition MAX 2WD,466,456,55410.0,76375.0,Regular Gasoline,0,0,19,30.0,Find.do?action=sbs&id=43590
+Ford,2020,Expedition MAX 2WD,576,467,55835.0,76965.0,Regular Gasoline,0,0,19,30.0,Find.do?action=sbs&id=42266
+Ford,2019,Expedition MAX 2WD,576,467,54815.0,76060.0,Regular Gasoline,0,0,19,28.3,Find.do?action=sbs&id=40972
+Ford,2020,F150 Pickup 2WD,576,468,28745.0,55820.0,Regular Gasoline,0,0,19,29.5,Find.do?action=sbs&id=42171
+Ford,2020,F150 Pickup 2WD FFV,576,467,28745.0,55820.0,Regular Gasoline,0,0,19,29.5,Find.do?action=sbs&id=42168
+Ford,2019,F150 Pickup 2WD FFV,466,463,28155.0,55220.0,Regular Gasoline,0,0,19,29.5,Find.do?action=sbs&id=41023
+Ford,2023,F150 Pickup 4WD,576,470,39600.0,68795.0,Regular Gasoline,0,0,19,29.5,Find.do?action=sbs&id=46171
+Ford,2022,F150 Pickup 4WD,576,467,35885.0,80435.0,Regular Gasoline,0,0,19,24.5,Find.do?action=sbs&id=44878
+Ford,2021,F150 Pickup 4WD,576,468,33935.0,74600.0,Regular Gasoline,0,0,19,24.5,Find.do?action=sbs&id=44369
+Ford,2019,F150 Pickup 4WD,672,472,32800.0,58645.0,Regular Gasoline,0,0,19,29.5,Find.do?action=sbs&id=41034
+Ford,2021,Expedition 4WD,552,476,52675.0,77425.0,Regular Gasoline,0,0,19,25.0,Find.do?action=sbs&id=43597
+Ford,2020,Expedition 4WD,499,473,55820.0,77085.0,Regular Gasoline,0,0,19,25.0,Find.do?action=sbs&id=42269
+Ford,2019,Expedition 4WD,446,469,55140.0,76515.0,Regular Gasoline,0,0,19,23.3,Find.do?action=sbs&id=40978
+Ford,2019,F150 2WD BASE PAYLOAD LT TIRE,446,466,,,Regular Gasoline,0,0,19,29.5,Find.do?action=sbs&id=41021
+Ford,2019,F150 4WD FFV BASE PAYLOAD LT,644,468,,,Regular Gasoline,0,0,19,29.5,Find.do?action=sbs&id=41031
+Ford,2020,F150 Pickup 2WD Limited,644,466,67735.0,67735.0,Regular Gasoline,0,0,19,29.5,Find.do?action=sbs&id=42172
+Ford,2019,F150 Pickup 2WD Limited,644,462,67135.0,67135.0,Regular Gasoline,0,0,19,29.5,Find.do?action=sbs&id=41026
+Ford,2023,F150 Pickup 4WD FFV,644,468,,,Regular Gasoline,0,0,19,29.5,Find.do?action=sbs&id=46175
+Ford,2019,F150 3.5L 2WD GVWR>7599 LBS,552,466,,,Regular Gasoline,0,0,19,29.5,Find.do?action=sbs&id=41019
+Ford,2020,F150 Pickup 4WD Limited,437,467,71160.0,71160.0,Regular Gasoline,0,0,19,29.5,Find.do?action=sbs&id=42177
+Ford,2019,F150 Pickup 4WD Limited,437,467,70560.0,70560.0,Regular Gasoline,0,0,19,29.5,Find.do?action=sbs&id=41040
+Ford,2020,Mustang,483,472,26670.0,39630.0,Regular Gasoline,0,0,19,16.0,Find.do?action=sbs&id=41956
+Ford,2019,Mustang,483,471,26395.0,39355.0,Regular Gasoline,0,0,19,16.0,Find.do?action=sbs&id=40325
+Ford,2022,Explorer FFV AWD,483,470,,,Regular Gasoline,0,0,19,0,Find.do?action=sbs&id=44825
+Ford,2024,F150 Pickup 2WD,483,468,36570.0,49980.0,Regular Gasoline,0,0,19,29.5,Find.do?action=sbs&id=47603
+Ford,2024,F150 Pickup 4WD,528,472,41585.0,73730.0,Regular Gasoline,0,0,19,29.5,Find.do?action=sbs&id=47614
+Ford,2024,F150 Pickup 4WD,528,467,41585.0,73730.0,Regular Gasoline,0,0,19,29.5,Find.do?action=sbs&id=47616
+Ford,2024,Mustang,528,467,30920.0,46015.0,Regular Gasoline,0,0,19,0,Find.do?action=sbs&id=47559
+Ford,2019,Taurus AWD,427,471,32080.0,42975.0,Regular Gasoline,0,0,19,19.0,Find.do?action=sbs&id=40781
+Ford,2023,Expedition 2WD,427,468,55125.0,78115.0,Regular Gasoline,0,0,19,23.2,Find.do?action=sbs&id=46406
+Ford,2022,Expedition 2WD,462,468,53375.0,79560.0,Regular Gasoline,0,0,19,23.2,Find.do?action=sbs&id=45150
+Ford,2021,Explorer FFV AWD,462,471,,,Regular Gasoline,0,0,19,0,Find.do?action=sbs&id=43290
+Ford,2020,Explorer FFV AWD,462,468,34765.0,58250.0,Regular Gasoline,0,0,19,0,Find.do?action=sbs&id=41512
+Ford,2019,Flex FWD,616,468,30575.0,38790.0,Regular Gasoline,0,0,19,18.6,Find.do?action=sbs&id=40152
+Ford,2019,Explorer AWD,616,478,34515.0,54165.0,Regular Gasoline,0,0,19,18.6,Find.do?action=sbs&id=40828
+Ford,2022,F150 Pickup 4WD FFV,616,468,,,Regular Gasoline,0,0,19,24.5,Find.do?action=sbs&id=44874
+Ford,2021,F150 Pickup 4WD FFV,616,479,,,Regular Gasoline,0,0,19,24.5,Find.do?action=sbs&id=43467
+Ford,2023,Mustang,528,480,27770.0,43365.0,Regular Gasoline,0,0,19,16.0,Find.do?action=sbs&id=46340
+Ford,2022,Mustang,528,479,27470.0,43065.0,Regular Gasoline,0,0,19,15.9,Find.do?action=sbs&id=45050
+Ford,2021,Mustang,528,479,27155.0,40120.0,Regular Gasoline,0,0,19,15.5,Find.do?action=sbs&id=43677
+Ford,2021,Ranger 2WD Incomplete,616,486,,,Regular Gasoline,0,0,18,18.0,Find.do?action=sbs&id=43618
+Ford,2020,Ranger 2WD Incomplete,471,485,,,Regular Gasoline,0,0,18,18.0,Find.do?action=sbs&id=42342
+Ford,2019,Ranger 2WD Incomplete,471,484,,,Regular Gasoline,0,0,18,18.1,Find.do?action=sbs&id=41170
+Ford,2024,Bronco Black Diamond 4WD,418,494,42630.0,43370.0,Regular Gasoline,0,0,18,18.0,Find.do?action=sbs&id=47648
+Ford,2024,Bronco Black Diamond 4WD,418,495,42630.0,43370.0,Regular Gasoline,0,0,18,18.0,Find.do?action=sbs&id=47653
+Ford,2023,Bronco Black Diamond 4WD,418,494,40750.0,43035.0,Regular Gasoline,0,0,18,18.0,Find.do?action=sbs&id=46195
+Ford,2023,Bronco Black Diamond 4WD,418,494,40750.0,43035.0,Regular Gasoline,0,0,18,18.0,Find.do?action=sbs&id=46197
+Ford,2022,Bronco Black Diamond 4WD,418,493,37950.0,40840.0,Regular Gasoline,0,0,18,18.0,Find.do?action=sbs&id=44999
+Ford,2021,Bronco Black Diamond 4WD,462,494,36050.0,36050.0,Regular Gasoline,0,0,18,18.0,Find.do?action=sbs&id=44004
+Ford,2021,Bronco Sasquatch 4WD,462,494,,,Regular Gasoline,0,0,18,18.0,Find.do?action=sbs&id=44002
+Ford,2024,Bronco Sasquatch 4WD,462,494,,,Regular Gasoline,0,0,18,18.0,Find.do?action=sbs&id=47650
+Ford,2023,Bronco Sasquatch 4WD,462,494,,,Regular Gasoline,0,0,18,18.0,Find.do?action=sbs&id=46198
+Ford,2022,Bronco Sasquatch 4WD,407,494,,,Regular Gasoline,0,0,18,18.0,Find.do?action=sbs&id=45000
+Ford,2022,Bronco Black Diamond 4WD,407,494,37950.0,40840.0,Regular Gasoline,0,0,18,18.0,Find.do?action=sbs&id=44996
+Ford,2021,Bronco Black Diamond 4WD,427,496,36050.0,36050.0,Regular Gasoline,0,0,18,18.0,Find.do?action=sbs&id=44003
+Ford,2022,Bronco Sasquatch 4WD,427,494,,,Regular Gasoline,0,0,18,18.0,Find.do?action=sbs&id=45002
+Ford,2024,Expedition 4WD,427,485,59375.0,87545.0,Regular Gasoline,0,0,18,23.2,Find.do?action=sbs&id=47180
+Ford,2023,Expedition 4WD,462,484,58175.0,83615.0,Regular Gasoline,0,0,18,23.2,Find.do?action=sbs&id=46412
+Ford,2022,Expedition 4WD,462,484,56425.0,82610.0,Regular Gasoline,0,0,18,23.2,Find.do?action=sbs&id=45152
+Ford,2019,Explorer AWD,418,500,34515.0,54165.0,Regular Gasoline,0,0,18,18.6,Find.do?action=sbs&id=40807
+Ford,2019,Explorer AWD FFV,418,481,,,Regular Gasoline,0,0,18,18.6,Find.do?action=sbs&id=40806
+Ford,2019,F150 4WD BASE PAYLOAD LT TIRE,418,494,,,Regular Gasoline,0,0,18,29.5,Find.do?action=sbs&id=41035
+Ford,2020,F150 Pickup 4WD,418,488,33390.0,59245.0,Regular Gasoline,0,0,18,29.5,Find.do?action=sbs&id=42176
+Ford,2023,F150 Pickup 4WD FFV,407,495,,,Regular Gasoline,0,0,18,29.5,Find.do?action=sbs&id=46174
+Ford,2022,F150 Pickup 4WD FFV,296,494,,,Regular Gasoline,0,0,18,24.5,Find.do?action=sbs&id=44883
+Ford,2021,F150 Pickup 4WD FFV,407,495,,,Regular Gasoline,0,0,18,24.5,Find.do?action=sbs&id=44370
+Ford,2019,F150 Pickup 4WD FFV,296,498,32800.0,58645.0,Regular Gasoline,0,0,18,29.5,Find.do?action=sbs&id=41036
+Ford,2019,Flex AWD,504,494,35240.0,43590.0,Regular Gasoline,0,0,18,18.6,Find.do?action=sbs&id=40154
+Ford,2023,Expedition 4WD,504,494,58175.0,83615.0,Regular Gasoline,0,0,18,23.2,Find.do?action=sbs&id=46413
+Ford,2022,Expedition 4WD,504,494,56425.0,82610.0,Regular Gasoline,0,0,18,23.2,Find.do?action=sbs&id=45153
+Ford,2021,Expedition MAX 4WD,504,494,58460.0,79425.0,Regular Gasoline,0,0,18,30.0,Find.do?action=sbs&id=43598
+Ford,2020,Expedition MAX 4WD,504,494,58845.0,80110.0,Regular Gasoline,0,0,18,30.0,Find.do?action=sbs&id=42270
+Ford,2019,Expedition MAX 4WD,504,493,57825.0,79200.0,Regular Gasoline,0,0,18,28.3,Find.do?action=sbs&id=40979
+Ford,2020,F150 2WD FFV BASE PAYLOAD LT,456,494,,,Regular Gasoline,0,0,18,29.5,Find.do?action=sbs&id=42169
+Ford,2019,F150 2WD FFV BASE PAYLOAD LT,456,493,,,Regular Gasoline,0,0,18,29.5,Find.do?action=sbs&id=41024
+Ford,2019,F150 3.5L 4WD GVWR>7599 LBS,407,494,,,Regular Gasoline,0,0,18,29.5,Find.do?action=sbs&id=41033
+Ford,2023,F150 Pickup Tremor 4WD,407,501,61110.0,61110.0,Regular Gasoline,0,0,18,29.5,Find.do?action=sbs&id=46177
+Ford,2023,F150 Pickup Tremor 4WD,449,497,61110.0,61110.0,Regular Gasoline,0,0,18,29.5,Find.do?action=sbs&id=46178
+Ford,2022,F150 Pickup Tremor 4WD,441,498,,,Regular Gasoline,0,0,18,24.5,Find.do?action=sbs&id=44876
+Ford,2022,F150 Pickup Tremor 4WD,441,503,,,Regular Gasoline,0,0,18,24.5,Find.do?action=sbs&id=44882
+Ford,2021,F150 Pickup Tremor 4WD,441,498,49505.0,49505.0,Regular Gasoline,0,0,18,24.5,Find.do?action=sbs&id=44366
+Ford,2021,F150 Pickup Tremor 4WD,441,503,49505.0,49505.0,Regular Gasoline,0,0,18,24.5,Find.do?action=sbs&id=44372
+Ford,2024,Mustang,449,492,30920.0,46015.0,Regular Gasoline,0,0,18,0,Find.do?action=sbs&id=46648
+Ford,2023,Mustang,456,498,27770.0,43365.0,Regular Gasoline,0,0,18,16.0,Find.do?action=sbs&id=46336
+Ford,2022,Mustang,407,500,27470.0,43065.0,Regular Gasoline,0,0,18,15.9,Find.do?action=sbs&id=45049
+Ford,2021,Mustang,259,490,27155.0,40120.0,Regular Gasoline,0,0,18,15.5,Find.do?action=sbs&id=43676
+Ford,2020,Mustang,259,493,26670.0,39630.0,Regular Gasoline,0,0,18,16.0,Find.do?action=sbs&id=41953
+Ford,2019,Mustang,238,490,26395.0,39355.0,Regular Gasoline,0,0,18,16.0,Find.do?action=sbs&id=40321
+Ford,2019,Mustang Bullitt,259,490,46595.0,46595.0,Regular Gasoline,0,0,18,16.0,Find.do?action=sbs&id=40327
+Ford,2020,Mustang Convertible,259,484,32170.0,45130.0,Regular Gasoline,0,0,18,16.0,Find.do?action=sbs&id=41957
+Ford,2019,Mustang Convertible,247,491,31895.0,44855.0,Regular Gasoline,0,0,18,16.0,Find.do?action=sbs&id=40323
+Ford,2024,Mustang,247,494,30920.0,46015.0,Regular Gasoline,0,0,18,0,Find.do?action=sbs&id=47558
+Ford,2023,Mustang Convertible,279,497,33270.0,48865.0,Regular Gasoline,0,0,18,16.0,Find.do?action=sbs&id=46341
+Ford,2022,Mustang Convertible,393,497,32970.0,48565.0,Regular Gasoline,0,0,18,15.9,Find.do?action=sbs&id=45058
+Ford,2021,Mustang Convertible,450,493,32655.0,45620.0,Regular Gasoline,0,0,18,15.5,Find.do?action=sbs&id=43678
+Ford,2023,Mustang Mach 1,598,493,55570.0,55570.0,Regular Gasoline,0,0,18,16.0,Find.do?action=sbs&id=46339
+Ford,2022,Mustang Mach 1,500,493,55270.0,55270.0,Regular Gasoline,0,0,18,16.0,Find.do?action=sbs&id=45051
+Ford,2021,Mustang Mach 1,472,494,51720.0,51720.0,Regular Gasoline,0,0,18,16.0,Find.do?action=sbs&id=43610
+Ford,2020,F150 Pickup 4WD FFV,452,506,33390.0,59245.0,Regular Gasoline,0,0,18,29.5,Find.do?action=sbs&id=42175
+Ford,2021,Bronco Badlands 4WD,297,513,42095.0,44590.0,Regular Gasoline,0,0,17,18.0,Find.do?action=sbs&id=44000
+Ford,2021,Bronco Badlands 4WD,297,509,42095.0,44590.0,Regular Gasoline,0,0,17,18.0,Find.do?action=sbs&id=43998
+Ford,2024,Bronco Badlands 4WD,297,523,49395.0,50685.0,Regular Gasoline,0,0,17,18.0,Find.do?action=sbs&id=47652
+Ford,2023,Bronco Badlands 4WD,297,510,46895.0,48685.0,Regular Gasoline,0,0,17,18.0,Find.do?action=sbs&id=46192
+Ford,2023,Bronco Badlands 4WD,297,530,46895.0,48685.0,Regular Gasoline,0,0,17,18.0,Find.do?action=sbs&id=46194
+Ford,2022,Bronco Badlands 4WD,297,529,44495.0,46590.0,Regular Gasoline,0,0,17,18.0,Find.do?action=sbs&id=44994
+Ford,2022,Bronco Badlands 4WD,297,519,44495.0,46590.0,Regular Gasoline,0,0,17,18.0,Find.do?action=sbs&id=45001
+Ford,2024,Bronco Sasquatch 4WD,297,522,,,Regular Gasoline,0,0,17,18.0,Find.do?action=sbs&id=47654
+Ford,2023,Bronco Sasquatch 4WD,297,531,,,Regular Gasoline,0,0,17,18.0,Find.do?action=sbs&id=46200
+Ford,2022,Bronco Sasquatch 4WD,297,531,,,Regular Gasoline,0,0,17,18.0,Find.do?action=sbs&id=44902
+Ford,2021,Bronco Sasquatch 4WD,297,527,,,Regular Gasoline,0,0,17,18.0,Find.do?action=sbs&id=44001
+Ford,2024,Expedition Timberline AWD,297,523,,,Regular Gasoline,0,0,17,23.2,Find.do?action=sbs&id=47181
+Ford,2023,Expedition Timberline AWD,288,523,71400.0,71400.0,Regular Gasoline,0,0,17,23.2,Find.do?action=sbs&id=46414
+Ford,2022,Expedition Timberline AWD,288,523,70450.0,70450.0,Regular Gasoline,0,0,17,23.2,Find.do?action=sbs&id=45155
+Ford,2024,Bronco Badlands 4WD,288,526,49395.0,50685.0,Regular Gasoline,0,0,17,18.0,Find.do?action=sbs&id=47646
+Ford,2021,Bronco Badlands 4WD,288,533,42095.0,44590.0,Regular Gasoline,0,0,17,18.0,Find.do?action=sbs&id=43999
+Ford,2024,Bronco Black Diamond 4WD,506,523,42630.0,43370.0,Regular Gasoline,0,0,17,18.0,Find.do?action=sbs&id=47647
+Ford,2023,Bronco Black Diamond 4WD,506,523,40750.0,43035.0,Regular Gasoline,0,0,17,18.0,Find.do?action=sbs&id=46196
+Ford,2024,Bronco Sasquatch 4WD,506,523,,,Regular Gasoline,0,0,17,18.0,Find.do?action=sbs&id=47649
+Ford,2023,Bronco Sasquatch 4WD,477,523,,,Regular Gasoline,0,0,17,18.0,Find.do?action=sbs&id=46199
+Ford,2024,Ranger RAPTOR 4WD,438,525,55365.0,55365.0,Regular Gasoline,0,0,17,20.3,Find.do?action=sbs&id=47371
+Ford,2023,Bronco Badlands 4WD,438,530,46895.0,48685.0,Regular Gasoline,0,0,17,18.0,Find.do?action=sbs&id=46193
+Ford,2022,Bronco Badlands 4WD,438,538,44495.0,46590.0,Regular Gasoline,0,0,17,18.0,Find.do?action=sbs&id=44997
+Ford,2019,Flex AWD,499,523,35240.0,43590.0,Regular Gasoline,0,0,17,18.6,Find.do?action=sbs&id=40155
+Ford,2019,F150 4WD FFV BASE PAYLOAD LT,409,523,,,Regular Gasoline,0,0,17,29.5,Find.do?action=sbs&id=41037
+Ford,2020,F150 5.0L 2WD FFV GVWR>7599 LBS,409,523,,,Regular Gasoline,0,0,17,29.5,Find.do?action=sbs&id=42170
+Ford,2019,F150 5.0L 2WD FFV GVWR>7599 LBS,409,522,,,Regular Gasoline,0,0,17,29.5,Find.do?action=sbs&id=41025
+Ford,2023,F150 Pickup Tremor 4WD FFV,409,516,,,Regular Gasoline,0,0,17,36.0,Find.do?action=sbs&id=46179
+Ford,2023,F150 Pickup Tremor 4WD FFV,425,518,,,Regular Gasoline,0,0,17,36.0,Find.do?action=sbs&id=46180
+Ford,2023,Expedition Timberline AWD,378,523,71400.0,71400.0,Regular Gasoline,0,0,17,23.2,Find.do?action=sbs&id=46415
+Ford,2022,Expedition Timberline AWD,396,523,70450.0,70450.0,Regular Gasoline,0,0,17,23.2,Find.do?action=sbs&id=45154
+Ford,2022,Transit T150 Wagon 2WD FFV,396,538,,,Regular Gasoline,0,0,17,25.0,Find.do?action=sbs&id=45088
+Ford,2020,Transit T150 Wagon 2WD FFV,474,537,,,Regular Gasoline,0,0,17,25.0,Find.do?action=sbs&id=42340
+Ford,2024,Mustang,383,515,30920.0,46015.0,Regular Gasoline,0,0,17,0,Find.do?action=sbs&id=46647
+Ford,2020,Mustang Bullitt,354,514,46705.0,46705.0,Regular Gasoline,0,0,17,16.0,Find.do?action=sbs&id=41995
+Ford,2024,Mustang Dark Horse,354,535,57970.0,57970.0,Regular Gasoline,0,0,17,0,Find.do?action=sbs&id=46649
+Ford,2024,Mustang Dark Horse,354,524,57970.0,57970.0,Regular Gasoline,0,0,17,0,Find.do?action=sbs&id=46767
+Ford,2023,Mustang Mach 1,354,523,55570.0,55570.0,Regular Gasoline,0,0,17,16.0,Find.do?action=sbs&id=46338
+Ford,2022,Mustang Mach 1,354,523,55270.0,55270.0,Regular Gasoline,0,0,17,16.0,Find.do?action=sbs&id=45052
+Ford,2021,Mustang Mach 1,417,523,51720.0,51720.0,Regular Gasoline,0,0,17,16.0,Find.do?action=sbs&id=43679
+Ford,2019,Transit T150 Wagon,417,552,35840.0,38735.0,Regular Gasoline,0,0,16,25.0,Find.do?action=sbs&id=40792
+Ford,2021,Transit T150 Wagon 2WD FFV,417,540,,,Regular Gasoline,0,0,16,25.0,Find.do?action=sbs&id=43690
+Ford,2023,F150 RAPTOR 4WD,417,553,76775.0,76775.0,Regular Gasoline,0,0,16,36.0,Find.do?action=sbs&id=46184
+Ford,2022,F150 RAPTOR 4WD,417,553,,,Regular Gasoline,0,0,16,26.0,Find.do?action=sbs&id=44879
+Ford,2021,F150 RAPTOR 4WD,417,553,64145.0,64145.0,Regular Gasoline,0,0,16,36.0,Find.do?action=sbs&id=44367
+Ford,2020,F150 RAPTOR 4WD,392,540,53455.0,56440.0,Regular Gasoline,0,0,16,29.5,Find.do?action=sbs&id=42178
+Ford,2019,F150 RAPTOR 4WD,392,540,,,Regular Gasoline,0,0,16,29.5,Find.do?action=sbs&id=41039
+Ford,2020,Shelby GT350 Mustang,392,550,59140.0,72135.0,Premium Gasoline,0,0,16,16.0,Find.do?action=sbs&id=41994
+Ford,2019,Shelby GT350 Mustang,370,549,59140.0,67135.0,Premium Gasoline,0,0,16,16.0,Find.do?action=sbs&id=41224
+Ford,2019,F150 5.0L 4WD FFV GVWR>7599 LBS,370,555,,,Regular Gasoline,0,0,16,29.5,Find.do?action=sbs&id=41038
+Ford,2020,Transit T150 Wagon 4WD FFV,370,562,,,Regular Gasoline,0,0,16,25.0,Find.do?action=sbs&id=42341
+Ford,2024,F150 RAPTOR 4WD,356,555,77980.0,77980.0,Regular Gasoline,0,0,16,29.5,Find.do?action=sbs&id=47615
+Ford,2022,Transit T150 Wagon 4WD FFV,421,563,,,Regular Gasoline,0,0,16,25.0,Find.do?action=sbs&id=45087
+Ford,2021,Transit T150 Wagon 4WD FFV,421,565,,,Regular Gasoline,0,0,16,25.0,Find.do?action=sbs&id=43691
+Ford,2024,Bronco Raptor 4WD,421,577,89835.0,89835.0,Regular Gasoline,0,0,15,18.0,Find.do?action=sbs&id=47682
+Ford,2023,Bronco Raptor 4WD,421,577,76580.0,76580.0,Regular Gasoline,0,0,15,20.8,Find.do?action=sbs&id=46202
+Ford,2022,Bronco Raptor 4WD,378,577,68500.0,68500.0,Regular Gasoline,0,0,15,20.8,Find.do?action=sbs&id=45332
+Ford,2023,F150 RAPTOR 37 4WD,378,578,,,Regular Gasoline,0,0,15,36.0,Find.do?action=sbs&id=46182
+Ford,2022,F150 RAPTOR 37 4WD,648,578,,,Regular Gasoline,0,0,15,26.0,Find.do?action=sbs&id=44875
+Ford,2021,F150 RAPTOR 37 4WD,648,578,64145.0,64145.0,Regular Gasoline,0,0,15,36.0,Find.do?action=sbs&id=44368
+Ford,2023,F150 RAPTOR 4WD,406,593,76775.0,76775.0,Regular Gasoline,0,0,15,36.0,Find.do?action=sbs&id=46183
+Ford,2022,F150 RAPTOR 4WD,406,593,,,Regular Gasoline,0,0,15,26.0,Find.do?action=sbs&id=44880
+Ford,2021,F150 RAPTOR 4WD,624,593,64145.0,64145.0,Regular Gasoline,0,0,15,36.0,Find.do?action=sbs&id=44373
+Ford,2019,Transit T150 Wagon,364,572,35840.0,38735.0,Regular Gasoline,0,0,15,25.0,Find.do?action=sbs&id=40794
+Ford,2019,Transit T150 Wagon FFV,364,572,35840.0,38735.0,Regular Gasoline,0,0,15,25.0,Find.do?action=sbs&id=40793
+Ford,2023,F150 RAPTOR 37 4WD,364,596,,,Regular Gasoline,0,0,15,36.0,Find.do?action=sbs&id=46181
+Ford,2022,F150 RAPTOR 37 4WD,624,596,,,Regular Gasoline,0,0,15,26.0,Find.do?action=sbs&id=44881
+Ford,2021,F150 RAPTOR 37 4WD,364,596,64145.0,64145.0,Regular Gasoline,0,0,15,36.0,Find.do?action=sbs&id=44371
+Ford,2022,GT,364,632,,,Premium Gasoline,0,0,14,16.0,Find.do?action=sbs&id=45063
+Ford,2021,GT,624,632,,,Premium Gasoline,0,0,14,16.0,Find.do?action=sbs&id=43608
+Ford,2020,GT,411,632,,,Premium Gasoline,0,0,14,0,Find.do?action=sbs&id=42384
+Ford,2022,Shelby GT500 Mustang,411,631,80915.0,80915.0,Premium Gasoline,0,0,14,16.0,Find.do?action=sbs&id=45290
+Ford,2021,Shelby GT500 Mustang,411,631,,,Premium Gasoline,0,0,14,16.0,Find.do?action=sbs&id=43675
+Ford,2020,Shelby GT500 Mustang,411,631,59140.0,72135.0,Premium Gasoline,0,0,14,0,Find.do?action=sbs&id=42139
+Ford,2019,GT,600,654,,,Premium Gasoline,0,0,14,0,Find.do?action=sbs&id=40864
+Ford,2024,F150 RAPTOR R 4WD,475,741,,,Regular Gasoline,0,0,12,29.5,Find.do?action=sbs&id=47617
+Ford,2023,F150 RAPTOR R 4WD,475,741,107350.0,107350.0,Regular Gasoline,0,0,12,36.0,Find.do?action=sbs&id=46185
+Nissan,2019,Leaf (40 kW-hr battery pack),475,0,29990.0,36200.0,Electricity,112,8,0,0,Find.do?action=sbs&id=40812
+Nissan,2024,LEAF,475,0,28140.0,28140.0,Electricity,111,8,0,0,Find.do?action=sbs&id=46973
+Nissan,2023,LEAF,475,0,28040.0,28040.0,Electricity,111,8,0,0,Find.do?action=sbs&id=46016
+Nissan,2022,Leaf (40 kW-hr battery pack),485,0,27400.0,28800.0,Electricity,111,8,0,0,Find.do?action=sbs&id=44446
+Nissan,2021,Leaf (40 kW-hr battery pack),485,0,,,Electricity,111,8,0,0,Find.do?action=sbs&id=43664
+Nissan,2020,Leaf (40 kW-hr battery pack),485,0,31600.0,31600.0,Electricity,111,8,0,0,Find.do?action=sbs&id=42561
+Nissan,2024,LEAF SV,485,0,36190.0,36190.0,Electricity,109,11,0,0,Find.do?action=sbs&id=46974
+Nissan,2023,LEAF SV,372,0,36040.0,36040.0,Electricity,109,11,0,0,Find.do?action=sbs&id=46017
+Nissan,2022,Leaf (62 kW-hr battery pack),372,0,32400.0,37400.0,Electricity,108,11,0,0,Find.do?action=sbs&id=44447
+Nissan,2021,Leaf (62 kW-hr battery pack),462,0,38270.0,38270.0,Electricity,108,11,0,0,Find.do?action=sbs&id=43665
+Nissan,2020,Leaf (62 kW-hr battery pack),576,0,38200.0,38200.0,Electricity,108,11,0,0,Find.do?action=sbs&id=42562
+Nissan,2019,Leaf (62 kW-hr battery pack),374,0,36550.0,36550.0,Electricity,108,11,0,0,Find.do?action=sbs&id=41276
+Nissan,2022,Leaf SV/SL (62 kW-hr battery pack),374,0,28800.0,37400.0,Electricity,104,11,0,0,Find.do?action=sbs&id=44448
+Nissan,2021,Leaf SV/SL (62 kW-hr battery pack),521,0,34960.0,43970.0,Electricity,104,11,0,0,Find.do?action=sbs&id=43666
+Nissan,2020,Leaf SV/SL (62 kW-hr battery pack),521,0,34190.0,43900.0,Electricity,104,11,0,0,Find.do?action=sbs&id=42563
+Nissan,2019,Leaf SV/SL (62 kW-hr battery pack),521,0,38510.0,42550.0,Electricity,104,11,0,0,Find.do?action=sbs&id=41277
+Nissan,2023,ARIYA VENTURE Plus FWD 87kWh,521,0,47190.0,47190.0,Electricity,103,14,0,0,Find.do?action=sbs&id=46015
+Nissan,2023,ARIYA ENGAGE FWD 63kWh,466,0,43190.0,43190.0,Electricity,101,10,0,0,Find.do?action=sbs&id=46013
+Nissan,2023,ARIYA EVO Plus/EMP Plus/PRM FWD 87kWh,576,0,50190.0,60190.0,Electricity,98,14,0,0,Find.do?action=sbs&id=46014
+Nissan,2023,ARIYA ENGAGE e-4ORCE 63kWh,576,0,,,Electricity,95,10,0,0,Find.do?action=sbs&id=46990
+Nissan,2023,ARIYA ENG Plus/EVO Plus e-4ORCE 87kWh,576,0,,,Electricity,92,13,0,0,Find.do?action=sbs&id=46989
+Nissan,2023,ARIYA PLAT Plus e-4ORCE 87kWh 19,576,0,,,Electricity,90,14,0,0,Find.do?action=sbs&id=46991
+Nissan,2023,ARIYA PLAT Plus e-4ORCE 87kWh 20,466,0,,,Electricity,87,14,0,0,Find.do?action=sbs&id=46992
+Nissan,2024,Versa,576,254,16390.0,20400.0,Regular Gasoline,0,0,35,10.8,Find.do?action=sbs&id=47236
+Nissan,2023,Versa,576,254,15980.0,19970.0,Regular Gasoline,0,0,35,10.8,Find.do?action=sbs&id=46356
+Nissan,2022,Versa,576,254,15580.0,18990.0,Regular Gasoline,0,0,35,10.8,Find.do?action=sbs&id=44888
+Nissan,2021,Versa,672,254,14980.0,18390.0,Regular Gasoline,0,0,35,10.8,Find.do?action=sbs&id=43432
+Nissan,2020,Versa,552,253,14830.0,18340.0,Regular Gasoline,0,0,35,10.8,Find.do?action=sbs&id=41796
+Nissan,2019,Rogue Hybrid FWD,499,261,27700.0,31640.0,Regular Gasoline,0,0,34,14.5,Find.do?action=sbs&id=40798
+Nissan,2019,Versa,446,262,14600.0,16090.0,Regular Gasoline,0,0,34,10.8,Find.do?action=sbs&id=40634
+Nissan,2024,Sentra,446,262,20890.0,21820.0,Regular Gasoline,0,0,34,12.4,Find.do?action=sbs&id=47241
+Nissan,2024,Kicks,644,269,21050.0,23610.0,Regular Gasoline,0,0,33,10.8,Find.do?action=sbs&id=47240
+Nissan,2023,Kicks,644,269,20590.0,23150.0,Regular Gasoline,0,0,33,10.8,Find.do?action=sbs&id=45766
+Nissan,2022,Kicks,644,269,19990.0,22550.0,Regular Gasoline,0,0,33,10.8,Find.do?action=sbs&id=45036
+Nissan,2021,Kicks,644,269,19600.0,22140.0,Regular Gasoline,0,0,33,10.8,Find.do?action=sbs&id=43720
+Nissan,2020,Kicks,552,268,19070.0,21320.0,Regular Gasoline,0,0,33,10.8,Find.do?action=sbs&id=42389
+Nissan,2019,Kicks,437,271,18640.0,20970.0,Regular Gasoline,0,0,33,10.8,Find.do?action=sbs&id=41091
+Nissan,2019,Rogue Hybrid AWD,437,276,29050.0,32990.0,Regular Gasoline,0,0,33,14.5,Find.do?action=sbs&id=40801
+Nissan,2024,Sentra SR,483,270,23980.0,23980.0,Regular Gasoline,0,0,33,12.4,Find.do?action=sbs&id=47242
+Nissan,2024,Rogue FWD,483,269,28420.0,30110.0,Regular Gasoline,0,0,33,14.5,Find.do?action=sbs&id=47633
+Nissan,2023,Rogue FWD,483,271,27360.0,29050.0,Regular Gasoline,0,0,33,14.5,Find.do?action=sbs&id=45825
+Nissan,2023,Rogue FWD,483,269,27360.0,29050.0,Regular Gasoline,0,0,33,14.5,Find.do?action=sbs&id=46379
+Nissan,2022,Rogue FWD,528,271,27150.0,28840.0,Regular Gasoline,0,0,33,14.5,Find.do?action=sbs&id=44942
+Nissan,2021,Rogue FWD,528,270,26050.0,26050.0,Regular Gasoline,0,0,33,14.5,Find.do?action=sbs&id=43770
+Nissan,2021,Rogue AWD,528,275,27450.0,27450.0,Regular Gasoline,0,0,33,14.5,Find.do?action=sbs&id=43772
+Nissan,2023,Sentra,427,268,20200.0,21420.0,Regular Gasoline,0,0,33,12.4,Find.do?action=sbs&id=46433
+Nissan,2022,Sentra,427,269,19950.0,21030.0,Regular Gasoline,0,0,33,12.4,Find.do?action=sbs&id=44890
+Nissan,2021,Sentra,462,268,19510.0,20570.0,Regular Gasoline,0,0,33,12.4,Find.do?action=sbs&id=43539
+Nissan,2020,Sentra,462,268,19310.0,20370.0,Regular Gasoline,0,0,33,12.4,Find.do?action=sbs&id=42472
+Nissan,2021,Rogue FWD SL/Platinum,462,278,35830.0,35830.0,Regular Gasoline,0,0,32,14.5,Find.do?action=sbs&id=43771
+Nissan,2019,Sentra,616,278,12460.0,23220.0,Regular Gasoline,0,0,32,13.2,Find.do?action=sbs&id=40565
+Nissan,2024,Rogue FWD SL/Platinum,616,278,35270.0,38700.0,Regular Gasoline,0,0,32,14.5,Find.do?action=sbs&id=47634
+Nissan,2023,Rogue FWD SL/Platinum,616,278,33710.0,37590.0,Regular Gasoline,0,0,32,14.5,Find.do?action=sbs&id=45826
+Nissan,2023,Rogue FWD SL/Platinum,616,278,33710.0,37590.0,Regular Gasoline,0,0,32,14.5,Find.do?action=sbs&id=46380
+Nissan,2022,Rogue FWD SL/Platinum,528,278,33500.0,36930.0,Regular Gasoline,0,0,32,14.5,Find.do?action=sbs&id=44943
+Nissan,2021,Rogue AWD SL/Platinum,528,284,,,Regular Gasoline,0,0,32,14.5,Find.do?action=sbs&id=43773
+Nissan,2022,Altima,528,278,24900.0,24900.0,Regular Gasoline,0,0,32,16.2,Find.do?action=sbs&id=44803
+Nissan,2021,Altima,616,281,24550.0,24550.0,Regular Gasoline,0,0,32,16.2,Find.do?action=sbs&id=43390
+Nissan,2020,Altima,471,278,24300.0,35180.0,Regular Gasoline,0,0,32,16.2,Find.do?action=sbs&id=41532
+Nissan,2019,Altima,471,278,24000.0,35750.0,Regular Gasoline,0,0,32,16.2,Find.do?action=sbs&id=40884
+Nissan,2023,Sentra SR,418,283,23090.0,23090.0,Regular Gasoline,0,0,32,12.4,Find.do?action=sbs&id=46434
+Nissan,2022,Sentra SR,418,283,22700.0,22700.0,Regular Gasoline,0,0,32,12.4,Find.do?action=sbs&id=44891
+Nissan,2021,Sentra SR,418,283,21850.0,21850.0,Regular Gasoline,0,0,32,12.4,Find.do?action=sbs&id=43540
+Nissan,2020,Sentra SR,418,280,21650.0,21650.0,Regular Gasoline,0,0,32,12.4,Find.do?action=sbs&id=42473
+Nissan,2024,Altima,418,282,26000.0,32700.0,Regular Gasoline,0,0,32,16.2,Find.do?action=sbs&id=47081
+Nissan,2023,Altima,462,282,25630.0,26430.0,Regular Gasoline,0,0,32,16.2,Find.do?action=sbs&id=45944
+Nissan,2024,Rogue AWD,462,287,29920.0,31610.0,Regular Gasoline,0,0,31,14.5,Find.do?action=sbs&id=47665
+Nissan,2023,Rogue AWD,462,287,28860.0,30550.0,Regular Gasoline,0,0,31,14.5,Find.do?action=sbs&id=45831
+Nissan,2023,Rogue AWD,462,287,28860.0,30550.0,Regular Gasoline,0,0,31,14.5,Find.do?action=sbs&id=46397
+Nissan,2022,Rogue AWD,407,287,28650.0,38430.0,Regular Gasoline,0,0,31,14.5,Find.do?action=sbs&id=44947
+Nissan,2024,Rogue AWD SL/Platinum,407,287,36770.0,40200.0,Regular Gasoline,0,0,31,14.5,Find.do?action=sbs&id=47666
+Nissan,2023,Rogue AWD SL/Platinum,427,288,35210.0,39090.0,Regular Gasoline,0,0,31,14.5,Find.do?action=sbs&id=45832
+Nissan,2023,Rogue AWD SL/Platinum,427,287,35210.0,39090.0,Regular Gasoline,0,0,31,14.5,Find.do?action=sbs&id=46398
+Nissan,2022,Rogue AWD SL/Platinum,427,288,,,Regular Gasoline,0,0,31,14.5,Find.do?action=sbs&id=44948
+Nissan,2024,Altima SL/SR,462,287,,,Regular Gasoline,0,0,31,16.2,Find.do?action=sbs&id=47083
+Nissan,2023,Altima SL/SR,462,287,27830.0,32330.0,Regular Gasoline,0,0,31,16.2,Find.do?action=sbs&id=45946
+Nissan,2022,Altima SR,418,290,26900.0,31250.0,Regular Gasoline,0,0,31,16.2,Find.do?action=sbs&id=44804
+Nissan,2021,Altima SR,418,290,26550.0,30900.0,Regular Gasoline,0,0,31,16.2,Find.do?action=sbs&id=43391
+Nissan,2020,Altima SR/Platinum,418,288,25900.0,29750.0,Regular Gasoline,0,0,31,16.2,Find.do?action=sbs&id=41533
+Nissan,2019,Altima SR/Platinum,418,288,29400.0,35030.0,Regular Gasoline,0,0,31,16.2,Find.do?action=sbs&id=40885
+Nissan,2022,Altima SV/SL,407,287,25900.0,30340.0,Regular Gasoline,0,0,31,16.2,Find.do?action=sbs&id=44807
+Nissan,2021,Altima SV/SL,296,289,25550.0,31390.0,Regular Gasoline,0,0,31,16.2,Find.do?action=sbs&id=43394
+Nissan,2019,Versa,407,296,14600.0,16090.0,Regular Gasoline,0,0,30,10.8,Find.do?action=sbs&id=40635
+Nissan,2021,Rogue FWD,296,292,26050.0,26050.0,Regular Gasoline,0,0,30,14.5,Find.do?action=sbs&id=43370
+Nissan,2019,Sentra,504,297,12460.0,23220.0,Regular Gasoline,0,0,30,13.2,Find.do?action=sbs&id=40564
+Nissan,2024,Versa,504,296,16390.0,20400.0,Regular Gasoline,0,0,30,10.8,Find.do?action=sbs&id=47237
+Nissan,2023,Versa,504,296,15980.0,19970.0,Regular Gasoline,0,0,30,10.8,Find.do?action=sbs&id=46357
+Nissan,2022,Versa,504,296,15580.0,18990.0,Regular Gasoline,0,0,30,10.8,Find.do?action=sbs&id=44889
+Nissan,2021,Versa,504,296,14980.0,18390.0,Regular Gasoline,0,0,30,10.8,Find.do?action=sbs&id=43433
+Nissan,2020,Versa,504,296,14830.0,18340.0,Regular Gasoline,0,0,30,10.8,Find.do?action=sbs&id=41797
+Nissan,2024,Altima AWD,456,300,28300.0,34200.0,Regular Gasoline,0,0,30,16.0,Find.do?action=sbs&id=47082
+Nissan,2023,Altima AWD,456,300,27930.0,33830.0,Regular Gasoline,0,0,30,16.0,Find.do?action=sbs&id=45945
+Nissan,2022,Altima AWD,407,300,27300.0,31740.0,Regular Gasoline,0,0,30,16.0,Find.do?action=sbs&id=44805
+Nissan,2021,Altima AWD,407,295,34250.0,34250.0,Regular Gasoline,0,0,30,16.0,Find.do?action=sbs&id=43392
+Nissan,2020,Altima AWD,449,300,25650.0,33750.0,Regular Gasoline,0,0,30,16.0,Find.do?action=sbs&id=41534
+Nissan,2019,Altima AWD,441,300,25350.0,31440.0,Regular Gasoline,0,0,30,16.0,Find.do?action=sbs&id=40886
+Nissan,2019,Sentra,441,307,12460.0,23220.0,Premium Gasoline,0,0,29,13.2,Find.do?action=sbs&id=40567
+Nissan,2021,Rogue FWD SV/SL/Platinum,441,304,,,Regular Gasoline,0,0,29,14.5,Find.do?action=sbs&id=43371
+Nissan,2021,Rogue AWD,441,310,27450.0,27450.0,Regular Gasoline,0,0,29,14.5,Find.do?action=sbs&id=43375
+Nissan,2020,Rogue FWD,449,312,25490.0,31840.0,Regular Gasoline,0,0,29,14.5,Find.do?action=sbs&id=41662
+Nissan,2019,Rogue FWD,456,312,25020.0,31490.0,Regular Gasoline,0,0,29,14.5,Find.do?action=sbs&id=40797
+Nissan,2022,Altima AWD SR/Platinum,407,307,28300.0,34600.0,Regular Gasoline,0,0,29,16.0,Find.do?action=sbs&id=44806
+Nissan,2021,Altima AWD SR/Platinum,259,309,,,Regular Gasoline,0,0,29,16.0,Find.do?action=sbs&id=43393
+Nissan,2020,Altima AWD SR/Platinum,259,307,27250.0,27250.0,Regular Gasoline,0,0,29,16.0,Find.do?action=sbs&id=41535
+Nissan,2019,Altima AWD SR/Platinum,238,307,33380.0,33380.0,Regular Gasoline,0,0,29,16.0,Find.do?action=sbs&id=40887
+Nissan,2024,Altima SR,259,311,28200.0,35700.0,Regular Gasoline,0,0,29,16.2,Find.do?action=sbs&id=47084
+Nissan,2023,Altima SR,259,311,35330.0,35330.0,Regular Gasoline,0,0,29,16.2,Find.do?action=sbs&id=45947
+Nissan,2022,Altima SR,247,311,26900.0,31250.0,Regular Gasoline,0,0,29,16.2,Find.do?action=sbs&id=44808
+Nissan,2021,Altima SR/Platinum,247,311,,,Regular Gasoline,0,0,29,16.2,Find.do?action=sbs&id=43395
+Nissan,2020,Altima SR/Platinum,279,311,25900.0,29750.0,Regular Gasoline,0,0,29,16.2,Find.do?action=sbs&id=41536
+Nissan,2019,Altima SR/Platinum,393,311,29400.0,35030.0,Regular Gasoline,0,0,29,16.2,Find.do?action=sbs&id=40888
+Nissan,2021,Rogue AWD SV/SL/Platinum,450,318,,,Regular Gasoline,0,0,28,14.5,Find.do?action=sbs&id=43376
+Nissan,2022,Rogue Sport,598,318,24960.0,29590.0,Regular Gasoline,0,0,28,14.5,Find.do?action=sbs&id=45062
+Nissan,2021,Rogue Sport,500,318,24160.0,28790.0,Regular Gasoline,0,0,28,14.5,Find.do?action=sbs&id=43737
+Nissan,2020,Rogue Sport,472,317,23430.0,28600.0,Regular Gasoline,0,0,28,14.5,Find.do?action=sbs&id=42336
+Nissan,2019,Rogue Sport,452,318,22340.0,28060.0,Regular Gasoline,0,0,28,14.5,Find.do?action=sbs&id=41100
+Nissan,2020,Rogue AWD,297,324,26840.0,33190.0,Regular Gasoline,0,0,27,14.5,Find.do?action=sbs&id=41681
+Nissan,2019,Rogue AWD,297,324,26370.0,32840.0,Regular Gasoline,0,0,27,14.5,Find.do?action=sbs&id=40800
+Nissan,2019,Sentra Nismo,297,330,26040.0,26040.0,Premium Gasoline,0,0,27,13.2,Find.do?action=sbs&id=40566
+Nissan,2019,Sentra Nismo,297,330,26040.0,26040.0,Premium Gasoline,0,0,27,13.2,Find.do?action=sbs&id=40568
+Nissan,2022,Rogue Sport AWD,297,330,26460.0,31090.0,Regular Gasoline,0,0,27,14.5,Find.do?action=sbs&id=45061
+Nissan,2021,Rogue Sport AWD,297,330,,,Regular Gasoline,0,0,27,14.5,Find.do?action=sbs&id=43736
+Nissan,2020,Rogue Sport AWD,297,329,24780.0,29950.0,Regular Gasoline,0,0,27,14.5,Find.do?action=sbs&id=42337
+Nissan,2019,Rogue Sport AWD,297,330,23690.0,29410.0,Regular Gasoline,0,0,27,14.5,Find.do?action=sbs&id=41101
+Nissan,2021,NV200 Cargo Van,297,360,23630.0,24680.0,Regular Gasoline,0,0,25,14.5,Find.do?action=sbs&id=43588
+Nissan,2020,NV200 Cargo Van,297,356,,,Regular Gasoline,0,0,25,28.0,Find.do?action=sbs&id=42156
+Nissan,2019,NV200 Cargo Van,297,356,,,Regular Gasoline,0,0,25,14.5,Find.do?action=sbs&id=40621
+Nissan,2019,NV200 NYC Taxi,297,366,,,Regular Gasoline,0,0,24,0,Find.do?action=sbs&id=40851
+Nissan,2023,Maxima,288,371,38340.0,44450.0,Premium Gasoline,0,0,24,18.0,Find.do?action=sbs&id=45943
+Nissan,2022,Maxima,288,370,37840.0,43150.0,Premium Gasoline,0,0,24,18.0,Find.do?action=sbs&id=44847
+Nissan,2021,Maxima,288,370,37090.0,42320.0,Premium Gasoline,0,0,24,18.0,Find.do?action=sbs&id=43538
+Nissan,2020,Maxima,288,378,34450.0,41840.0,Premium Gasoline,0,0,24,18.0,Find.do?action=sbs&id=41914
+Nissan,2019,Maxima,506,378,34050.0,41540.0,Premium Gasoline,0,0,24,18.0,Find.do?action=sbs&id=41141
+Nissan,2024,Pathfinder 4WD,506,379,37980.0,44400.0,Regular Gasoline,0,0,23,18.5,Find.do?action=sbs&id=47156
+Nissan,2023,Pathfinder 4WD,506,379,37220.0,40040.0,Regular Gasoline,0,0,23,18.5,Find.do?action=sbs&id=45887
+Nissan,2022,Pathfinder 4WD,477,384,36540.0,42440.0,Regular Gasoline,0,0,23,18.5,Find.do?action=sbs&id=43950
+Nissan,2022,Pathfinder 2WD,438,386,34640.0,40540.0,Regular Gasoline,0,0,23,18.5,Find.do?action=sbs&id=43949
+Nissan,2024,Murano AWD,438,393,39890.0,47900.0,Regular Gasoline,0,0,23,19.0,Find.do?action=sbs&id=47109
+Nissan,2023,Murano AWD,438,391,35860.0,47410.0,Regular Gasoline,0,0,23,19.0,Find.do?action=sbs&id=45769
+Nissan,2022,Murano AWD,499,392,35010.0,46560.0,Regular Gasoline,0,0,23,19.0,Find.do?action=sbs&id=44850
+Nissan,2021,Murano AWD,409,390,34360.0,45910.0,Regular Gasoline,0,0,23,19.0,Find.do?action=sbs&id=43635
+Nissan,2020,Murano AWD,409,388,33330.0,45530.0,Regular Gasoline,0,0,23,19.0,Find.do?action=sbs&id=42098
+Nissan,2019,Murano AWD,409,388,32970.0,45230.0,Regular Gasoline,0,0,23,19.0,Find.do?action=sbs&id=41165
+Nissan,2024,Murano FWD,409,388,38190.0,46200.0,Regular Gasoline,0,0,23,19.0,Find.do?action=sbs&id=47108
+Nissan,2023,Murano FWD,425,387,34160.0,45710.0,Regular Gasoline,0,0,23,19.0,Find.do?action=sbs&id=45768
+Nissan,2022,Murano FWD,378,387,33310.0,44860.0,Regular Gasoline,0,0,23,19.0,Find.do?action=sbs&id=44849
+Nissan,2021,Murano FWD,396,387,32810.0,44360.0,Regular Gasoline,0,0,23,19.0,Find.do?action=sbs&id=43634
+Nissan,2020,Murano FWD,396,386,31730.0,43930.0,Regular Gasoline,0,0,23,19.0,Find.do?action=sbs&id=42097
+Nissan,2019,Murano FWD,474,385,31370.0,43630.0,Regular Gasoline,0,0,23,19.0,Find.do?action=sbs&id=41164
+Nissan,2024,Pathfinder 2WD,383,388,36080.0,49050.0,Regular Gasoline,0,0,23,18.5,Find.do?action=sbs&id=47139
+Nissan,2023,Pathfinder 2WD,354,390,35320.0,38140.0,Regular Gasoline,0,0,23,18.5,Find.do?action=sbs&id=45882
+Nissan,2020,Pathfinder 2WD,354,392,31980.0,38390.0,Regular Gasoline,0,0,23,19.5,Find.do?action=sbs&id=42077
+Nissan,2019,Pathfinder 2WD,354,395,31530.0,38020.0,Regular Gasoline,0,0,23,19.5,Find.do?action=sbs&id=40855
+Nissan,2020,Pathfinder 4WD,354,401,33670.0,40080.0,Regular Gasoline,0,0,22,19.5,Find.do?action=sbs&id=42084
+Nissan,2024,Pathfinder 4WD Platinum,354,400,50950.0,50950.0,Regular Gasoline,0,0,22,18.5,Find.do?action=sbs&id=47209
+Nissan,2022,Pathfinder 4WD Platinum,417,399,49040.0,49040.0,Regular Gasoline,0,0,22,18.5,Find.do?action=sbs&id=43952
+Nissan,2023,Pathfinder 4WD SL/Platinum,417,396,41740.0,50190.0,Regular Gasoline,0,0,22,18.5,Find.do?action=sbs&id=45888
+Nissan,2024,Z,417,405,42310.0,52310.0,Premium Gasoline,0,0,22,0,Find.do?action=sbs&id=47012
+Nissan,2023,Z,417,405,40990.0,53990.0,Premium Gasoline,0,0,22,0,Find.do?action=sbs&id=45400
+Nissan,2020,370Z,417,406,30090.0,47190.0,Premium Gasoline,0,0,22,19.0,Find.do?action=sbs&id=41375
+Nissan,2019,370Z,417,409,,,Premium Gasoline,0,0,22,19.0,Find.do?action=sbs&id=40159
+Nissan,2019,Pathfinder 4WD,392,404,33220.0,39710.0,Regular Gasoline,0,0,22,19.5,Find.do?action=sbs&id=40860
+Nissan,2024,Pathfinder 4WD Rock Creek,392,418,43900.0,43900.0,Premium Gasoline,0,0,21,18.5,Find.do?action=sbs&id=47157
+Nissan,2023,Pathfinder 4WD Rock Creek,392,418,43140.0,43140.0,Premium Gasoline,0,0,21,18.5,Find.do?action=sbs&id=45833
+Nissan,2020,Pathfinder 4WD Platinum,370,414,44910.0,44910.0,Regular Gasoline,0,0,21,19.5,Find.do?action=sbs&id=42085
+Nissan,2019,Pathfinder 4WD Platinum,370,424,44560.0,44560.0,Regular Gasoline,0,0,21,19.5,Find.do?action=sbs&id=40861
+Nissan,2019,Frontier 2WD,370,425,19290.0,34310.0,Regular Gasoline,0,0,21,21.1,Find.do?action=sbs&id=40645
+Nissan,2020,370Z Roadster,356,429,,,Premium Gasoline,0,0,21,0,Find.do?action=sbs&id=41377
+Nissan,2019,370Z Roadster,421,429,,,Premium Gasoline,0,0,21,19.0,Find.do?action=sbs&id=40161
+Nissan,2024,Frontier 2WD,421,437,30030.0,39900.0,Regular Gasoline,0,0,21,21.0,Find.do?action=sbs&id=47249
+Nissan,2023,Frontier 2WD,421,437,29190.0,36120.0,Regular Gasoline,0,0,21,21.0,Find.do?action=sbs&id=46435
+Nissan,2023,Frontier 2WD,421,444,29190.0,36120.0,Regular Gasoline,0,0,20,21.0,Find.do?action=sbs&id=45870
+Nissan,2022,Frontier 2WD,378,444,28690.0,35120.0,Regular Gasoline,0,0,20,21.0,Find.do?action=sbs&id=44458
+Nissan,2021,Frontier 2WD,378,445,27190.0,31710.0,Regular Gasoline,0,0,20,21.1,Find.do?action=sbs&id=43688
+Nissan,2020,Frontier 2WD,648,445,26790.0,31410.0,Regular Gasoline,0,0,20,0,Find.do?action=sbs&id=42612
+Nissan,2024,Z,648,435,42310.0,52310.0,Premium Gasoline,0,0,20,0,Find.do?action=sbs&id=47011
+Nissan,2023,Z,406,435,40990.0,53990.0,Premium Gasoline,0,0,20,0,Find.do?action=sbs&id=45399
+Nissan,2024,Frontier 4WD,406,438,33230.0,42900.0,Regular Gasoline,0,0,20,21.0,Find.do?action=sbs&id=47250
+Nissan,2023,Frontier 4WD,624,438,32390.0,39120.0,Regular Gasoline,0,0,20,21.0,Find.do?action=sbs&id=46436
+Nissan,2021,370Z,364,445,,,Premium Gasoline,0,0,20,0,Find.do?action=sbs&id=43627
+Nissan,2020,370Z,364,445,30090.0,47190.0,Premium Gasoline,0,0,20,19.0,Find.do?action=sbs&id=41376
+Nissan,2019,370Z,364,445,,,Premium Gasoline,0,0,20,19.0,Find.do?action=sbs&id=40160
+Nissan,2024,Frontier 4WD PRO4X,624,469,39560.0,39560.0,Regular Gasoline,0,0,19,21.0,Find.do?action=sbs&id=47251
+Nissan,2023,Frontier 4WD PRO4X,364,469,38720.0,39100.0,Regular Gasoline,0,0,19,21.0,Find.do?action=sbs&id=46437
+Nissan,2024,Z NISMO,364,469,65090.0,65090.0,Premium Gasoline,0,0,19,0,Find.do?action=sbs&id=47013
+Nissan,2021,Frontier 4WD,624,469,30080.0,37790.0,Regular Gasoline,0,0,19,21.1,Find.do?action=sbs&id=43689
+Nissan,2020,Frontier 4WD,411,469,29680.0,37490.0,Regular Gasoline,0,0,19,0,Find.do?action=sbs&id=42613
+Nissan,2019,Frontier 2WD,411,466,19290.0,34310.0,Regular Gasoline,0,0,19,21.1,Find.do?action=sbs&id=40644
+Nissan,2023,Frontier 4WD,411,468,32390.0,39120.0,Regular Gasoline,0,0,19,21.0,Find.do?action=sbs&id=45874
+Nissan,2022,Frontier 4WD,411,458,31890.0,38120.0,Regular Gasoline,0,0,19,21.0,Find.do?action=sbs&id=44459
+Nissan,2023,Frontier 4WD PRO4X,600,472,38720.0,39100.0,Regular Gasoline,0,0,19,21.0,Find.do?action=sbs&id=45875
+Nissan,2019,Frontier 2WD,475,478,19290.0,34310.0,Regular Gasoline,0,0,19,21.1,Find.do?action=sbs&id=40646
+Nissan,2019,Frontier 2WD,475,479,19290.0,34310.0,Regular Gasoline,0,0,19,21.1,Find.do?action=sbs&id=40647
+Nissan,2019,Frontier 2WD FFV,475,494,19290.0,34310.0,Regular Gasoline,0,0,18,21.1,Find.do?action=sbs&id=40648
+Nissan,2024,GT-R,475,493,121090.0,221090.0,Premium Gasoline,0,0,18,19.5,Find.do?action=sbs&id=46584
+Nissan,2023,GT-R,475,493,116040.0,215740.0,Premium Gasoline,0,0,18,19.5,Find.do?action=sbs&id=46351
+Nissan,2021,GT-R,485,482,113540.0,215690.0,Premium Gasoline,0,0,18,0,Find.do?action=sbs&id=42924
+Nissan,2020,GT-R,485,482,113540.0,210740.0,Premium Gasoline,0,0,18,19.5,Find.do?action=sbs&id=41610
+Nissan,2019,GT-R,485,493,99990.0,175540.0,Premium Gasoline,0,0,18,19.5,Find.do?action=sbs&id=41135
+Nissan,2020,Titan 2WD,485,490,36190.0,55490.0,Premium Gasoline,0,0,18,26.0,Find.do?action=sbs&id=42451
+Nissan,2019,Frontier 4WD,372,507,28810.0,37150.0,Regular Gasoline,0,0,18,21.1,Find.do?action=sbs&id=40656
+Nissan,2023,Titan 2WD,372,503,40350.0,59320.0,Premium Gasoline,0,0,18,26.0,Find.do?action=sbs&id=45738
+Nissan,2022,Titan 2WD,462,503,38810.0,57500.0,Premium Gasoline,0,0,18,26.0,Find.do?action=sbs&id=45111
+Nissan,2021,Titan 2WD,576,503,36950.0,56440.0,Premium Gasoline,0,0,18,26.0,Find.do?action=sbs&id=42950
+Nissan,2019,Titan 2WD,374,505,30690.0,54630.0,Regular Gasoline,0,0,18,26.0,Find.do?action=sbs&id=40789
+Nissan,2023,Titan 4WD,374,505,43640.0,62630.0,Premium Gasoline,0,0,18,26.0,Find.do?action=sbs&id=45740
+Nissan,2022,Titan 4WD,521,505,42070.0,63840.0,Premium Gasoline,0,0,18,26.0,Find.do?action=sbs&id=45112
+Nissan,2021,Titan 4WD,521,515,40180.0,59680.0,Premium Gasoline,0,0,18,26.0,Find.do?action=sbs&id=42952
+Nissan,2020,Titan 4WD,521,514,39390.0,61690.0,Premium Gasoline,0,0,18,26.0,Find.do?action=sbs&id=42452
+Nissan,2019,Titan 4WD,521,505,34090.0,57840.0,Regular Gasoline,0,0,18,26.0,Find.do?action=sbs&id=40790
+Nissan,2019,Frontier 4WD,466,519,28810.0,37150.0,Regular Gasoline,0,0,17,21.1,Find.do?action=sbs&id=40655
+Nissan,2019,Frontier 4WD FFV,576,521,28810.0,37150.0,Regular Gasoline,0,0,17,21.1,Find.do?action=sbs&id=40657
+Nissan,2024,Titan 2WD,576,510,46040.0,59710.0,Premium Gasoline,0,0,17,26.0,Find.do?action=sbs&id=47116
+Nissan,2024,Titan 4WD,576,519,49230.0,63020.0,Premium Gasoline,0,0,17,26.0,Find.do?action=sbs&id=47127
+Nissan,2020,Titan 4WD PRO4X,576,524,47590.0,53980.0,Premium Gasoline,0,0,17,26.0,Find.do?action=sbs&id=42453
+Nissan,2021,Titan 4WD PRO-4X,466,518,48470.0,50690.0,Premium Gasoline,0,0,17,26.0,Find.do?action=sbs&id=42953
+Nissan,2023,Titan 4WD PRO4X,576,517,53460.0,53460.0,Premium Gasoline,0,0,17,26.0,Find.do?action=sbs&id=45741
+Nissan,2022,Titan 4WD PRO4X,576,517,51700.0,55970.0,Premium Gasoline,0,0,17,26.0,Find.do?action=sbs&id=45113
+Nissan,2019,Titan 4WD PRO4X,576,529,44880.0,47110.0,Regular Gasoline,0,0,17,26.0,Find.do?action=sbs&id=40791
+Nissan,2024,Titan 4WD PRO4X,672,546,53850.0,53850.0,Premium Gasoline,0,0,16,26.0,Find.do?action=sbs&id=47128
+Nissan,2024,Armada 2WD,552,558,55720.0,67790.0,Premium Gasoline,0,0,16,26.0,Find.do?action=sbs&id=47410
+Nissan,2023,Armada 2WD,499,558,50700.0,67370.0,Premium Gasoline,0,0,16,26.0,Find.do?action=sbs&id=46238
+Nissan,2022,Armada 2WD,446,558,49900.0,66200.0,Premium Gasoline,0,0,16,26.0,Find.do?action=sbs&id=44404
+Nissan,2021,Armada 2WD,446,558,48900.0,65300.0,Premium Gasoline,0,0,16,26.0,Find.do?action=sbs&id=43692
+Nissan,2020,Armada 2WD,644,553,47500.0,60930.0,Regular Gasoline,0,0,16,26.0,Find.do?action=sbs&id=42051
+Nissan,2019,Armada 2WD,644,556,47100.0,60330.0,Regular Gasoline,0,0,16,26.0,Find.do?action=sbs&id=40755
+Nissan,2024,Armada 4WD,644,594,58720.0,70790.0,Premium Gasoline,0,0,15,26.0,Find.do?action=sbs&id=47437
+Nissan,2023,Armada 4WD,644,592,53700.0,70370.0,Premium Gasoline,0,0,15,26.0,Find.do?action=sbs&id=46427
+Nissan,2023,Armada 4WD,552,594,53700.0,70370.0,Premium Gasoline,0,0,15,26.0,Find.do?action=sbs&id=46428
+Nissan,2022,Armada 4WD,437,593,52900.0,69200.0,Premium Gasoline,0,0,15,26.0,Find.do?action=sbs&id=44411
+Nissan,2022,Armada 4WD,437,594,52900.0,69200.0,Premium Gasoline,0,0,15,26.0,Find.do?action=sbs&id=44412
+Nissan,2021,Armada 4WD,483,595,51900.0,68300.0,Premium Gasoline,0,0,15,26.0,Find.do?action=sbs&id=43695
+Nissan,2021,Armada 4WD,483,594,51900.0,68300.0,Premium Gasoline,0,0,15,26.0,Find.do?action=sbs&id=43696
+Nissan,2020,Armada 4WD,483,593,50500.0,63930.0,Regular Gasoline,0,0,15,26.0,Find.do?action=sbs&id=42060
+Nissan,2019,Armada 4WD,483,585,50100.0,63330.0,Regular Gasoline,0,0,15,26.0,Find.do?action=sbs&id=40762
+Tesla,2021,Model 3 Standard Range Plus RWD,528,0,41990.0,41990.0,Electricity,142,7.8,0,0,Find.do?action=sbs&id=43821
+Tesla,2020,Model 3 Standard Range Plus,528,0,37990.0,37990.0,Electricity,141,8.5,0,0,Find.do?action=sbs&id=42278
+Tesla,2021,Model 3 Long Range AWD,528,0,50990.0,50990.0,Electricity,134,11.2,0,0,Find.do?action=sbs&id=43401
+Tesla,2019,Model 3 Standard Range Plus,427,0,39490.0,39490.0,Electricity,133,9.5,0,0,Find.do?action=sbs&id=41416
+Tesla,2023,Model 3 RWD,427,0,40240.0,40240.0,Electricity,132,10.4,0,0,Find.do?action=sbs&id=46206
+Tesla,2022,Model 3 RWD,462,0,46990.0,46990.0,Electricity,132,10.4,0,0,Find.do?action=sbs&id=45013
+Tesla,2020,Model 3 Standard Range,462,0,,,Electricity,131,8.5,0,0,Find.do?action=sbs&id=42277
+Tesla,2019,Model 3 Standard Range,462,0,35000.0,35000.0,Electricity,131,8.5,0,0,Find.do?action=sbs&id=41415
+Tesla,2023,Model 3 Long Range AWD,616,0,47240.0,47240.0,Electricity,131,11.5,0,0,Find.do?action=sbs&id=46204
+Tesla,2022,Model 3 Long Range AWD,616,0,57990.0,57990.0,Electricity,131,11.5,0,0,Find.do?action=sbs&id=45011
+Tesla,2020,Model 3 Long Range,616,0,,,Electricity,130,10,0,0,Find.do?action=sbs&id=42274
+Tesla,2019,Model 3 Long Range,616,0,43000.0,47990.0,Electricity,130,10,0,0,Find.do?action=sbs&id=41189
+Tesla,2022,Model Y RWD,528,0,,,Electricity,129,8,0,0,Find.do?action=sbs&id=45017
+Tesla,2021,Model Y Standard Range RWD,528,0,39990.0,39990.0,Electricity,129,8,0,0,Find.do?action=sbs&id=43880
+Tesla,2021,Model Y Long Range AWD,528,0,57990.0,57990.0,Electricity,125,10,0,0,Find.do?action=sbs&id=43406
+Tesla,2023,Model Y AWD,616,0,49990.0,49990.0,Electricity,123,9.4,0,0,Find.do?action=sbs&id=46211
+Tesla,2022,Model Y AWD,471,0,,,Electricity,123,9.4,0,0,Find.do?action=sbs&id=45196
+Tesla,2020,Model 3 Mid Range,471,0,,,Electricity,123,10,0,0,Find.do?action=sbs&id=42276
+Tesla,2019,Model 3 Mid Range,418,0,44000.0,44000.0,Electricity,123,10,0,0,Find.do?action=sbs&id=41188
+Tesla,2023,Model Y Long Range AWD,418,0,48490.0,48490.0,Electricity,122,11.5,0,0,Find.do?action=sbs&id=46212
+Tesla,2022,Model Y Long Range AWD,418,0,65990.0,65990.0,Electricity,122,11.5,0,0,Find.do?action=sbs&id=45018
+Tesla,2020,Model Y Performance AWD,418,0,59990.0,59990.0,Electricity,121,10,0,0,Find.do?action=sbs&id=42474
+Tesla,2020,Model Y Long Range AWD,418,0,48000.0,49990.0,Electricity,121,10,0,0,Find.do?action=sbs&id=42916
+Tesla,2020,Model 3 Long Range AWD,462,0,46990.0,46990.0,Electricity,121,10,0,0,Find.do?action=sbs&id=42275
+Tesla,2020,Model 3 Long Range Performance AWD (18in),462,0,54990.0,54990.0,Electricity,121,10,0,0,Find.do?action=sbs&id=42279
+Tesla,2023,Model S,462,0,74990.0,74990.0,Electricity,120,15,0,0,Find.do?action=sbs&id=46207
+Tesla,2022,Model S,462,0,104990.0,104990.0,Electricity,120,15,0,0,Find.do?action=sbs&id=45014
+Tesla,2021,Model S Long Range,407,0,89990.0,89990.0,Electricity,120,15,0,0,Find.do?action=sbs&id=44051
+Tesla,2020,Model S Long Range Plus,407,0,69420.0,69420.0,Electricity,117,15.3,0,0,Find.do?action=sbs&id=42755
+Tesla,2019,Model 3 Long Range AWD,427,0,,,Electricity,116,10,0,0,Find.do?action=sbs&id=41190
+Tesla,2019,Model 3 Long Range AWD Performance,427,0,56990.0,56990.0,Electricity,116,10,0,0,Find.do?action=sbs&id=41191
+Tesla,2020,Model 3 Long Range Performance AWD (19in),427,0,54990.0,54990.0,Electricity,116,10,0,0,Find.do?action=sbs&id=42280
+Tesla,2022,Model S Plaid (19 inch wheels),462,0,135990.0,135990.0,Electricity,116,15,0,0,Find.do?action=sbs&id=45015
+Tesla,2020,Model 3 Long Range Performance AWD (20in),462,0,54990.0,54990.0,Electricity,113,10,0,0,Find.do?action=sbs&id=42281
+Tesla,2023,Model 3 Performance AWD,418,0,53240.0,53240.0,Electricity,113,10,0,0,Find.do?action=sbs&id=46205
+Tesla,2022,Model 3 Performance AWD,418,0,62990.0,62990.0,Electricity,113,10,0,0,Find.do?action=sbs&id=45012
+Tesla,2021,Model 3 Performance AWD,418,0,58990.0,58990.0,Electricity,113,11.6,0,0,Find.do?action=sbs&id=43402
+Tesla,2020,Model Y Performance AWD (21in Wheels),418,0,,,Electricity,111,10,0,0,Find.do?action=sbs&id=42816
+Tesla,2020,Model S Long Range,407,0,79990.0,79990.0,Electricity,111,12,0,0,Find.do?action=sbs&id=42282
+Tesla,2019,Model S Long Range,296,0,79990.0,79990.0,Electricity,111,12,0,0,Find.do?action=sbs&id=41417
+Tesla,2023,Model Y Performance AWD,407,0,52490.0,52490.0,Electricity,111,11.8,0,0,Find.do?action=sbs&id=46213
+Tesla,2022,Model Y Performance AWD,296,0,69990.0,69990.0,Electricity,111,11.8,0,0,Find.do?action=sbs&id=45019
+Tesla,2021,Model Y Performance AWD,504,0,62990.0,62990.0,Electricity,111,11.8,0,0,Find.do?action=sbs&id=43407
+Tesla,2021,Model S Performance (19in Wheels),504,0,,,Electricity,110,14.7,0,0,Find.do?action=sbs&id=43516
+Tesla,2020,Model S Standard Range,504,0,,,Electricity,109,9.2,0,0,Find.do?action=sbs&id=42285
+Tesla,2019,Model S Standard Range,504,0,75000.0,75000.0,Electricity,109,9.2,0,0,Find.do?action=sbs&id=41513
+Tesla,2021,Model X Long Range Plus,504,0,99990.0,99990.0,Electricity,105,15,0,0,Find.do?action=sbs&id=43403
+Tesla,2020,Model X Long Range Plus,504,0,79990.0,79990.0,Electricity,105,12,0,0,Find.do?action=sbs&id=43413
+Tesla,2020,Model S Performance (19in Wheels),456,0,91990.0,91990.0,Electricity,104,12,0,0,Find.do?action=sbs&id=42283
+Tesla,2019,Model S Performance (19in Wheels),456,0,99990.0,99990.0,Electricity,104,12,0,0,Find.do?action=sbs&id=41418
+Tesla,2019,Model S 75D,407,0,76000.0,76000.0,Electricity,103,12,0,0,Find.do?action=sbs&id=41192
+Tesla,2023,Model X,407,0,79990.0,79990.0,Electricity,102,14,0,0,Find.do?action=sbs&id=46208
+Tesla,2022,Model X,449,0,120990.0,120990.0,Electricity,102,14,0,0,Find.do?action=sbs&id=45020
+Tesla,2019,Model S 100D,441,0,,,Electricity,102,12,0,0,Find.do?action=sbs&id=41193
+Tesla,2020,Model X Standard Range,441,0,,,Electricity,101,9.2,0,0,Find.do?action=sbs&id=42289
+Tesla,2022,Model S Plaid (21 inch wheels),441,0,,,Electricity,101,15,0,0,Find.do?action=sbs&id=45016
+Tesla,2021,Model S Plaid (21inch wheels),441,0,129990.0,129990.0,Electricity,101,15,0,0,Find.do?action=sbs&id=44069
+Tesla,2023,Model X Plaid (20 inch wheels),449,0,89990.0,89990.0,Electricity,98,14,0,0,Find.do?action=sbs&id=46209
+Tesla,2022,Model X Plaid (20 inch wheels),456,0,138990.0,138990.0,Electricity,98,14,0,0,Find.do?action=sbs&id=45021
+Tesla,2019,Model S P100D,407,0,133000.0,133000.0,Electricity,98,12,0,0,Find.do?action=sbs&id=41194
+Tesla,2021,Model X Performance (20in Wheels),259,0,,,Electricity,97,15,0,0,Find.do?action=sbs&id=43404
+Tesla,2020,Model S Performance (21in Wheels),259,0,91990.0,91990.0,Electricity,97,12,0,0,Find.do?action=sbs&id=42284
+Tesla,2019,Model S Performance (21in Wheels),238,0,,,Electricity,97,12,0,0,Find.do?action=sbs&id=41419
+Tesla,2020,Model X Long Range,259,0,84990.0,84990.0,Electricity,96,12,0,0,Find.do?action=sbs&id=42286
+Tesla,2019,Model X Long Range,259,0,84990.0,84990.0,Electricity,96,12,0,0,Find.do?action=sbs&id=41514
+Tesla,2021,Model S Performance (21in Wheels),247,0,,,Electricity,96,14.7,0,0,Find.do?action=sbs&id=43517
+Tesla,2019,Model X 75D,247,0,82000.0,82000.0,Electricity,93,12,0,0,Find.do?action=sbs&id=41195
+Tesla,2023,Model X Plaid (22 inch wheels),279,0,,,Electricity,91,14,0,0,Find.do?action=sbs&id=46210
+Tesla,2022,Model X Plaid (22 inch wheels),393,0,,,Electricity,91,14,0,0,Find.do?action=sbs&id=45022
+Tesla,2020,Model X Performance (20in Wheels),450,0,99990.0,99990.0,Electricity,90,12,0,0,Find.do?action=sbs&id=42287
+Tesla,2019,Model X 100D,598,0,97000.0,97000.0,Electricity,87,12,0,0,Find.do?action=sbs&id=41196
+Tesla,2021,Model X Performance (22in Wheels),500,0,,,Electricity,86,15,0,0,Find.do?action=sbs&id=43405
+Tesla,2019,Model X P100D,472,0,138000.0,138000.0,Electricity,85,12,0,0,Find.do?action=sbs&id=41197
+Tesla,2020,Model X Performance (22in Wheels),452,0,99990.0,99990.0,Electricity,79,12,0,0,Find.do?action=sbs&id=42288
+Tesla,2019,Model X Performance (22in Wheels),297,0,104990.0,104990.0,Electricity,79,12,0,0,Find.do?action=sbs&id=41515

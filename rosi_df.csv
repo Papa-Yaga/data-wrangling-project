@@ -1,0 +1,1292 @@
+emission_value,min_price,max_price,car_type
+0,26500.0,29700.0,Electricity
+0,31000.0,34200.0,Electricity
+0,36620.0,41020.0,Electricity
+0,36500.0,41700.0,Electricity
+0,36620.0,41020.0,Electricity
+0,27800.0,32300.0,Electricity
+0,33000.0,37500.0,Electricity
+0,50195.0,56200.0,Electricity
+51,33520.0,38120.0,Electricity
+0,,,Electricity
+0,,,Electricity
+194,28220.0,28220.0,Regular Gasoline
+294,17995.0,25620.0,Diesel
+310,19620.0,26120.0,Diesel
+267,17995.0,25620.0,Regular Gasoline
+266,13600.0,18100.0,Regular Gasoline
+266,13400.0,17900.0,Regular Gasoline
+269,13220.0,17720.0,Regular Gasoline
+271,13220.0,17720.0,Regular Gasoline
+266,16600.0,17700.0,Regular Gasoline
+266,16400.0,17500.0,Regular Gasoline
+269,16220.0,17320.0,Regular Gasoline
+271,16220.0,17320.0,Regular Gasoline
+273,13600.0,18100.0,Regular Gasoline
+273,13400.0,17900.0,Regular Gasoline
+273,13220.0,17720.0,Regular Gasoline
+273,13220.0,17720.0,Regular Gasoline
+278,16600.0,17700.0,Regular Gasoline
+278,16400.0,17500.0,Regular Gasoline
+278,16220.0,17320.0,Regular Gasoline
+278,16220.0,17320.0,Regular Gasoline
+275,23400.0,33500.0,Regular Gasoline
+273,22140.0,33370.0,Regular Gasoline
+298,22095.0,33320.0,Regular Gasoline
+281,22090.0,31820.0,Regular Gasoline
+321,23800.0,33900.0,Diesel
+277,17995.0,25620.0,Regular Gasoline
+277,19620.0,26120.0,Regular Gasoline
+277,,,Regular Gasoline
+319,27600.0,35700.0,Diesel
+290,23100.0,27100.0,Regular Gasoline
+290,22100.0,26200.0,Regular Gasoline
+289,21600.0,25700.0,Regular Gasoline
+288,19000.0,25400.0,Regular Gasoline
+286,,,Regular Gasoline
+285,15420.0,20720.0,Regular Gasoline
+296,22100.0,26200.0,Regular Gasoline
+296,21600.0,25700.0,Regular Gasoline
+298,20400.0,23900.0,Regular Gasoline
+292,25000.0,31500.0,Regular Gasoline
+302,19000.0,25400.0,Regular Gasoline
+301,18020.0,21520.0,Regular Gasoline
+308,16720.0,20720.0,Regular Gasoline
+308,15420.0,20720.0,Regular Gasoline
+308,19420.0,21520.0,Regular Gasoline
+308,18020.0,21520.0,Regular Gasoline
+315,23800.0,33900.0,Regular Gasoline
+310,26600.0,31800.0,Regular Gasoline
+317,26600.0,31800.0,Regular Gasoline
+318,25800.0,31000.0,Regular Gasoline
+318,23800.0,31400.0,Regular Gasoline
+315,23800.0,34100.0,Regular Gasoline
+316,21300.0,27600.0,Regular Gasoline
+316,21400.0,23200.0,Regular Gasoline
+316,21300.0,27600.0,Regular Gasoline
+320,24100.0,27700.0,Regular Gasoline
+313,23600.0,27200.0,Regular Gasoline
+314,23500.0,26900.0,Regular Gasoline
+329,25100.0,28700.0,Regular Gasoline
+327,27400.0,32600.0,Regular Gasoline
+330,27900.0,33000.0,Regular Gasoline
+324,27900.0,35700.0,Regular Gasoline
+334,27600.0,35700.0,Regular Gasoline
+329,21400.0,23200.0,Regular Gasoline
+325,21400.0,23200.0,Regular Gasoline
+383,29300.0,53900.0,Diesel
+383,28300.0,53300.0,Diesel
+339,28200.0,33400.0,Regular Gasoline
+340,28200.0,33400.0,Regular Gasoline
+396,36300.0,62100.0,Diesel
+344,22900.0,24700.0,Regular Gasoline
+344,22800.0,29100.0,Regular Gasoline
+344,22800.0,29100.0,Regular Gasoline
+387,34600.0,59800.0,Diesel
+342,22020.0,23820.0,Regular Gasoline
+338,22900.0,24700.0,Regular Gasoline
+397,36800.0,62700.0,Diesel
+342,23400.0,33500.0,Premium Gasoline
+342,22140.0,33370.0,Regular Gasoline
+344,22095.0,33320.0,Premium Gasoline
+344,22090.0,31820.0,Premium Gasoline
+405,35500.0,56800.0,Diesel
+353,,,Premium Gasoline
+354,25000.0,68000.0,Premium Gasoline
+360,26400.0,73300.0,Premium Gasoline
+358,,,Premium Gasoline
+358,25000.0,69000.0,Premium Gasoline
+358,35400.0,42800.0,Regular Gasoline
+365,35100.0,42800.0,Regular Gasoline
+358,33400.0,41100.0,Regular Gasoline
+349,28800.0,42700.0,Regular Gasoline
+350,23800.0,34100.0,Premium Gasoline
+350,23800.0,33900.0,Premium Gasoline
+362,28020.0,36720.0,Regular Gasoline
+416,41400.0,66500.0,Diesel
+367,27900.0,35700.0,Premium Gasoline
+367,27600.0,35700.0,Premium Gasoline
+368,38100.0,45700.0,Regular Gasoline
+368,37800.0,45700.0,Regular Gasoline
+368,36100.0,44000.0,Regular Gasoline
+362,35400.0,44900.0,Regular Gasoline
+373,28800.0,42700.0,Regular Gasoline
+425,40900.0,65900.0,Diesel
+423,40900.0,65900.0,Diesel
+427,39200.0,63600.0,Diesel
+430,33900.0,57700.0,Diesel
+362,28800.0,42700.0,Regular Gasoline
+425,56200.0,76900.0,Diesel
+428,54200.0,74400.0,Diesel
+425,49700.0,70000.0,Diesel
+421,49000.0,69600.0,Diesel
+443,39200.0,63600.0,Diesel
+374,34800.0,45600.0,Regular Gasoline
+382,28800.0,42700.0,Regular Gasoline
+382,28800.0,42700.0,Regular Gasoline
+442,59200.0,79900.0,Diesel
+442,56900.0,77100.0,Diesel
+442,52400.0,72700.0,Diesel
+437,51700.0,72300.0,Diesel
+450,41400.0,66500.0,Diesel
+378,,,Premium Gasoline
+379,25000.0,68000.0,Premium Gasoline
+435,25200.0,34800.0,Diesel
+435,25200.0,33800.0,Diesel
+435,21300.0,33900.0,Diesel
+435,20600.0,34000.0,Diesel
+463,,,Diesel
+471,,,Diesel
+463,,,Diesel
+404,28800.0,42700.0,Regular Gasoline
+405,28800.0,42700.0,Regular Gasoline
+406,21300.0,33900.0,Regular Gasoline
+406,20600.0,34000.0,Regular Gasoline
+403,20600.0,34000.0,Regular Gasoline
+462,62200.0,82900.0,Diesel
+462,59900.0,80100.0,Diesel
+462,55400.0,75700.0,Diesel
+444,54700.0,75300.0,Diesel
+462,59200.0,79900.0,Diesel
+462,57200.0,77400.0,Diesel
+462,52700.0,73000.0,Diesel
+444,52000.0,72600.0,Diesel
+404,29930.0,45500.0,Premium Gasoline
+406,29200.0,31600.0,Regular Gasoline
+412,29500.0,31900.0,Regular Gasoline
+385,,,Premium Gasoline
+397,25000.0,69000.0,Premium Gasoline
+397,,,Regular Gasoline
+396,25000.0,68000.0,Regular Gasoline
+401,26400.0,73300.0,Premium Gasoline
+455,29100.0,38600.0,Diesel
+455,29100.0,37600.0,Diesel
+456,28700.0,37700.0,Diesel
+455,28700.0,37300.0,Diesel
+406,31620.0,36720.0,Regular Gasoline
+406,28020.0,36720.0,Regular Gasoline
+404,35100.0,42800.0,Regular Gasoline
+405,33400.0,41100.0,Regular Gasoline
+411,35400.0,42800.0,Regular Gasoline
+413,25200.0,34800.0,Regular Gasoline
+413,25200.0,33800.0,Regular Gasoline
+407,30900.0,78100.0,Regular Gasoline
+407,26400.0,73300.0,Regular Gasoline
+404,,,Regular Gasoline
+404,25000.0,69000.0,Regular Gasoline
+411,31620.0,36720.0,Regular Gasoline
+409,28020.0,36720.0,Regular Gasoline
+423,29300.0,53900.0,Regular Gasoline
+421,29300.0,53900.0,Regular Gasoline
+421,28300.0,53300.0,Regular Gasoline
+421,32200.0,53300.0,Regular Gasoline
+479,,,Diesel
+484,69900.0,69900.0,Diesel
+417,37800.0,45700.0,Regular Gasoline
+417,36100.0,44000.0,Regular Gasoline
+413,35400.0,44900.0,Regular Gasoline
+414,28800.0,42700.0,Regular Gasoline
+420,29500.0,31900.0,Regular Gasoline
+431,29100.0,38600.0,Regular Gasoline
+431,29100.0,37600.0,Regular Gasoline
+428,28700.0,37700.0,Regular Gasoline
+429,28700.0,37300.0,Regular Gasoline
+427,32500.0,39900.0,Regular Gasoline
+417,34520.0,52000.0,Regular Gasoline
+417,33700.0,51200.0,Regular Gasoline
+420,29800.0,50900.0,Regular Gasoline
+420,29800.0,50900.0,Regular Gasoline
+420,29930.0,45500.0,Regular Gasoline
+422,38100.0,45700.0,Regular Gasoline
+433,34520.0,52000.0,Regular Gasoline
+433,34800.0,45600.0,Regular Gasoline
+426,36000.0,45600.0,Regular Gasoline
+424,25200.0,34800.0,Regular Gasoline
+424,25200.0,33800.0,Regular Gasoline
+446,36300.0,62100.0,Regular Gasoline
+441,34600.0,59800.0,Regular Gasoline
+441,34600.0,59800.0,Regular Gasoline
+422,28300.0,53300.0,Regular Gasoline
+442,33900.0,57700.0,Regular Gasoline
+443,33900.0,57700.0,Regular Gasoline
+442,35500.0,56800.0,Regular Gasoline
+442,35500.0,56800.0,Regular Gasoline
+442,32200.0,53300.0,Regular Gasoline
+442,35500.0,56600.0,Regular Gasoline
+453,36300.0,62100.0,Regular Gasoline
+440,21300.0,33900.0,Regular Gasoline
+440,20600.0,34000.0,Regular Gasoline
+446,29200.0,31600.0,Regular Gasoline
+446,32800.0,40200.0,Regular Gasoline
+447,32800.0,40200.0,Regular Gasoline
+453,36800.0,62700.0,Regular Gasoline
+448,36520.0,54200.0,Regular Gasoline
+448,35700.0,53400.0,Regular Gasoline
+439,34900.0,53100.0,Regular Gasoline
+442,34900.0,53200.0,Regular Gasoline
+438,34900.0,53200.0,Regular Gasoline
+450,36520.0,54200.0,Regular Gasoline
+448,28300.0,53300.0,Regular Gasoline
+451,,,Premium Gasoline
+445,25000.0,68000.0,Regular Gasoline
+450,25000.0,68000.0,Premium Gasoline
+451,30900.0,78100.0,Regular Gasoline
+452,30900.0,78100.0,Premium Gasoline
+453,26400.0,73300.0,Regular Gasoline
+453,26400.0,73300.0,Premium Gasoline
+452,,,Regular Gasoline
+452,25000.0,69000.0,Premium Gasoline
+453,25000.0,69000.0,Regular Gasoline
+452,25000.0,69000.0,Premium Gasoline
+451,,,Regular Gasoline
+525,42600.0,44200.0,Diesel
+525,41600.0,43200.0,Diesel
+525,41400.0,43000.0,Diesel
+524,41300.0,42900.0,Diesel
+468,41400.0,66500.0,Regular Gasoline
+462,40900.0,65900.0,Regular Gasoline
+459,40900.0,65900.0,Regular Gasoline
+464,35500.0,56600.0,Regular Gasoline
+465,29100.0,38600.0,Regular Gasoline
+465,29100.0,37600.0,Regular Gasoline
+461,28700.0,37700.0,Regular Gasoline
+461,28700.0,37300.0,Regular Gasoline
+456,32200.0,53300.0,Regular Gasoline
+460,29300.0,53900.0,Regular Gasoline
+460,28300.0,53300.0,Regular Gasoline
+467,32200.0,53300.0,Regular Gasoline
+467,32500.0,39900.0,Regular Gasoline
+470,36800.0,62700.0,Regular Gasoline
+478,36300.0,62100.0,Regular Gasoline
+478,36300.0,62100.0,Regular Gasoline
+472,68300.0,87050.0,Premium Gasoline
+465,55900.0,135400.0,Premium Gasoline
+477,30900.0,78100.0,Premium Gasoline
+477,26400.0,73300.0,Premium Gasoline
+477,,,Premium Gasoline
+477,25000.0,69000.0,Premium Gasoline
+477,,,Premium Gasoline
+477,25000.0,68000.0,Premium Gasoline
+480,71800.0,126150.0,Regular Gasoline
+478,60900.0,79850.0,Premium Gasoline
+480,102900.0,120850.0,Premium Gasoline
+481,33900.0,57700.0,Regular Gasoline
+477,35500.0,56800.0,Regular Gasoline
+467,58900.0,77850.0,Premium Gasoline
+467,58900.0,77850.0,Premium Gasoline
+494,,,Regular Gasoline
+486,39200.0,63600.0,Regular Gasoline
+489,39200.0,63600.0,Regular Gasoline
+494,37000.0,37000.0,Regular Gasoline
+506,41400.0,66500.0,Regular Gasoline
+489,36800.0,62700.0,Regular Gasoline
+482,33900.0,57700.0,Regular Gasoline
+494,35500.0,56800.0,Regular Gasoline
+491,35500.0,56600.0,Regular Gasoline
+490,36800.0,62700.0,Regular Gasoline
+505,34600.0,59800.0,Regular Gasoline
+502,34600.0,59800.0,Regular Gasoline
+489,34600.0,59800.0,Regular Gasoline
+484,34600.0,59800.0,Regular Gasoline
+493,33900.0,57700.0,Premium Gasoline
+494,48900.0,51800.0,Regular Gasoline
+486,39500.0,48800.0,Regular Gasoline
+494,39500.0,48800.0,Regular Gasoline
+496,36800.0,62700.0,Regular Gasoline
+496,36300.0,62100.0,Regular Gasoline
+500,36300.0,62100.0,Regular Gasoline
+506,39200.0,63600.0,Regular Gasoline
+492,51700.0,72300.0,Regular Gasoline
+492,49000.0,69600.0,Regular Gasoline
+496,52000.0,72600.0,Regular Gasoline
+490,55900.0,135400.0,Premium Gasoline
+505,53800.0,65500.0,Regular Gasoline
+505,53800.0,65500.0,Regular Gasoline
+505,50800.0,65500.0,Regular Gasoline
+505,50800.0,65500.0,Regular Gasoline
+505,48000.0,62700.0,Regular Gasoline
+505,48000.0,62700.0,Regular Gasoline
+505,48000.0,62700.0,Regular Gasoline
+505,48000.0,62700.0,Regular Gasoline
+506,33900.0,57700.0,Regular Gasoline
+512,,,Regular Gasoline
+527,46800.0,46800.0,Regular Gasoline
+523,29300.0,53900.0,Regular Gasoline
+523,28300.0,53300.0,Regular Gasoline
+509,32200.0,53300.0,Regular Gasoline
+523,40900.0,65900.0,Regular Gasoline
+522,40900.0,65900.0,Regular Gasoline
+513,40900.0,65900.0,Premium Gasoline
+516,35500.0,56800.0,Premium Gasoline
+516,35500.0,56600.0,Premium Gasoline
+529,42600.0,44200.0,Regular Gasoline
+510,41600.0,43200.0,Regular Gasoline
+532,41400.0,43000.0,Regular Gasoline
+532,41300.0,42900.0,Regular Gasoline
+522,,,Regular Gasoline
+534,,,Regular Gasoline
+512,55495.0,132900.0,Premium Gasoline
+513,29300.0,53900.0,Regular Gasoline
+510,34500.0,39200.0,Regular Gasoline
+523,29300.0,53900.0,Regular Gasoline
+524,28300.0,53300.0,Regular Gasoline
+523,48900.0,51800.0,Regular Gasoline
+524,32200.0,53300.0,Regular Gasoline
+516,38400.0,44000.0,Regular Gasoline
+525,51000.0,65700.0,Regular Gasoline
+513,51000.0,65700.0,Regular Gasoline
+513,51000.0,65700.0,Regular Gasoline
+513,51000.0,65700.0,Regular Gasoline
+527,41400.0,66500.0,Premium Gasoline
+517,41400.0,66500.0,Regular Gasoline
+522,39200.0,63600.0,Regular Gasoline
+529,39200.0,63600.0,Premium Gasoline
+521,39200.0,63600.0,Regular Gasoline
+530,33900.0,57700.0,Regular Gasoline
+533,33900.0,57700.0,Regular Gasoline
+522,33900.0,57700.0,Premium Gasoline
+525,35500.0,56800.0,Regular Gasoline
+532,35500.0,56800.0,Regular Gasoline
+529,32200.0,53300.0,Regular Gasoline
+517,35500.0,56600.0,Regular Gasoline
+530,35500.0,56600.0,Regular Gasoline
+508,39500.0,48600.0,Regular Gasoline
+527,59200.0,79900.0,Regular Gasoline
+527,56900.0,77100.0,Regular Gasoline
+534,52400.0,72700.0,Regular Gasoline
+527,52400.0,72700.0,Regular Gasoline
+525,51700.0,72300.0,Premium Gasoline
+523,51700.0,72300.0,Regular Gasoline
+527,56200.0,76900.0,Regular Gasoline
+527,54200.0,74400.0,Regular Gasoline
+534,49700.0,70000.0,Regular Gasoline
+527,49700.0,70000.0,Regular Gasoline
+525,49000.0,69600.0,Premium Gasoline
+523,49000.0,69600.0,Regular Gasoline
+527,59200.0,79900.0,Regular Gasoline
+527,57200.0,77400.0,Regular Gasoline
+527,52700.0,73000.0,Regular Gasoline
+523,52000.0,72600.0,Regular Gasoline
+524,41400.0,66500.0,Regular Gasoline
+535,41400.0,66500.0,Regular Gasoline
+524,40900.0,65900.0,Regular Gasoline
+535,40900.0,65900.0,Regular Gasoline
+526,39200.0,63600.0,Regular Gasoline
+522,48900.0,51800.0,Premium Gasoline
+533,48900.0,51800.0,Premium Gasoline
+515,39500.0,48800.0,Premium Gasoline
+523,,,Regular Gasoline
+523,,,Regular Gasoline
+523,,,Regular Gasoline
+524,,,Regular Gasoline
+524,,,Regular Gasoline
+515,54700.0,75300.0,Regular Gasoline
+536,,,Regular Gasoline
+532,55495.0,132900.0,Premium Gasoline
+517,53800.0,65500.0,Premium Gasoline
+517,50800.0,65500.0,Premium Gasoline
+517,48000.0,62700.0,Premium Gasoline
+517,48000.0,62700.0,Premium Gasoline
+527,51000.0,65700.0,Premium Gasoline
+527,51000.0,65700.0,Premium Gasoline
+542,,,Regular Gasoline
+539,,,Regular Gasoline
+564,,,Regular Gasoline
+546,36800.0,62700.0,Regular Gasoline
+555,34600.0,59800.0,Regular Gasoline
+547,29300.0,53900.0,Regular Gasoline
+545,28300.0,53300.0,Regular Gasoline
+546,41400.0,66500.0,Regular Gasoline
+545,39200.0,63600.0,Regular Gasoline
+547,35500.0,56600.0,Regular Gasoline
+546,,,Regular Gasoline
+555,,,Regular Gasoline
+545,59900.0,80100.0,Regular Gasoline
+554,55400.0,75700.0,Regular Gasoline
+555,54700.0,75300.0,Regular Gasoline
+545,,,Regular Gasoline
+553,,,Regular Gasoline
+555,,,Regular Gasoline
+545,,,Regular Gasoline
+552,,,Regular Gasoline
+557,62200.0,82900.0,Regular Gasoline
+564,,,Regular Gasoline
+555,,,Regular Gasoline
+541,29300.0,53900.0,Regular Gasoline
+545,33900.0,57700.0,Regular Gasoline
+543,50800.0,68500.0,Regular Gasoline
+547,50800.0,68500.0,Regular Gasoline
+541,53800.0,68500.0,Regular Gasoline
+541,53800.0,68500.0,Regular Gasoline
+561,30900.0,78100.0,Premium Gasoline
+559,26400.0,73300.0,Premium Gasoline
+562,25000.0,69000.0,Premium Gasoline
+564,25000.0,69000.0,Premium Gasoline
+565,,,Premium Gasoline
+565,25000.0,68000.0,Premium Gasoline
+560,33900.0,57700.0,Regular Gasoline
+555,59200.0,79900.0,Premium Gasoline
+555,56900.0,77100.0,Premium Gasoline
+542,52400.0,72700.0,Premium Gasoline
+547,52400.0,72700.0,Premium Gasoline
+544,51700.0,72300.0,Premium Gasoline
+557,50800.0,68500.0,Premium Gasoline
+553,53800.0,68500.0,Premium Gasoline
+555,56200.0,76900.0,Premium Gasoline
+555,54200.0,74400.0,Premium Gasoline
+542,49700.0,70000.0,Premium Gasoline
+547,49700.0,70000.0,Premium Gasoline
+544,49000.0,69600.0,Premium Gasoline
+555,39200.0,63600.0,Premium Gasoline
+555,39200.0,63600.0,Regular Gasoline
+556,39200.0,63600.0,Regular Gasoline
+555,48900.0,51800.0,Premium Gasoline
+555,,,Regular Gasoline
+569,55400.0,75700.0,Regular Gasoline
+568,55400.0,75700.0,Premium Gasoline
+555,55400.0,75700.0,Premium Gasoline
+558,54700.0,75300.0,Premium Gasoline
+568,52700.0,73000.0,Premium Gasoline
+556,52700.0,73000.0,Regular Gasoline
+555,52700.0,73000.0,Premium Gasoline
+558,52000.0,72600.0,Premium Gasoline
+555,39200.0,63600.0,Regular Gasoline
+555,39200.0,63600.0,Premium Gasoline
+563,33900.0,57700.0,Regular Gasoline
+563,35500.0,56800.0,Regular Gasoline
+560,48900.0,51800.0,Regular Gasoline
+560,48900.0,51800.0,Regular Gasoline
+561,39500.0,48800.0,Regular Gasoline
+556,39500.0,48800.0,Regular Gasoline
+556,39500.0,48600.0,Regular Gasoline
+558,39500.0,48600.0,Regular Gasoline
+567,,,Premium Gasoline
+566,,,Premium Gasoline
+564,62200.0,82900.0,Premium Gasoline
+564,59900.0,80100.0,Premium Gasoline
+566,59200.0,79900.0,Regular Gasoline
+564,59200.0,79900.0,Premium Gasoline
+564,57200.0,77400.0,Premium Gasoline
+566,57200.0,77400.0,Regular Gasoline
+571,30900.0,78100.0,Premium Gasoline
+571,26400.0,73300.0,Premium Gasoline
+571,25000.0,69000.0,Premium Gasoline
+571,25000.0,69000.0,Premium Gasoline
+571,,,Premium Gasoline
+571,25000.0,68000.0,Premium Gasoline
+570,54700.0,75300.0,Premium Gasoline
+570,52000.0,72600.0,Premium Gasoline
+572,,,Regular Gasoline
+575,39500.0,48800.0,Premium Gasoline
+590,,,Regular Gasoline
+582,,,Regular Gasoline
+577,,,Regular Gasoline
+591,69900.0,69900.0,Premium Gasoline
+585,71500.0,71500.0,Premium Gasoline
+588,68400.0,68400.0,Premium Gasoline
+583,,,Regular Gasoline
+577,,,Regular Gasoline
+589,,,Regular Gasoline
+593,,,Regular Gasoline
+593,,,Regular Gasoline
+593,,,Regular Gasoline
+592,,,Regular Gasoline
+590,,,Premium Gasoline
+585,,,Regular Gasoline
+581,,,Regular Gasoline
+592,,,Regular Gasoline
+594,,,Regular Gasoline
+610,,,Regular Gasoline
+592,55495.0,132900.0,Premium Gasoline
+593,48900.0,51800.0,Regular Gasoline
+611,,,Regular Gasoline
+593,,,Regular Gasoline
+597,110100.0,130650.0,Premium Gasoline
+597,,,Premium Gasoline
+613,55495.0,132900.0,Premium Gasoline
+634,,,Regular Gasoline
+635,,,Regular Gasoline
+619,,,Premium Gasoline
+631,,,Premium Gasoline
+631,,,Premium Gasoline
+0,29990.0,36200.0,Electricity
+0,28140.0,28140.0,Electricity
+0,28040.0,28040.0,Electricity
+0,27400.0,28800.0,Electricity
+0,,,Electricity
+0,31600.0,31600.0,Electricity
+0,36190.0,36190.0,Electricity
+0,36040.0,36040.0,Electricity
+0,32400.0,37400.0,Electricity
+0,38270.0,38270.0,Electricity
+0,38200.0,38200.0,Electricity
+0,36550.0,36550.0,Electricity
+0,28800.0,37400.0,Electricity
+0,34960.0,43970.0,Electricity
+0,34190.0,43900.0,Electricity
+0,38510.0,42550.0,Electricity
+0,47190.0,47190.0,Electricity
+0,43190.0,43190.0,Electricity
+0,50190.0,60190.0,Electricity
+0,,,Electricity
+0,,,Electricity
+0,,,Electricity
+0,,,Electricity
+254,16390.0,20400.0,Regular Gasoline
+254,15980.0,19970.0,Regular Gasoline
+254,15580.0,18990.0,Regular Gasoline
+254,14980.0,18390.0,Regular Gasoline
+253,14830.0,18340.0,Regular Gasoline
+261,27700.0,31640.0,Regular Gasoline
+262,14600.0,16090.0,Regular Gasoline
+262,20890.0,21820.0,Regular Gasoline
+269,21050.0,23610.0,Regular Gasoline
+269,20590.0,23150.0,Regular Gasoline
+269,19990.0,22550.0,Regular Gasoline
+269,19600.0,22140.0,Regular Gasoline
+268,19070.0,21320.0,Regular Gasoline
+271,18640.0,20970.0,Regular Gasoline
+276,29050.0,32990.0,Regular Gasoline
+270,23980.0,23980.0,Regular Gasoline
+269,28420.0,30110.0,Regular Gasoline
+271,27360.0,29050.0,Regular Gasoline
+269,27360.0,29050.0,Regular Gasoline
+271,27150.0,28840.0,Regular Gasoline
+270,26050.0,26050.0,Regular Gasoline
+275,27450.0,27450.0,Regular Gasoline
+268,20200.0,21420.0,Regular Gasoline
+269,19950.0,21030.0,Regular Gasoline
+268,19510.0,20570.0,Regular Gasoline
+268,19310.0,20370.0,Regular Gasoline
+278,35830.0,35830.0,Regular Gasoline
+278,12460.0,23220.0,Regular Gasoline
+278,35270.0,38700.0,Regular Gasoline
+278,33710.0,37590.0,Regular Gasoline
+278,33710.0,37590.0,Regular Gasoline
+278,33500.0,36930.0,Regular Gasoline
+284,,,Regular Gasoline
+278,24900.0,24900.0,Regular Gasoline
+281,24550.0,24550.0,Regular Gasoline
+278,24300.0,35180.0,Regular Gasoline
+278,24000.0,35750.0,Regular Gasoline
+283,23090.0,23090.0,Regular Gasoline
+283,22700.0,22700.0,Regular Gasoline
+283,21850.0,21850.0,Regular Gasoline
+280,21650.0,21650.0,Regular Gasoline
+282,26000.0,32700.0,Regular Gasoline
+282,25630.0,26430.0,Regular Gasoline
+287,29920.0,31610.0,Regular Gasoline
+287,28860.0,30550.0,Regular Gasoline
+287,28860.0,30550.0,Regular Gasoline
+287,28650.0,38430.0,Regular Gasoline
+287,36770.0,40200.0,Regular Gasoline
+288,35210.0,39090.0,Regular Gasoline
+287,35210.0,39090.0,Regular Gasoline
+288,,,Regular Gasoline
+287,,,Regular Gasoline
+287,27830.0,32330.0,Regular Gasoline
+290,26900.0,31250.0,Regular Gasoline
+290,26550.0,30900.0,Regular Gasoline
+288,25900.0,29750.0,Regular Gasoline
+288,29400.0,35030.0,Regular Gasoline
+287,25900.0,30340.0,Regular Gasoline
+289,25550.0,31390.0,Regular Gasoline
+296,14600.0,16090.0,Regular Gasoline
+292,26050.0,26050.0,Regular Gasoline
+297,12460.0,23220.0,Regular Gasoline
+296,16390.0,20400.0,Regular Gasoline
+296,15980.0,19970.0,Regular Gasoline
+296,15580.0,18990.0,Regular Gasoline
+296,14980.0,18390.0,Regular Gasoline
+296,14830.0,18340.0,Regular Gasoline
+300,28300.0,34200.0,Regular Gasoline
+300,27930.0,33830.0,Regular Gasoline
+300,27300.0,31740.0,Regular Gasoline
+295,34250.0,34250.0,Regular Gasoline
+300,25650.0,33750.0,Regular Gasoline
+300,25350.0,31440.0,Regular Gasoline
+307,12460.0,23220.0,Premium Gasoline
+304,,,Regular Gasoline
+310,27450.0,27450.0,Regular Gasoline
+312,25490.0,31840.0,Regular Gasoline
+312,25020.0,31490.0,Regular Gasoline
+307,28300.0,34600.0,Regular Gasoline
+309,,,Regular Gasoline
+307,27250.0,27250.0,Regular Gasoline
+307,33380.0,33380.0,Regular Gasoline
+311,28200.0,35700.0,Regular Gasoline
+311,35330.0,35330.0,Regular Gasoline
+311,26900.0,31250.0,Regular Gasoline
+311,,,Regular Gasoline
+311,25900.0,29750.0,Regular Gasoline
+311,29400.0,35030.0,Regular Gasoline
+318,,,Regular Gasoline
+318,24960.0,29590.0,Regular Gasoline
+318,24160.0,28790.0,Regular Gasoline
+317,23430.0,28600.0,Regular Gasoline
+318,22340.0,28060.0,Regular Gasoline
+324,26840.0,33190.0,Regular Gasoline
+324,26370.0,32840.0,Regular Gasoline
+330,26040.0,26040.0,Premium Gasoline
+330,26040.0,26040.0,Premium Gasoline
+330,26460.0,31090.0,Regular Gasoline
+330,,,Regular Gasoline
+329,24780.0,29950.0,Regular Gasoline
+330,23690.0,29410.0,Regular Gasoline
+360,23630.0,24680.0,Regular Gasoline
+356,,,Regular Gasoline
+356,,,Regular Gasoline
+366,,,Regular Gasoline
+371,38340.0,44450.0,Premium Gasoline
+370,37840.0,43150.0,Premium Gasoline
+370,37090.0,42320.0,Premium Gasoline
+378,34450.0,41840.0,Premium Gasoline
+378,34050.0,41540.0,Premium Gasoline
+379,37980.0,44400.0,Regular Gasoline
+379,37220.0,40040.0,Regular Gasoline
+384,36540.0,42440.0,Regular Gasoline
+386,34640.0,40540.0,Regular Gasoline
+393,39890.0,47900.0,Regular Gasoline
+391,35860.0,47410.0,Regular Gasoline
+392,35010.0,46560.0,Regular Gasoline
+390,34360.0,45910.0,Regular Gasoline
+388,33330.0,45530.0,Regular Gasoline
+388,32970.0,45230.0,Regular Gasoline
+388,38190.0,46200.0,Regular Gasoline
+387,34160.0,45710.0,Regular Gasoline
+387,33310.0,44860.0,Regular Gasoline
+387,32810.0,44360.0,Regular Gasoline
+386,31730.0,43930.0,Regular Gasoline
+385,31370.0,43630.0,Regular Gasoline
+388,36080.0,49050.0,Regular Gasoline
+390,35320.0,38140.0,Regular Gasoline
+392,31980.0,38390.0,Regular Gasoline
+395,31530.0,38020.0,Regular Gasoline
+401,33670.0,40080.0,Regular Gasoline
+400,50950.0,50950.0,Regular Gasoline
+399,49040.0,49040.0,Regular Gasoline
+396,41740.0,50190.0,Regular Gasoline
+405,42310.0,52310.0,Premium Gasoline
+405,40990.0,53990.0,Premium Gasoline
+406,30090.0,47190.0,Premium Gasoline
+409,,,Premium Gasoline
+404,33220.0,39710.0,Regular Gasoline
+418,43900.0,43900.0,Premium Gasoline
+418,43140.0,43140.0,Premium Gasoline
+414,44910.0,44910.0,Regular Gasoline
+424,44560.0,44560.0,Regular Gasoline
+425,19290.0,34310.0,Regular Gasoline
+429,,,Premium Gasoline
+429,,,Premium Gasoline
+437,30030.0,39900.0,Regular Gasoline
+437,29190.0,36120.0,Regular Gasoline
+444,29190.0,36120.0,Regular Gasoline
+444,28690.0,35120.0,Regular Gasoline
+445,27190.0,31710.0,Regular Gasoline
+445,26790.0,31410.0,Regular Gasoline
+435,42310.0,52310.0,Premium Gasoline
+435,40990.0,53990.0,Premium Gasoline
+438,33230.0,42900.0,Regular Gasoline
+438,32390.0,39120.0,Regular Gasoline
+445,,,Premium Gasoline
+445,30090.0,47190.0,Premium Gasoline
+445,,,Premium Gasoline
+469,39560.0,39560.0,Regular Gasoline
+469,38720.0,39100.0,Regular Gasoline
+469,65090.0,65090.0,Premium Gasoline
+469,30080.0,37790.0,Regular Gasoline
+469,29680.0,37490.0,Regular Gasoline
+466,19290.0,34310.0,Regular Gasoline
+468,32390.0,39120.0,Regular Gasoline
+458,31890.0,38120.0,Regular Gasoline
+472,38720.0,39100.0,Regular Gasoline
+478,19290.0,34310.0,Regular Gasoline
+479,19290.0,34310.0,Regular Gasoline
+494,19290.0,34310.0,Regular Gasoline
+493,121090.0,221090.0,Premium Gasoline
+493,116040.0,215740.0,Premium Gasoline
+482,113540.0,215690.0,Premium Gasoline
+482,113540.0,210740.0,Premium Gasoline
+493,99990.0,175540.0,Premium Gasoline
+490,36190.0,55490.0,Premium Gasoline
+507,28810.0,37150.0,Regular Gasoline
+503,40350.0,59320.0,Premium Gasoline
+503,38810.0,57500.0,Premium Gasoline
+503,36950.0,56440.0,Premium Gasoline
+505,30690.0,54630.0,Regular Gasoline
+505,43640.0,62630.0,Premium Gasoline
+505,42070.0,63840.0,Premium Gasoline
+515,40180.0,59680.0,Premium Gasoline
+514,39390.0,61690.0,Premium Gasoline
+505,34090.0,57840.0,Regular Gasoline
+519,28810.0,37150.0,Regular Gasoline
+521,28810.0,37150.0,Regular Gasoline
+510,46040.0,59710.0,Premium Gasoline
+519,49230.0,63020.0,Premium Gasoline
+524,47590.0,53980.0,Premium Gasoline
+518,48470.0,50690.0,Premium Gasoline
+517,53460.0,53460.0,Premium Gasoline
+517,51700.0,55970.0,Premium Gasoline
+529,44880.0,47110.0,Regular Gasoline
+546,53850.0,53850.0,Premium Gasoline
+558,55720.0,67790.0,Premium Gasoline
+558,50700.0,67370.0,Premium Gasoline
+558,49900.0,66200.0,Premium Gasoline
+558,48900.0,65300.0,Premium Gasoline
+553,47500.0,60930.0,Regular Gasoline
+556,47100.0,60330.0,Regular Gasoline
+594,58720.0,70790.0,Premium Gasoline
+592,53700.0,70370.0,Premium Gasoline
+594,53700.0,70370.0,Premium Gasoline
+593,52900.0,69200.0,Premium Gasoline
+594,52900.0,69200.0,Premium Gasoline
+595,51900.0,68300.0,Premium Gasoline
+594,51900.0,68300.0,Premium Gasoline
+593,50500.0,63930.0,Regular Gasoline
+585,50100.0,63330.0,Regular Gasoline
+0,42995.0,46995.0,Electricity
+0,43895.0,49100.0,Electricity
+0,52775.0,52775.0,Electricity
+0,,,Electricity
+0,,,Electricity
+0,42895.0,47600.0,Electricity
+0,,,Electricity
+0,56995.0,56995.0,Electricity
+0,55475.0,55475.0,Electricity
+0,,,Electricity
+0,,,Electricity
+0,45595.0,50300.0,Electricity
+0,45995.0,49995.0,Electricity
+0,46595.0,51800.0,Electricity
+0,,,Electricity
+0,,,Electricity
+0,58900.0,59900.0,Electricity
+0,59995.0,59995.0,Electricity
+0,61995.0,61995.0,Electricity
+0,59900.0,59900.0,Electricity
+0,,,Electricity
+0,,,Electricity
+0,59900.0,59900.0,Electricity
+0,,,Electricity
+0,39974.0,90874.0,Electricity
+0,,,Electricity
+0,39974.0,90874.0,Electricity
+77,35455.0,40700.0,Electricity
+77,32650.0,38585.0,Electricity
+77,,,Electricity
+0,91995.0,91995.0,Electricity
+0,39974.0,90874.0,Electricity
+52,40500.0,40500.0,Electricity
+99,37000.0,37000.0,Electricity
+99,36595.0,36595.0,Electricity
+101,,,Electricity
+101,,,Electricity
+211,28000.0,34595.0,Regular Gasoline
+212,27555.0,34485.0,Regular Gasoline
+220,30185.0,35095.0,Regular Gasoline
+220,27605.0,33300.0,Regular Gasoline
+220,28265.0,33550.0,Regular Gasoline
+217,,,Regular Gasoline
+217,,,Regular Gasoline
+224,31685.0,36595.0,Regular Gasoline
+224,29105.0,34800.0,Regular Gasoline
+224,29765.0,35050.0,Regular Gasoline
+225,35040.0,39460.0,Regular Gasoline
+225,35040.0,39460.0,Regular Gasoline
+225,33340.0,36965.0,Regular Gasoline
+225,33340.0,36965.0,Regular Gasoline
+237,,,Regular Gasoline
+237,20995.0,26860.0,Regular Gasoline
+240,22595.0,28355.0,Regular Gasoline
+286,14260.0,15790.0,Regular Gasoline
+293,27025.0,30735.0,Regular Gasoline
+293,24885.0,29205.0,Regular Gasoline
+294,14260.0,15790.0,Regular Gasoline
+299,29345.0,30340.0,Regular Gasoline
+299,28000.0,37465.0,Regular Gasoline
+297,24885.0,29265.0,Regular Gasoline
+318,20395.0,26895.0,Regular Gasoline
+318,19995.0,26265.0,Regular Gasoline
+316,19995.0,26160.0,Regular Gasoline
+322,52530.0,52530.0,Regular Gasoline
+317,31515.0,38460.0,Regular Gasoline
+317,29500.0,38460.0,Regular Gasoline
+318,28525.0,37145.0,Regular Gasoline
+318,26385.0,36155.0,Regular Gasoline
+319,26385.0,36835.0,Regular Gasoline
+317,17625.0,21340.0,Regular Gasoline
+324,53005.0,53005.0,Regular Gasoline
+324,52060.0,52375.0,Regular Gasoline
+324,,,Regular Gasoline
+327,23170.0,34450.0,Regular Gasoline
+327,22840.0,34340.0,Regular Gasoline
+342,31230.0,38390.0,Regular Gasoline
+342,29215.0,44655.0,Regular Gasoline
+342,28815.0,36590.0,Regular Gasoline
+342,27215.0,38160.0,Regular Gasoline
+342,53820.0,53820.0,Regular Gasoline
+342,,,Regular Gasoline
+344,,,Regular Gasoline
+344,,,Regular Gasoline
+344,,,Regular Gasoline
+344,27400.0,31600.0,Regular Gasoline
+344,27020.0,32250.0,Regular Gasoline
+344,26845.0,31595.0,Regular Gasoline
+347,,,Regular Gasoline
+348,34360.0,36475.0,Regular Gasoline
+347,30365.0,33975.0,Regular Gasoline
+341,31515.0,38460.0,Regular Gasoline
+340,29500.0,38460.0,Regular Gasoline
+342,26385.0,36155.0,Regular Gasoline
+342,26385.0,36835.0,Regular Gasoline
+342,24105.0,32620.0,Regular Gasoline
+342,23400.0,26315.0,Regular Gasoline
+342,,,Regular Gasoline
+341,30920.0,46015.0,Regular Gasoline
+347,28525.0,37145.0,Regular Gasoline
+349,,,Regular Gasoline
+352,,,Regular Gasoline
+353,,,Regular Gasoline
+353,24275.0,27700.0,Regular Gasoline
+353,24100.0,27045.0,Regular Gasoline
+355,,,Regular Gasoline
+350,,,Regular Gasoline
+353,,,Regular Gasoline
+353,,,Regular Gasoline
+355,29365.0,31540.0,Regular Gasoline
+350,24665.0,27080.0,Regular Gasoline
+355,32790.0,35965.0,Regular Gasoline
+355,,,Regular Gasoline
+351,22040.0,28395.0,Regular Gasoline
+355,21990.0,28345.0,Regular Gasoline
+355,21590.0,27715.0,Regular Gasoline
+355,21590.0,27610.0,Regular Gasoline
+361,55005.0,55005.0,Regular Gasoline
+361,54060.0,54060.0,Regular Gasoline
+361,50105.0,52105.0,Regular Gasoline
+361,54725.0,54725.0,Regular Gasoline
+350,27770.0,43365.0,Regular Gasoline
+350,27470.0,43065.0,Regular Gasoline
+412,28155.0,55220.0,Diesel
+360,29995.0,38760.0,Regular Gasoline
+360,24105.0,32620.0,Regular Gasoline
+356,34855.0,34855.0,Regular Gasoline
+356,,,Regular Gasoline
+354,27470.0,43065.0,Regular Gasoline
+356,27155.0,40120.0,Regular Gasoline
+354,27155.0,40120.0,Regular Gasoline
+354,26670.0,39630.0,Regular Gasoline
+355,26395.0,39355.0,Regular Gasoline
+355,23170.0,34450.0,Regular Gasoline
+361,22840.0,34340.0,Regular Gasoline
+355,22840.0,34340.0,Regular Gasoline
+359,26395.0,39355.0,Regular Gasoline
+368,,,Regular Gasoline
+370,28000.0,34120.0,Regular Gasoline
+424,,,Diesel
+370,,,Regular Gasoline
+364,23170.0,34450.0,Regular Gasoline
+363,27770.0,43365.0,Regular Gasoline
+364,26670.0,39630.0,Regular Gasoline
+369,32750.0,38940.0,Regular Gasoline
+369,31100.0,38100.0,Regular Gasoline
+369,24105.0,32620.0,Regular Gasoline
+369,,,Regular Gasoline
+420,28745.0,55820.0,Diesel
+371,27770.0,43365.0,Regular Gasoline
+373,27470.0,43065.0,Regular Gasoline
+373,27155.0,40120.0,Regular Gasoline
+368,,,Regular Gasoline
+370,36760.0,54670.0,Regular Gasoline
+370,36760.0,54220.0,Regular Gasoline
+370,35510.0,53775.0,Regular Gasoline
+373,32925.0,52730.0,Regular Gasoline
+373,32925.0,52730.0,Regular Gasoline
+370,32765.0,48380.0,Regular Gasoline
+424,,,Diesel
+430,,,Diesel
+424,32800.0,58645.0,Diesel
+379,55820.0,55820.0,Regular Gasoline
+379,54375.0,54375.0,Regular Gasoline
+381,84910.0,84910.0,Regular Gasoline
+386,,,Regular Gasoline
+387,,,Regular Gasoline
+380,38365.0,47205.0,Regular Gasoline
+380,38365.0,47205.0,Regular Gasoline
+380,37945.0,46485.0,Regular Gasoline
+380,37945.0,46485.0,Regular Gasoline
+380,34745.0,43600.0,Regular Gasoline
+384,33095.0,43265.0,Regular Gasoline
+384,33095.0,43265.0,Regular Gasoline
+377,31990.0,42355.0,Regular Gasoline
+385,28000.0,34120.0,Regular Gasoline
+386,31230.0,38390.0,Regular Gasoline
+387,29215.0,44655.0,Regular Gasoline
+387,28815.0,36590.0,Regular Gasoline
+387,27215.0,38160.0,Regular Gasoline
+387,27400.0,37460.0,Regular Gasoline
+387,25980.0,36030.0,Regular Gasoline
+387,25070.0,35335.0,Regular Gasoline
+387,24410.0,34675.0,Regular Gasoline
+387,24300.0,34565.0,Regular Gasoline
+384,27885.0,36450.0,Regular Gasoline
+386,27775.0,40015.0,Regular Gasoline
+382,37945.0,46485.0,Regular Gasoline
+388,37945.0,46485.0,Regular Gasoline
+383,34745.0,43600.0,Regular Gasoline
+385,36760.0,54220.0,Regular Gasoline
+386,35510.0,53775.0,Regular Gasoline
+389,33270.0,48865.0,Regular Gasoline
+386,33270.0,48865.0,Regular Gasoline
+386,32970.0,48565.0,Regular Gasoline
+386,32970.0,48565.0,Regular Gasoline
+387,32655.0,45620.0,Regular Gasoline
+387,32655.0,45620.0,Regular Gasoline
+386,32170.0,45130.0,Regular Gasoline
+387,32170.0,45130.0,Regular Gasoline
+385,31895.0,44855.0,Regular Gasoline
+389,31895.0,44855.0,Regular Gasoline
+386,,,Regular Gasoline
+386,,,Regular Gasoline
+387,38760.0,56670.0,Regular Gasoline
+387,38760.0,56220.0,Regular Gasoline
+387,37510.0,55775.0,Regular Gasoline
+386,34925.0,54730.0,Regular Gasoline
+386,34925.0,54730.0,Regular Gasoline
+386,34765.0,58250.0,Regular Gasoline
+446,33935.0,74600.0,Diesel
+387,33270.0,48865.0,Regular Gasoline
+386,32970.0,48565.0,Regular Gasoline
+386,32655.0,45620.0,Regular Gasoline
+386,,,Regular Gasoline
+387,,,Regular Gasoline
+386,,,Regular Gasoline
+386,,,Regular Gasoline
+389,,,Regular Gasoline
+385,,,Regular Gasoline
+402,32565.0,43525.0,Regular Gasoline
+396,,,Regular Gasoline
+396,,,Regular Gasoline
+397,,,Regular Gasoline
+396,,,Regular Gasoline
+397,,,Regular Gasoline
+397,,,Regular Gasoline
+397,,,Regular Gasoline
+397,24275.0,27700.0,Regular Gasoline
+396,24100.0,27045.0,Regular Gasoline
+397,24665.0,27080.0,Regular Gasoline
+404,38760.0,56220.0,Regular Gasoline
+404,37510.0,55775.0,Regular Gasoline
+405,34585.0,65000.0,Regular Gasoline
+404,30870.0,76975.0,Regular Gasoline
+406,29290.0,71175.0,Regular Gasoline
+402,28745.0,55820.0,Regular Gasoline
+403,28155.0,55220.0,Regular Gasoline
+397,27400.0,37460.0,Regular Gasoline
+397,25980.0,36030.0,Regular Gasoline
+401,29365.0,31540.0,Regular Gasoline
+404,30365.0,33975.0,Regular Gasoline
+404,27400.0,31600.0,Regular Gasoline
+404,27020.0,32250.0,Regular Gasoline
+404,26845.0,31595.0,Regular Gasoline
+463,,,Diesel
+466,33390.0,59245.0,Diesel
+463,32800.0,58645.0,Diesel
+402,36210.0,47010.0,Regular Gasoline
+410,31045.0,40945.0,Regular Gasoline
+411,29835.0,39730.0,Regular Gasoline
+404,28925.0,39035.0,Regular Gasoline
+404,28570.0,38675.0,Regular Gasoline
+404,28460.0,38565.0,Regular Gasoline
+409,32365.0,42765.0,Regular Gasoline
+404,,,Regular Gasoline
+404,,,Regular Gasoline
+404,,,Regular Gasoline
+406,,,Regular Gasoline
+409,28745.0,55820.0,Regular Gasoline
+412,28155.0,55220.0,Regular Gasoline
+424,,,Regular Gasoline
+414,,,Regular Gasoline
+414,,,Regular Gasoline
+424,28500.0,33995.0,Regular Gasoline
+426,28500.0,33995.0,Regular Gasoline
+417,33095.0,43265.0,Regular Gasoline
+418,31990.0,42355.0,Regular Gasoline
+418,38365.0,47205.0,Regular Gasoline
+421,37945.0,46485.0,Regular Gasoline
+423,37945.0,46485.0,Regular Gasoline
+423,34745.0,43600.0,Regular Gasoline
+422,,,Regular Gasoline
+423,,,Regular Gasoline
+425,36570.0,49980.0,Regular Gasoline
+423,,,Regular Gasoline
+423,,,Regular Gasoline
+415,,,Regular Gasoline
+423,,,Regular Gasoline
+423,,,Regular Gasoline
+423,,,Regular Gasoline
+433,35885.0,80435.0,Regular Gasoline
+432,33935.0,74600.0,Regular Gasoline
+423,32800.0,58645.0,Regular Gasoline
+420,31045.0,40945.0,Regular Gasoline
+420,29835.0,39730.0,Regular Gasoline
+431,46015.0,46015.0,Regular Gasoline
+433,49330.0,49330.0,Regular Gasoline
+433,48980.0,48980.0,Regular Gasoline
+433,48320.0,48320.0,Regular Gasoline
+426,36760.0,54670.0,Regular Gasoline
+428,36760.0,54220.0,Regular Gasoline
+428,35510.0,53775.0,Regular Gasoline
+431,32925.0,52730.0,Regular Gasoline
+428,27800.0,37310.0,Regular Gasoline
+428,27800.0,37310.0,Regular Gasoline
+423,34515.0,54165.0,Regular Gasoline
+431,34585.0,65000.0,Regular Gasoline
+426,28155.0,55220.0,Regular Gasoline
+432,34585.0,65000.0,Regular Gasoline
+438,39130.0,71105.0,Regular Gasoline
+444,39130.0,71105.0,Regular Gasoline
+439,34095.0,38540.0,Regular Gasoline
+440,34095.0,38540.0,Regular Gasoline
+439,31300.0,51225.0,Regular Gasoline
+437,31300.0,51225.0,Regular Gasoline
+443,,,Regular Gasoline
+445,36210.0,47010.0,Regular Gasoline
+444,,,Regular Gasoline
+444,,,Regular Gasoline
+445,,,Regular Gasoline
+452,39130.0,71105.0,Regular Gasoline
+454,34095.0,38540.0,Regular Gasoline
+445,48980.0,48980.0,Regular Gasoline
+445,48320.0,48320.0,Regular Gasoline
+437,36760.0,54670.0,Regular Gasoline
+438,36760.0,54220.0,Regular Gasoline
+437,35510.0,53775.0,Regular Gasoline
+444,38760.0,56670.0,Regular Gasoline
+445,38760.0,56670.0,Regular Gasoline
+444,38760.0,56220.0,Regular Gasoline
+445,38760.0,56220.0,Regular Gasoline
+444,37510.0,55775.0,Regular Gasoline
+445,37510.0,55775.0,Regular Gasoline
+445,34925.0,54730.0,Regular Gasoline
+446,34765.0,58250.0,Regular Gasoline
+436,30870.0,76975.0,Regular Gasoline
+437,29290.0,71175.0,Regular Gasoline
+435,39600.0,68795.0,Regular Gasoline
+445,33935.0,74600.0,Regular Gasoline
+444,,,Regular Gasoline
+444,,,Regular Gasoline
+444,41585.0,73730.0,Regular Gasoline
+451,39600.0,68795.0,Regular Gasoline
+444,35885.0,80435.0,Regular Gasoline
+445,33935.0,74600.0,Regular Gasoline
+444,33390.0,59245.0,Regular Gasoline
+439,33390.0,59245.0,Regular Gasoline
+439,32800.0,58645.0,Regular Gasoline
+444,27775.0,40015.0,Regular Gasoline
+444,,,Regular Gasoline
+455,36570.0,49980.0,Regular Gasoline
+453,,,Regular Gasoline
+454,52130.0,73365.0,Regular Gasoline
+454,,,Regular Gasoline
+451,38760.0,56220.0,Regular Gasoline
+454,38760.0,56220.0,Regular Gasoline
+444,,,Regular Gasoline
+454,32365.0,42765.0,Regular Gasoline
+444,30870.0,76975.0,Regular Gasoline
+444,29290.0,71175.0,Regular Gasoline
+444,,,Regular Gasoline
+446,,,Regular Gasoline
+451,39600.0,68795.0,Regular Gasoline
+453,35885.0,80435.0,Regular Gasoline
+456,31300.0,51225.0,Regular Gasoline
+471,,,Regular Gasoline
+468,,,Regular Gasoline
+462,,,Regular Gasoline
+462,28500.0,33995.0,Regular Gasoline
+465,,,Regular Gasoline
+461,,,Regular Gasoline
+463,,,Regular Gasoline
+468,32080.0,42975.0,Regular Gasoline
+468,32080.0,42975.0,Regular Gasoline
+462,56075.0,84245.0,Regular Gasoline
+462,55125.0,78115.0,Regular Gasoline
+462,53375.0,79560.0,Regular Gasoline
+456,49625.0,74375.0,Regular Gasoline
+467,52810.0,73935.0,Regular Gasoline
+456,55410.0,76375.0,Regular Gasoline
+467,55835.0,76965.0,Regular Gasoline
+467,54815.0,76060.0,Regular Gasoline
+468,28745.0,55820.0,Regular Gasoline
+467,28745.0,55820.0,Regular Gasoline
+463,28155.0,55220.0,Regular Gasoline
+470,39600.0,68795.0,Regular Gasoline
+467,35885.0,80435.0,Regular Gasoline
+468,33935.0,74600.0,Regular Gasoline
+472,32800.0,58645.0,Regular Gasoline
+476,52675.0,77425.0,Regular Gasoline
+473,55820.0,77085.0,Regular Gasoline
+469,55140.0,76515.0,Regular Gasoline
+466,,,Regular Gasoline
+468,,,Regular Gasoline
+466,67735.0,67735.0,Regular Gasoline
+462,67135.0,67135.0,Regular Gasoline
+468,,,Regular Gasoline
+466,,,Regular Gasoline
+467,71160.0,71160.0,Regular Gasoline
+467,70560.0,70560.0,Regular Gasoline
+472,26670.0,39630.0,Regular Gasoline
+471,26395.0,39355.0,Regular Gasoline
+470,,,Regular Gasoline
+468,36570.0,49980.0,Regular Gasoline
+472,41585.0,73730.0,Regular Gasoline
+467,41585.0,73730.0,Regular Gasoline
+467,30920.0,46015.0,Regular Gasoline
+471,32080.0,42975.0,Regular Gasoline
+468,55125.0,78115.0,Regular Gasoline
+468,53375.0,79560.0,Regular Gasoline
+471,,,Regular Gasoline
+468,34765.0,58250.0,Regular Gasoline
+468,30575.0,38790.0,Regular Gasoline
+478,34515.0,54165.0,Regular Gasoline
+468,,,Regular Gasoline
+479,,,Regular Gasoline
+480,27770.0,43365.0,Regular Gasoline
+479,27470.0,43065.0,Regular Gasoline
+479,27155.0,40120.0,Regular Gasoline
+486,,,Regular Gasoline
+485,,,Regular Gasoline
+484,,,Regular Gasoline
+494,42630.0,43370.0,Regular Gasoline
+495,42630.0,43370.0,Regular Gasoline
+494,40750.0,43035.0,Regular Gasoline
+494,40750.0,43035.0,Regular Gasoline
+493,37950.0,40840.0,Regular Gasoline
+494,36050.0,36050.0,Regular Gasoline
+494,,,Regular Gasoline
+494,,,Regular Gasoline
+494,,,Regular Gasoline
+494,,,Regular Gasoline
+494,37950.0,40840.0,Regular Gasoline
+496,36050.0,36050.0,Regular Gasoline
+494,,,Regular Gasoline
+485,59375.0,87545.0,Regular Gasoline
+484,58175.0,83615.0,Regular Gasoline
+484,56425.0,82610.0,Regular Gasoline
+500,34515.0,54165.0,Regular Gasoline
+481,,,Regular Gasoline
+494,,,Regular Gasoline
+488,33390.0,59245.0,Regular Gasoline
+495,,,Regular Gasoline
+494,,,Regular Gasoline
+495,,,Regular Gasoline
+498,32800.0,58645.0,Regular Gasoline
+494,35240.0,43590.0,Regular Gasoline
+494,58175.0,83615.0,Regular Gasoline
+494,56425.0,82610.0,Regular Gasoline
+494,58460.0,79425.0,Regular Gasoline
+494,58845.0,80110.0,Regular Gasoline
+493,57825.0,79200.0,Regular Gasoline
+494,,,Regular Gasoline
+493,,,Regular Gasoline
+494,,,Regular Gasoline
+501,61110.0,61110.0,Regular Gasoline
+497,61110.0,61110.0,Regular Gasoline
+498,,,Regular Gasoline
+503,,,Regular Gasoline
+498,49505.0,49505.0,Regular Gasoline
+503,49505.0,49505.0,Regular Gasoline
+492,30920.0,46015.0,Regular Gasoline
+498,27770.0,43365.0,Regular Gasoline
+500,27470.0,43065.0,Regular Gasoline
+490,27155.0,40120.0,Regular Gasoline
+493,26670.0,39630.0,Regular Gasoline
+490,26395.0,39355.0,Regular Gasoline
+490,46595.0,46595.0,Regular Gasoline
+484,32170.0,45130.0,Regular Gasoline
+491,31895.0,44855.0,Regular Gasoline
+494,30920.0,46015.0,Regular Gasoline
+497,33270.0,48865.0,Regular Gasoline
+497,32970.0,48565.0,Regular Gasoline
+493,32655.0,45620.0,Regular Gasoline
+493,55570.0,55570.0,Regular Gasoline
+493,55270.0,55270.0,Regular Gasoline
+494,51720.0,51720.0,Regular Gasoline
+506,33390.0,59245.0,Regular Gasoline
+513,42095.0,44590.0,Regular Gasoline
+509,42095.0,44590.0,Regular Gasoline
+523,49395.0,50685.0,Regular Gasoline
+510,46895.0,48685.0,Regular Gasoline
+530,46895.0,48685.0,Regular Gasoline
+529,44495.0,46590.0,Regular Gasoline
+519,44495.0,46590.0,Regular Gasoline
+522,,,Regular Gasoline
+531,,,Regular Gasoline
+531,,,Regular Gasoline
+527,,,Regular Gasoline
+523,,,Regular Gasoline
+523,71400.0,71400.0,Regular Gasoline
+523,70450.0,70450.0,Regular Gasoline
+526,49395.0,50685.0,Regular Gasoline
+533,42095.0,44590.0,Regular Gasoline
+523,42630.0,43370.0,Regular Gasoline
+523,40750.0,43035.0,Regular Gasoline
+523,,,Regular Gasoline
+523,,,Regular Gasoline
+525,55365.0,55365.0,Regular Gasoline
+530,46895.0,48685.0,Regular Gasoline
+538,44495.0,46590.0,Regular Gasoline
+523,35240.0,43590.0,Regular Gasoline
+523,,,Regular Gasoline
+523,,,Regular Gasoline
+522,,,Regular Gasoline
+516,,,Regular Gasoline
+518,,,Regular Gasoline
+523,71400.0,71400.0,Regular Gasoline
+523,70450.0,70450.0,Regular Gasoline
+538,,,Regular Gasoline
+537,,,Regular Gasoline
+515,30920.0,46015.0,Regular Gasoline
+514,46705.0,46705.0,Regular Gasoline
+535,57970.0,57970.0,Regular Gasoline
+524,57970.0,57970.0,Regular Gasoline
+523,55570.0,55570.0,Regular Gasoline
+523,55270.0,55270.0,Regular Gasoline
+523,51720.0,51720.0,Regular Gasoline
+552,35840.0,38735.0,Regular Gasoline
+540,,,Regular Gasoline
+553,76775.0,76775.0,Regular Gasoline
+553,,,Regular Gasoline
+553,64145.0,64145.0,Regular Gasoline
+540,53455.0,56440.0,Regular Gasoline
+540,,,Regular Gasoline
+550,59140.0,72135.0,Premium Gasoline
+549,59140.0,67135.0,Premium Gasoline
+555,,,Regular Gasoline
+562,,,Regular Gasoline
+555,77980.0,77980.0,Regular Gasoline
+563,,,Regular Gasoline
+565,,,Regular Gasoline
+577,89835.0,89835.0,Regular Gasoline
+577,76580.0,76580.0,Regular Gasoline
+577,68500.0,68500.0,Regular Gasoline
+578,,,Regular Gasoline
+578,,,Regular Gasoline
+578,64145.0,64145.0,Regular Gasoline
+593,76775.0,76775.0,Regular Gasoline
+593,,,Regular Gasoline
+593,64145.0,64145.0,Regular Gasoline
+572,35840.0,38735.0,Regular Gasoline
+572,35840.0,38735.0,Regular Gasoline
+596,,,Regular Gasoline
+596,,,Regular Gasoline
+596,64145.0,64145.0,Regular Gasoline
+632,,,Premium Gasoline
+632,,,Premium Gasoline
+632,,,Premium Gasoline
+631,80915.0,80915.0,Premium Gasoline
+631,,,Premium Gasoline
+631,59140.0,72135.0,Premium Gasoline
+654,,,Premium Gasoline
+741,,,Regular Gasoline
+741,107350.0,107350.0,Regular Gasoline
